@@ -23,7 +23,7 @@ def handle_request(request):
     elif request == '2':
         print()
     elif request == '3':
-        print()
+        return {"response" : "Quitting. Good bye."}
     else:
         return {"response" : "Invalid request. Please try again."}
 
