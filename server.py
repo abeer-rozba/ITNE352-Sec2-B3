@@ -23,7 +23,7 @@ def handle_request(request):
     elif request == '3':
         print()
     else:
-        return {"reponse" : "Invalid request. Please try again."}
+        return {"response" : "Invalid request. Please try again."}
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket.bind(server_address)
