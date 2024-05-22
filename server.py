@@ -13,15 +13,11 @@ def handle_client(client_socket, client_address):
             break
     client_socket.close()
 
-def main():
-    server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    server_socket.bind(server_address)
-    server_socket.listen(6)
+server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server_socket.bind(server_address)
+server_socket.listen(6)
 
-    while True:
-        client_socket, client_address = server_socket.accept()
-        thread = threading.Thread(target=handle_client, args=(client_socket, client_address))
-        thread.start()
-
-if __name__ == "__main__":
-    main()
+while True:
+    client_socket, client_address = server_socket.accept()
+    thread = threading.Thread(target=handle_client, args=(client_socket, client_address))
+    thread.start()
