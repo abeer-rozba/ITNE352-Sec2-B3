@@ -1,5 +1,6 @@
 import socket
 import threading
+import json
 
 server_address = ("127.0.0.1", 49158)
 
@@ -12,6 +13,7 @@ def handle_client(client_socket, client_address):
             break
         response = handle_request(request)
         print (f"Incoming request from {client} : {request}")
+        client_socket.send(json.dumps(response)).encode("ascii")
     print(f"{client} disconnected.")
     client_socket.close()
 
