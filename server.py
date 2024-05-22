@@ -10,9 +10,20 @@ def handle_client(client_socket, client_address):
         data = client_socket.recv(1024).decode("ascii")
         if not data:
             break
+        response = handle_request(request)
         print (f"Incoming request from {client} : {request}")
     print(f"{client} disconnected.")
     client_socket.close()
+
+def handle_request(request):
+    if request == '1':
+        print()
+    elif request == '2':
+        print()
+    elif request == '3':
+        print()
+    else:
+        return {"reponse" : "Invalid request. Please try again."}
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket.bind(server_address)
