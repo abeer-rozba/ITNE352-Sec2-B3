@@ -39,4 +39,51 @@ while True:
                 Client_socket.send(key_word.encode())
                 respon=Client_socket.recv(1024).decode()
                 print(respon)
+            elif choess=="2":
+                Client_socket.send("2".encode())
+                categories=["business","emtertainment","general","health","technology","sport","science"]
+                print("categories: business, emtertainment, general, health, technology, sport, science ")
+                category=input("Enter the category: " ).lowe()
+                if category not in categories:
+                    print(" Category does not exist")
+                else:
+                    Client_socket.send(category.encode())
+                    print(Client_socket.recv(1024).decode())
+            elif num=="3":
+                Client_socket.send("3".encode())
+                countries=["ma","us","sa","eg","nz","au","ae","gb","ca"]
+                print("Available countries: ma, us, sa, eg, nz, au, ae, gb, ca")
+                country=input("Enter the country code: " ).lower()
+                if country not in countries:
+                    print(" Countriy does not exist ")
+                else:
+                    Client_socket.send(country.encode())
+                    print(Client_socket.recv(1024).decode())
+           
+            elif num=="4":
+                Client_socket.send("4".encode())
+                print(Client_socket.recv(1024).decode())
+            elif num=="5":
+                Client_socket.send("5".encode())
+                break
+            time.sleep(1)
+            print_headliens_menu()
+            num=input("Enter Option Number: ")
+            
+                
+                 
+
+
+
+
+
+    
+           
+
+
+    
+    
+                
+                    
+            
 
