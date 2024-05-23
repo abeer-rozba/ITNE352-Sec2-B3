@@ -19,8 +19,16 @@ def handle_client(client_socket, client_address):
     client_socket.close()
 
 def handle_request(request):
-    if request == '1':
-        print()
+    if request.startswith('1'):
+        sub_option = request[1]
+        if sub_option == 'a':
+            keyword = input("Enter the keyword to search the headlines: ")
+            return ()
+        if sub_option == 'b':
+            category = input("Enter the category to search the headlines. Choose from business, entertainment, general, health, science, sports, technology.")
+            return ()
+        if sub_option == 'c':
+            
     elif request == '2':
         print()
     elif request == '3':
