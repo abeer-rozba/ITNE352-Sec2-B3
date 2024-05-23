@@ -18,12 +18,21 @@ def handle_client(client_socket, client_address):
     print(f"{client} disconnected.")
     client_socket.close()
 
+def h_by_keyword(keyword):
+    url = f"https://newsapi.org/v2/everything?q={keyword}&apiKey=9a1f549ac51d44f1af17ea18ca78656b"
+    response = requests.get(url)
+    if response.status_code == 200:
+        headlines = response.json()
+        return {"response" : headlines}
+    else:
+        return {"response" : "Error. Please try again."}
+
 def handle_request(request):
     if request.startswith('1'):
         sub_option = request[1]
         if sub_option == 'a':
             keyword = input("Enter the keyword to search the headlines: ")
-            return h_by_keyword()
+            return h_by_keyword(keyword)
         elif sub_option == 'b':
             category = input("Enter the category to search the headlines. Choose from business, entertainment, general, health, science, sports, technology.")
             return h_by_category()
