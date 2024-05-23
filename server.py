@@ -27,6 +27,22 @@ def h_by_keyword(keyword):
     else:
         return {"response" : "Error. Please try again."}
 
+def h_by_category(category):
+    api_key = "9a1f549ac51d44f1af17ea18ca78656b"
+    url = "https://newsapi.org/v2/top-headlines"
+    params = {
+        "api_key" = api_key
+        "category" = category
+    }
+    response = requests.get(url, params=params)
+    if response.status_code == 200:
+        headlines = response.json()
+        with open(f"{category}_headlines.json", "w") as file:
+            json.dump(headlines, file, indent=4)
+        print (f"{category} headlines have been saved to {category}_headlines.json")
+    else:
+        print ("Error.")
+
 def handle_request(request):
     if request.startswith('1'):
         sub_option = request[1]
