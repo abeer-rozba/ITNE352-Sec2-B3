@@ -24,11 +24,18 @@ def handle_request(request):
         if sub_option == 'a':
             keyword = input("Enter the keyword to search the headlines: ")
             return ()
-        if sub_option == 'b':
+        elif sub_option == 'b':
             category = input("Enter the category to search the headlines. Choose from business, entertainment, general, health, science, sports, technology.")
             return ()
-        if sub_option == 'c':
-            
+        elif sub_option == 'c':
+            country = input("Enter the country to search the headlines. Choose from Australia, New Zealand, Canada, Saudi Arabia, United Kingdom, United States, Egypt, or Morroco.")
+            return()
+        elif sub_option == 'd':
+            return fetch_all_h()
+        elif sub_option == 'e':
+            return {"Back to the main menu."}
+        else:
+            return {"Invalid. Please try again."}
     elif request == '2':
         print()
     elif request == '3':
