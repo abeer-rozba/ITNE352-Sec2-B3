@@ -37,7 +37,7 @@ while True:
                 Client_socket.send("1".encode())
                 key_word= input("Enter Keyword: ")
                 Client_socket.send(key_word.encode())
-                respon=Client_socket.recv(1024).decode()
+                respon=Client_socket.recv(6000).decode()
                 print(respon)
             elif choess=="2":
                 Client_socket.send("2".encode())
@@ -48,7 +48,7 @@ while True:
                     print(" Category does not exist")
                 else:
                     Client_socket.send(category.encode())
-                    print(Client_socket.recv(1024).decode())
+                    print(Client_socket.recv(6000).decode())
             elif num=="3":
                 Client_socket.send("3".encode())
                 countries=["ma","us","sa","eg","nz","au","ae","gb","ca"]
@@ -58,11 +58,11 @@ while True:
                     print(" Countriy does not exist ")
                 else:
                     Client_socket.send(country.encode())
-                    print(Client_socket.recv(1024).decode())
+                    print(Client_socket.recv(6000).decode())
            
             elif num=="4":
                 Client_socket.send("4".encode())
-                print(Client_socket.recv(1024).decode())
+                print(Client_socket.recv(6000).decode())
             elif num=="5":
                 Client_socket.send("5".encode())
                 break
