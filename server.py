@@ -33,11 +33,26 @@ def handle_request(request):
         elif sub_option == 'd':
             return fetch_all_h()
         elif sub_option == 'e':
-            return {"Back to the main menu."}
+            return {"response" : "Back to the main menu."}
         else:
-            return {"Invalid. Please try again."}
-    elif request == '2':
-        print()
+            return {"response" : "Invalid. Please try again."}
+    elif request.startswith('2'):
+        sub_option = request[1]
+        if sub_option == 'a':
+            category = input("Enter the category to search the sources. Choose from business, entertainment, general, health, science, sports, technology.")
+            return ()
+        elif sub_option == 'b':
+            country = input("Enter the country to search the headlines. Choose from Australia, New Zealand, Canada, Saudi Arabia, United Kingdom, United States, Egypt, or Morroco.")
+            return ()
+        elif sub_option == 'c':
+            language = input("Enter the language to search the sources. Choose either Arabic or English.")
+            return()
+        elif sub_option == 'd':
+            return fetch_all_s()
+        elif sub_option == 'e':
+            return {"response" : "Back to the main menu."}
+        else:
+            return {"response" : "Invalid. Please try again."}
     elif request == '3':
         return {"response" : "Quitting. Good bye."}
     else:
