@@ -9,8 +9,8 @@ def handle_client(client_socket, client_address):
     client = client_socket.recv(1024).decode("ascii")
     print(f"New connection accepted from: {client}")
     while True:
-        data = client_socket.recv(1024).decode("ascii")
-        if not data:
+        request = client_socket.recv(1024).decode("ascii")
+        if not request:
             break
         response = handle_request(request)
         print (f"Incoming request from {client} : {request}")
