@@ -25,5 +25,18 @@ def print_sources_menu():
     print("4 Back To The Main Menu")
 
 print_main_menu()
-choess = input("Enter The Option Number : ")
+num = input("Enter The Option Number : ")
+
+while True:
+    if num=="1":
+        Client_socket.send("1".encode())
+        print_headliens_menu()
+        num=input("Enter Option Number: ")
+        while True:
+            if choess=="1":
+                Client_socket.send("1".encode())
+                key_word= input("Enter Keyword: ")
+                Client_socket.send(key_word.encode())
+                respon=Client_socket.recv(1024).decode()
+                print(respon)
 
