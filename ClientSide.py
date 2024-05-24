@@ -86,14 +86,18 @@ while True:
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             if option == "b":
-                countries = ["ma","us","sa","eg","nz","au","ae","gb","ca"]
-                print("Available countries:  ma , us , sa , eg , nz , au ,ae , gb, ca")
-                country = input("Enter the country code : ").lower()
-                if country not in countries:
-                    print("Countriy does not exist")
+                country_codes = country_codes = {"Morocco": "ma", "United States": "us", "Saudi Arabia": "sa", "Egypt": "eg", "New Zealand": "nz", 
+                                                 "Australia": "au", "United Arab Emirates": "ae", "United Kingdom": "gb", "Canada": "ca"}
+                for country in country_codes:
+                    print(country)
+                country_name = input("Enter the country: " ).lower()
+                if country_name not in country_codes:
+                    print(" Country is not included. Try again.")
                 else:
-                    client_socket.send(country.encode())
-                    print(client_socket.recv(1024).decode())
+                    country_code = country_codes[country_name]
+                    request = "2b " + country_code
+                    client_socket.send(request.encode())
+                    print(client_socket.recv(6000).decode())
             elif option == "c":
                 languages = ["ar", "en"]
                 print("Available languages: ar, en")
