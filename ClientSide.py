@@ -32,24 +32,23 @@ option = input("Enter your option number: ")
 while True:
     if option == "1":
         print_headlines_menu()
-        option = input("Enter your option number: ")
+        option = input("Enter the letter that represents your choice: ")
         while True:
             if option == "a" or option == "A":
-                keyword = input("Enter keyword: ")
+                keyword = input("Enter headlines keyword: ")
                 request = "1a " + keyword 
                 client_socket.send(request.encode())
                 response = client_socket.recv(6000).decode()
                 print(response)
-            elif option =="2":
-                Client_socket.send("2".encode())
-                categories=["business","emtertainment","general","health","technology","sport","science"]
-                print("categories: business, emtertainment, general, health, technology, sport, science ")
-                category=input("Enter the category: " ).lowe()
+            elif option =="b":
+                categories = ["Business","Entertainment","General","Health","Technology","Sports","Science"]
+                category = input("Enter the category " + categories + ": ")
                 if category not in categories:
-                    print(" Category does not exist")
+                    print(" Category does not exist.")
                 else:
-                    Client_socket.send(category.encode())
-                    print(Client_socket.recv(6000).decode())
+                    request = "2b " + category
+                    client_socket.send(request.encode())
+                    print(client_socket.recv(6000).decode())
             elif option =="3":
                 Client_socket.send("3".encode())
                 countries=["ma","us","sa","eg","nz","au","ae","gb","ca"]
@@ -117,20 +116,3 @@ while True:
     num = input("ENTER OPTION NUMBER: ")
 
 Client_socket.close()
-                   
-                 
-
-
-
-
-
-    
-           
-
-
-    
-    
-                
-                    
-            
-
