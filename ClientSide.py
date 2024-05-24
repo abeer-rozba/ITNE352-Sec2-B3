@@ -49,13 +49,16 @@ while True:
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             elif option == "c":
-                countries = ["Morocco (ma)","United States (us)","Saudi Arabia (sa)","Egypt (eg)","New Zealand (nz)","Australia (au)",
-                             "United Arab Emirates (ae)","United Kingdom (gb)","Canada (ca)"]
-                country=input("Enter the country code " + countries + ": " ).lower()
-                if country not in countries:
+                country_codes = country_codes = {"Morocco": "ma", "United States": "us", "Saudi Arabia": "sa", "Egypt": "eg", "New Zealand": "nz", 
+                                                 "Australia": "au", "United Arab Emirates": "ae", "United Kingdom": "gb", "Canada": "ca"}
+                for country in country_codes:
+                    print(country)
+                country_name = input("Enter the country: " ).lower()
+                if country_name not in country_codes:
                     print(" Country is not included. Try again.")
                 else:
-                    request = "1c " + country
+                    country_code = country_codes[country_name]
+                    request = "1c " + country_code
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             elif option == "d":
