@@ -26,10 +26,9 @@ def print_sources_menu():
     print("d. List all")
     print("e. Back to the main menu")
 
-print_main_menu()
-option = input("Enter your option number: ")
-
 while True:
+    print_main_menu()
+    option = input("Enter your option number: ")
     if option == "1":
         print_headlines_menu()
         option = input("Enter the letter that represents your choice: ").lower()
@@ -62,12 +61,13 @@ while True:
             elif option == "d":
                 client_socket.send("1d".encode())
                 print(client_socket.recv(6000).decode())
-            elif option == "e":
+            if option == "e":
                 client_socket.send("1e".encode())
+                print(client_socket.recv(6000).decode())
                 break
             time.sleep(1)
             print_headlines_menu()
-            num=input("Enter Option Number: ")
+            option = input("Enter the letter that represents your choice: ").lower()
             
     elif option == "2":
         client_socket.send("2".encode())
