@@ -26,21 +26,21 @@ def print_sources_menu():
     print("5. Back to the main menu")
 
 print_main_menu()
-option = input("Enter The Option Number : ")
+option = input("Enter your option number: ")
 
 while True:
     if option == "1":
         Client_socket.send("1".encode())
-        print_headliens_menu()
-        num=input("Enter Option Number: ")
+        print_headlines_menu()
+        option = input("Enter your option number: ")
         while True:
-            if choess=="1":
+            if option =="1":
                 Client_socket.send("1".encode())
                 key_word= input("Enter Keyword: ")
                 Client_socket.send(key_word.encode())
                 respon=Client_socket.recv(6000).decode()
                 print(respon)
-            elif choess=="2":
+            elif option =="2":
                 Client_socket.send("2".encode())
                 categories=["business","emtertainment","general","health","technology","sport","science"]
                 print("categories: business, emtertainment, general, health, technology, sport, science ")
@@ -50,7 +50,7 @@ while True:
                 else:
                     Client_socket.send(category.encode())
                     print(Client_socket.recv(6000).decode())
-            elif num=="3":
+            elif option =="3":
                 Client_socket.send("3".encode())
                 countries=["ma","us","sa","eg","nz","au","ae","gb","ca"]
                 print("Available countries: ma, us, sa, eg, nz, au, ae, gb, ca")
@@ -61,14 +61,14 @@ while True:
                     Client_socket.send(country.encode())
                     print(Client_socket.recv(6000).decode())
            
-            elif num=="4":
+            elif option =="4":
                 Client_socket.send("4".encode())
                 print(Client_socket.recv(6000).decode())
-            elif num=="5":
+            elif option =="5":
                 Client_socket.send("5".encode())
                 break
             time.sleep(1)
-            print_headliens_menu()
+            print_headlines_menu()
             num=input("Enter Option Number: ")
             
                 
