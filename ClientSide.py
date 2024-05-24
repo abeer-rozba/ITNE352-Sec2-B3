@@ -70,13 +70,13 @@ while True:
             num=input("Enter Option Number: ")
             
     elif choess == "2":
-        Client_socket.send("2".encode())
+        client_socket.send("2".encode())
         print_sources_menu()
-        num = input("Enter option Number:  ")
+        option = input("Enter option Number:  ")
 
         while True:
-            if num == "1":
-                Client_socket.send("1".encode())
+            if option == "1":
+                client_socket.send("1".encode())
                 countries = ["ma","us","sa","eg","nz","au","ae","gb","ca"]
                 print("Available countries:  ma , us , sa , eg , nz , au ,ae , gb, ca")
                 country = input("Enter the country code : ").lower()
@@ -84,34 +84,34 @@ while True:
                     print("Countriy does not exist")
                 else:
                     client_socket.send(country.encode())
-                    print(Client_socket.recv(1024).decode())
-            elif num == "2":
-                Client_socket.send("2".encode())
+                    print(client_socket.recv(1024).decode())
+            elif option == "2":
+                client_socket.send("2".encode())
                 languages = ["ar", "en"]
                 print("Available languages: ar, en")
                 Language = input("Enter the language code : ").lower()
                 if Language not in languages:
                     print("This Language Does Not Exist")
                 else:
-                    Client_socket.send(Language.encode())
-                    print(Client_socket.recv(6000).decode())
-            elif num == "3":
-                Client_socket.send("3".encode())
-                print(Client_socket.recv(6000).decode())
-            elif num == "4":
-                Client_socket.send("4".encode())
+                    client_socket.send(Language.encode())
+                    print(client_socket.recv(6000).decode())
+            elif option == "3":
+                client_socket.send("3".encode())
+                print(client_socket.recv(6000).decode())
+            elif option == "4":
+                client_socket.send("4".encode())
                 break
             
             print_sources_menu()
-            num = input("Enter option Number: ")
+            option = input("Enter option Number: ")
 
-    elif num == "3":
+    elif option == "3":
         print("QUIT" )
         break
     else:
         print("Invalid option")
     
     print_main_menu()
-    num = input("ENTER OPTION NUMBER: ")
+    option = input("ENTER OPTION NUMBER: ")
 
-Client_socket.close()
+client_socket.close()
