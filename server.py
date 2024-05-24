@@ -53,8 +53,9 @@ def h_by_category(category, client):
         with open(file, "w") as f:
             json.dump(headlines, f, indent=4)
         print (f"{category} headlines have been saved to {file}")
+        return headlines
     else:
-        print ("Error.")
+        return {"response" : "Error."}
 
 def handle_request(request, client):
     if request.startswith('1'):
