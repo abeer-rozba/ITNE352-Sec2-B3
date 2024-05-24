@@ -13,7 +13,11 @@ def handle_client(client_socket, client_address):
         if not request:
             break
         response = handle_request(request, client)
-        print (f"Incoming request from {client} : {request}")
+        print (f"Incoming request from {client} :")
+        if request.startswith("1"):
+            print (f"Looking for {request[3:]} headlines.")
+        if request.startswith("2"):
+            print (f"Looking for {request[3:]} sources.")
         client_socket.send(json.dumps(response).encode())
     print(f"{client} disconnected.")
     client_socket.close()
@@ -27,7 +31,7 @@ def h_by_keyword(keyword, client):
     response = requests.get(url, params=params)
     if response.status_code == 200:
         headlines = response.json()
-        file = f"B3_{client}_1a.json"
+        file = f"B3_{client}_keyword_headlines.json"
         with open(file, "w") as f:
             json.dump(headlines, f, indent=4)
         print (f"{keyword} headlines have been saved to {file}")
