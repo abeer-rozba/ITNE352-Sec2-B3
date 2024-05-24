@@ -99,13 +99,14 @@ while True:
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             elif option == "c":
-                language = ["ar", "en"]
-                print("Available languages: ar, en")
-                Language = input("Enter the language code : ").lower()
-                if Language not in languages:
-                    print("This Language Does Not Exist")
+                language_code = {"arabic":"ar", "english": "en"}
+                language_name = input("Choose your desired language (Arabic or English): ").lower()
+                if language_name not in language_code:
+                    print("This language is not available.")
                 else:
-                    client_socket.send(Language.encode())
+                    language = language_code[language_name]
+                    request = "2c " + language
+                    client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             elif option == "d":
                 print(client_socket.recv(6000).decode())
