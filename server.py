@@ -57,6 +57,29 @@ def h_by_category(category, client):
     else:
         return {"response" : "Error."}
 
+def h_by_country(country, client):
+    api_key = "9a1f549ac51d44f1af17ea18ca78656b"
+    url = "https://newsapi.org/v2/top-headlines"
+    params = {
+        "apiKey" : api_key,
+        "country" : country
+    }
+    response = requests.get(url, params=params)
+    country_codes = {"ma": "Morocco", "us": "United States", "sa": "Saudi Arabia", "eg": "Egypt", "nz": "New Zealand", 
+                    "au": "Australia", "ae": "United Arab Emirates", "gb": "United Kingdom", "ca": "Canada"}
+    for country_code in country_codes:
+        if country == country_code:
+            country_name = country_codes[country_code]
+    if response.status_code == 200:
+        headlines = response.json()
+        file = f"B3_{client}_{country_name}_headlines.json"
+        with open(file, "w") as f:
+            json.dump(headlines, f, indent=4)
+        print (f"{country_name} headlines have been saved to {file}")
+        return headlines
+    else:
+        return {"response" : "Error."}
+
 def handle_request(request, client):
     if request.startswith('1'):
         sub_option = request[1]
