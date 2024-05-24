@@ -49,8 +49,8 @@ while True:
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             elif option == "c":
-                country_codes = country_codes = {"Morocco": "ma", "United States": "us", "Saudi Arabia": "sa", "Egypt": "eg", "New Zealand": "nz", 
-                                                 "Australia": "au", "United Arab Emirates": "ae", "United Kingdom": "gb", "Canada": "ca"}
+                country_codes = {"Morocco": "ma", "United States": "us", "Saudi Arabia": "sa", "Egypt": "eg", "New Zealand": "nz", 
+                                 "Australia": "au", "United Arab Emirates": "ae", "United Kingdom": "gb", "Canada": "ca"}
                 for country in country_codes:
                     print(country)
                 country_name = input("Enter the country: " ).lower()
@@ -86,8 +86,8 @@ while True:
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             if option == "b":
-                country_codes = country_codes = {"Morocco": "ma", "United States": "us", "Saudi Arabia": "sa", "Egypt": "eg", "New Zealand": "nz", 
-                                                 "Australia": "au", "United Arab Emirates": "ae", "United Kingdom": "gb", "Canada": "ca"}
+                country_codes = {"Morocco": "ma", "United States": "us", "Saudi Arabia": "sa", "Egypt": "eg", "New Zealand": "nz", 
+                                "Australia": "au", "United Arab Emirates": "ae", "United Kingdom": "gb", "Canada": "ca"}
                 for country in country_codes:
                     print(country)
                 country_name = input("Enter the country: " ).lower()
@@ -99,7 +99,7 @@ while True:
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             elif option == "c":
-                languages = ["ar", "en"]
+                language = ["ar", "en"]
                 print("Available languages: ar, en")
                 Language = input("Enter the language code : ").lower()
                 if Language not in languages:
