@@ -67,9 +67,7 @@ def h_by_country(country, client):
     response = requests.get(url, params=params)
     country_codes = {"ma": "Morocco", "us": "United States", "sa": "Saudi Arabia", "eg": "Egypt", "nz": "New Zealand", 
                     "au": "Australia", "ae": "United Arab Emirates", "gb": "United Kingdom", "ca": "Canada"}
-    for country_code in country_codes:
-        if country == country_code:
-            country_name = country_codes[country_code]
+    country_name = country_codes.get(country)
     if response.status_code == 200:
         headlines = response.json()
         file = f"B3_{client}_{country_name}_headlines.json"
