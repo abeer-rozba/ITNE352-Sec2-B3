@@ -49,7 +49,7 @@ def h_by_category(category, client):
     response = requests.get(url, params=params)
     if response.status_code == 200:
         headlines = response.json()
-        file = f"B3_{client}_1b.json"
+        file = f"B3_{client}_{category}_headlines.json"
         with open(file, "w") as f:
             json.dump(headlines, f, indent=4)
         print (f"{category} headlines have been saved to {file}")
