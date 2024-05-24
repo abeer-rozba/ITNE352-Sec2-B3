@@ -69,7 +69,7 @@ while True:
             print_headlines_menu()
             num=input("Enter Option Number: ")
             
-    elif choess == "2":
+    elif option == "2":
         client_socket.send("2".encode())
         print_sources_menu()
         option = input("Enter option Number:  ")
