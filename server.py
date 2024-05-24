@@ -94,6 +94,24 @@ def fetch_all_h(client):
         return headlines
     else:
         return {"response" : "Error."}
+
+def s_by_category(category, client):
+    api_key = "9a1f549ac51d44f1af17ea18ca78656b"
+    url = "https://newsapi.org/v2/sources"
+    params = {
+        "apiKey" : api_key,
+        "category" : category
+    }
+    response = requests.get(url, params=params)
+    if response.status_code == 200:
+        sources = response.json()
+        file = f"B3_{client}_{category}_sources.json"
+        with open(file, "w") as f:
+            json.dump(sources, f, indent=4)
+        print (f"{category} sources have been saved to {file}")
+        return sources
+    else:
+        return {"response" : "Error."}
     
 def handle_request(request, client):
     if request.startswith('1'):
