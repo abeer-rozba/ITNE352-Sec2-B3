@@ -74,7 +74,7 @@ while True:
             
     elif option == "2":
         print_sources_menu()
-        option = input("Enter your option number: ")
+        option = input("Enter the letter that represents your choice: ").lower()
         while True:
             if option == "a":
                 categories = ["business","entertainment","general","health","technology","sports","science"]
