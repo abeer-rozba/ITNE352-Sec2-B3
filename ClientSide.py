@@ -30,16 +30,16 @@ option = input("Enter your option number: ")
 
 while True:
     if option == "1":
-        Client_socket.send("1".encode())
+        client_socket.send("1".encode("ascii"))
         print_headlines_menu()
         option = input("Enter your option number: ")
         while True:
-            if option =="1":
-                Client_socket.send("1".encode())
-                key_word= input("Enter Keyword: ")
-                Client_socket.send(key_word.encode())
-                respon=Client_socket.recv(6000).decode()
-                print(respon)
+            if option == "1":
+                client_socket.send("1".encode("ascii"))
+                keyword = input("Enter keyword: ")
+                client_socket.send(keyword.encode("ascii"))
+                response = client_socket.recv(6000).decode("ascii")
+                print(response)
             elif option =="2":
                 Client_socket.send("2".encode())
                 categories=["business","emtertainment","general","health","technology","sport","science"]
