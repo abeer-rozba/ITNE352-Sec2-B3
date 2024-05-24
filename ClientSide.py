@@ -74,11 +74,18 @@ while True:
             
     elif option == "2":
         print_sources_menu()
-        option = input("Enter option Number:  ")
-
+        option = input("Enter your option number: ")
         while True:
-            if option == "1":
-                client_socket.send("1".encode())
+            if option == "a":
+                categories = ["business","entertainment","general","health","technology","sports","science"]
+                category = input("Enter the category " + categories + ": ").lower()
+                if category not in categories:
+                    print(" Category does not exist.")
+                else:
+                    request = "2a " + category
+                    client_socket.send(request.encode())
+                    print(client_socket.recv(6000).decode())
+            if option == "b":
                 countries = ["ma","us","sa","eg","nz","au","ae","gb","ca"]
                 print("Available countries:  ma , us , sa , eg , nz , au ,ae , gb, ca")
                 country = input("Enter the country code : ").lower()
@@ -87,8 +94,7 @@ while True:
                 else:
                     client_socket.send(country.encode())
                     print(client_socket.recv(1024).decode())
-            elif option == "2":
-                client_socket.send("2".encode())
+            elif option == "c":
                 languages = ["ar", "en"]
                 print("Available languages: ar, en")
                 Language = input("Enter the language code : ").lower()
@@ -97,10 +103,9 @@ while True:
                 else:
                     client_socket.send(Language.encode())
                     print(client_socket.recv(6000).decode())
-            elif option == "3":
-                client_socket.send("3".encode())
+            elif option == "d":
                 print(client_socket.recv(6000).decode())
-            elif option == "4":
+            elif option == "e":
                 client_socket.send("4".encode())
                 break
             
