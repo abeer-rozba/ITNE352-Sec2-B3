@@ -109,13 +109,13 @@ while True:
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
             elif option == "d":
+                client_socket.send("2d".encode())
                 print(client_socket.recv(6000).decode())
             elif option == "e":
-                client_socket.send("4".encode())
+                client_socket.send("2e".encode())
                 break
-            
             print_sources_menu()
-            option = input("Enter your option number: ")
+            option = input("Enter the letter that represents your choice: ").lower()
 
     elif option == "3":
         client_socket.send("3".encode())
