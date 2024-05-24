@@ -31,8 +31,8 @@ def h_by_category(category):
     api_key = "9a1f549ac51d44f1af17ea18ca78656b"
     url = "https://newsapi.org/v2/top-headlines"
     params = {
-        "api_key" = api_key
-        "category" = category
+        "api_key" : api_key,
+        "category" : category
     }
     response = requests.get(url, params=params)
     if response.status_code == 200:
