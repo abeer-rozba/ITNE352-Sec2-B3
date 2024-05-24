@@ -4,7 +4,8 @@ import time
 
 client_socket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 client_socket.connect(("127.0.0.1", 49158))
-client_socket.send("ClientSide".encode()) #Establish a connection with the server
+client_name = input("Enter client name: ")
+client_socket.send(client_name.encode())
 
 def print_main_menu():
     print("1. Search headlines")
@@ -30,15 +31,15 @@ option = input("Enter your option number: ")
 
 while True:
     if option == "1":
-        client_socket.send("1".encode("ascii"))
+        client_socket.send("1".encode())
         print_headlines_menu()
         option = input("Enter your option number: ")
         while True:
             if option == "1":
-                client_socket.send("1".encode("ascii"))
+                client_socket.send("1".encode())
                 keyword = input("Enter keyword: ")
-                client_socket.send(keyword.encode("ascii"))
-                response = client_socket.recv(6000).decode("ascii")
+                client_socket.send(keyword.encode())
+                response = client_socket.recv(6000).decode()
                 print(response)
             elif option =="2":
                 Client_socket.send("2".encode())
