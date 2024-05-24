@@ -12,26 +12,33 @@ def handle_client(client_socket, client_address):
         request = client_socket.recv(1024).decode("ascii")
         if not request:
             break
-        response = handle_request(request)
+        response = handle_request(request, client)
         print (f"Incoming request from {client} : {request}")
         client_socket.send(json.dumps(response).encode("ascii"))
     print(f"{client} disconnected.")
     client_socket.close()
 
-def h_by_keyword(keyword):
-    url = f"https://newsapi.org/v2/everything?q={keyword}&apiKey=9a1f549ac51d44f1af17ea18ca78656b"
-    response = requests.get(url)
+def h_by_keyword(keyword, client):
+    api_key = "9a1f549ac51d44f1af17ea18ca78656b"
+    url = f"https://newsapi.org/v2/everything?q={keyword}"
+    params = {
+        "apiKey" : api_key,
+    }
+    response = requests.get(url, params=params)
     if response.status_code == 200:
         headlines = response.json()
-        return {"response" : headlines}
+        file = f"B3_{client}_1a.json"
+        with open(file, "w") as f:
+            json.dump(headlines, f, indent=4)
+        print (f"{keyword} headlines have been saved to {file}")
     else:
-        return {"response" : "Error. Please try again."}
+        print ("Error.")
 
-def h_by_category(category):
+def h_by_category(category, client):
     api_key = "9a1f549ac51d44f1af17ea18ca78656b"
     url = "https://newsapi.org/v2/top-headlines"
     params = {
-        "api_key" : api_key,
+        "apiKey" : api_key,
         "category" : category
     }
     response = requests.get(url, params=params)
@@ -44,20 +51,20 @@ def h_by_category(category):
     else:
         print ("Error.")
 
-def handle_request(request):
+def handle_request(request, client):
     if request.startswith('1'):
         sub_option = request[1]
         if sub_option == 'a':
             keyword = input("Enter the keyword to search the headlines: ")
-            return h_by_keyword(keyword)
+            return h_by_keyword(keyword, client)
         elif sub_option == 'b':
             category = input("Enter the category to search the headlines. Choose from business, entertainment, general, health, science, sports, technology.")
-            return h_by_category(category)
+            return h_by_category(category, client)
         elif sub_option == 'c':
             country = input("Enter the country to search the headlines. Choose from Australia, New Zealand, Canada, Saudi Arabia, United Kingdom, United States, Egypt, or Morroco.")
-            return h_by_country(country)
+            return h_by_country(country, client)
         elif sub_option == 'd':
-            return fetch_all_h()
+            return fetch_all_h(client)
         elif sub_option == 'e':
             return {"response" : "Back to the main menu."}
         else:
@@ -66,15 +73,15 @@ def handle_request(request):
         sub_option = request[1]
         if sub_option == 'a':
             category = input("Enter the category to search the sources. Choose from business, entertainment, general, health, science, sports, technology.")
-            return s_by_category(category)
+            return s_by_category(category, client)
         elif sub_option == 'b':
             country = input("Enter the country to search the headlines. Choose from Australia, New Zealand, Canada, Saudi Arabia, United Kingdom, United States, Egypt, or Morroco.")
-            return s_by_country(country)
+            return s_by_country(country, client)
         elif sub_option == 'c':
             language = input("Enter the language to search the sources. Choose either Arabic or English.")
-            return s_by_language(language)
+            return s_by_language(language, client)
         elif sub_option == 'd':
-            return fetch_all_s()
+            return fetch_all_s(client)
         elif sub_option == 'e':
             return {"response" : "Back to the main menu."}
         else:
