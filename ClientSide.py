@@ -32,29 +32,29 @@ option = input("Enter your option number: ")
 while True:
     if option == "1":
         print_headlines_menu()
-        option = input("Enter the letter that represents your choice: ")
+        option = input("Enter the letter that represents your choice: ").lower()
         while True:
-            if option == "a" or option == "A":
+            if option == "a":
                 keyword = input("Enter headlines keyword: ")
                 request = "1a " + keyword 
                 client_socket.send(request.encode())
                 response = client_socket.recv(6000).decode()
                 print(response)
-            elif option =="b" or option == "B":
-                categories = ["Business","Entertainment","General","Health","Technology","Sports","Science"]
-                category = input("Enter the category " + categories + ": ")
+            elif option =="b":
+                categories = ["business","entertainment","general","health","technology","sports","science"]
+                category = input("Enter the category " + categories + ": ").lower()
                 if category not in categories:
                     print(" Category does not exist.")
                 else:
                     request = "1b " + category
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
-            elif option == "c" or option == "C":
+            elif option == "c":
                 countries = ["Morocco (ma)","United States (us)","Saudi Arabia (sa)","Egypt (eg)","New Zealand (nz)","Australia (au)",
                              "United Arab Emirates (ae)","United Kingdom (gb)","Canada (ca)"]
                 country=input("Enter the country code " + countries + ": " ).lower()
                 if country not in countries:
-                    print(" Countriy is not included. Try again.")
+                    print(" Country is not included. Try again.")
                 else:
                     request = "1c " + country
                     client_socket.send(request.encode())
