@@ -101,7 +101,11 @@ server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_socket.bind(server_address)
 server_socket.listen(6)
 
-while True:
-    client_socket, client_address = server_socket.accept()
-    thread = threading.Thread(target=handle_client, args=(client_socket, client_address))
-    thread.start()
+try:
+    while True:
+        client_socket, client_address = server_socket.accept()
+        thread = threading.Thread(target=handle_client, args=(client_socket, client_address))
+        thread.start()
+except KeyboardInterrupt:
+    print("The server has been interrupted. Closing.")
+    server_socket.close()
