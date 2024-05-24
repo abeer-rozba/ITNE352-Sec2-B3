@@ -59,12 +59,11 @@ while True:
                     request = "1c " + country
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
-           
-            elif option =="4":
-                Client_socket.send("4".encode())
-                print(Client_socket.recv(6000).decode())
-            elif option =="5":
-                Client_socket.send("5".encode())
+            elif option == "d":
+                client_socket.send("1d".encode())
+                print(client_socket.recv(6000).decode())
+            elif option == "e":
+                client_socket.send("1e".encode())
                 break
             time.sleep(1)
             print_headlines_menu()
