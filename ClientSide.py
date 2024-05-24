@@ -2,33 +2,34 @@ import socket
 import threading
 import time
 
-Client_socket=socket.socket(socket.AF_INET,socket.SOCK_STREA)
-Client_socket.connect(("127.0.0.1",49158))
-Client_socket.send("ClientSide".encode()) #Establish a connection with the server
+client_socket=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+client_socket.connect(("127.0.0.1", 49158))
+client_socket.send("ClientSide".encode()) #Establish a connection with the server
 
 def print_main_menu():
-    print("1. Serch Headlines")
-    print("2. List Of the Sources ")
-    print("3. QUIT")
+    print("1. Search headlines")
+    print("2. List of sources")
+    print("3. Quit")
 
 def print_headlines_menu():
-    print("1. Search For Keyword")
-    print("2.Search By Catogry")
-    print("3. Search By Country")
-    print("4. List All New Headliens")
-    print("5. Back To The Main Menu")
+    print("1. Search for keywords")
+    print("2.Search by category")
+    print("3. Search by country")
+    print("4. List all new headlines")
+    print("5. Back to the main menu")
 
 def print_sources_menu():
-    print("1 Search By Country")
-    print("2 Search By Language")
-    print("3 List All")
-    print("4 Back To The Main Menu")
+    print("1. Search by category")
+    print("2. Search by country")
+    print("3. Search by language")
+    print("4. List all")
+    print("5. Back to the main menu")
 
 print_main_menu()
-num = input("Enter The Option Number : ")
+option = input("Enter The Option Number : ")
 
 while True:
-    if num=="1":
+    if option == "1":
         Client_socket.send("1".encode())
         print_headliens_menu()
         num=input("Enter Option Number: ")
