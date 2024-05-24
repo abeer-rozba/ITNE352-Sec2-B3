@@ -73,7 +73,6 @@ while True:
             option = input("Enter the letter that represents your choice: ").lower()
             
     elif option == "2":
-        client_socket.send("2".encode())
         print_sources_menu()
         option = input("Enter option Number:  ")
 
@@ -106,15 +105,13 @@ while True:
                 break
             
             print_sources_menu()
-            option = input("Enter option Number: ")
+            option = input("Enter your option number: ")
 
     elif option == "3":
-        print("QUIT" )
+        client_socket.send("3".encode())
+        print(client_socket.recv(6000).decode())
         break
     else:
-        print("Invalid option")
-    
-    print_main_menu()
-    option = input("ENTER OPTION NUMBER: ")
+        print("Invalid option.")
 
 client_socket.close()
