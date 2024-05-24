@@ -112,6 +112,28 @@ def s_by_category(category, client):
         return sources
     else:
         return {"response" : "Error."}
+
+def s_by_country(country, client):
+    api_key = "9a1f549ac51d44f1af17ea18ca78656b"
+    url = "https://newsapi.org/v2/sources"
+    params = {
+        "apiKey" : api_key,
+        "country" : country
+    }
+    response = requests.get(url, params=params)
+    country_codes = {"ma": "Morocco", "us": "United States", "sa": "Saudi Arabia", "eg": "Egypt", "nz": "New Zealand", 
+                    "au": "Australia", "ae": "United Arab Emirates", "gb": "United Kingdom", "ca": "Canada"}
+    country_name = country_codes.get(country)
+    if response.status_code == 200:
+        sources = response.json()
+        file = f"B3_{client}_{country_name}_sources.json"
+        with open(file, "w") as f:
+            json.dump(sources, f, indent=4)
+        print (f"{country_name} sources have been saved to {file}")
+        return sources
+    else:
+        return {"response" : "Error."}
+    
     
 def handle_request(request, client):
     if request.startswith('1'):
