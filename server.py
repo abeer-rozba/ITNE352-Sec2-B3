@@ -35,8 +35,9 @@ def h_by_keyword(keyword, client):
         with open(file, "w") as f:
             json.dump(headlines, f, indent=4)
         print (f"{keyword} headlines have been saved to {file}")
+        return headlines
     else:
-        print ("Error.")
+        return {"response" : "Error."}
 
 def h_by_category(category, client):
     api_key = "9a1f549ac51d44f1af17ea18ca78656b"
