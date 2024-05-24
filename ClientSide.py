@@ -40,25 +40,25 @@ while True:
                 client_socket.send(request.encode())
                 response = client_socket.recv(6000).decode()
                 print(response)
-            elif option =="b":
+            elif option =="b" or option == "B":
                 categories = ["Business","Entertainment","General","Health","Technology","Sports","Science"]
                 category = input("Enter the category " + categories + ": ")
                 if category not in categories:
                     print(" Category does not exist.")
                 else:
-                    request = "2b " + category
+                    request = "1b " + category
                     client_socket.send(request.encode())
                     print(client_socket.recv(6000).decode())
-            elif option =="3":
-                Client_socket.send("3".encode())
-                countries=["ma","us","sa","eg","nz","au","ae","gb","ca"]
-                print("Available countries: ma, us, sa, eg, nz, au, ae, gb, ca")
-                country=input("Enter the country code: " ).lower()
+            elif option == "c" or option == "C":
+                countries = ["Morocco (ma)","United States (us)","Saudi Arabia (sa)","Egypt (eg)","New Zealand (nz)","Australia (au)",
+                             "United Arab Emirates (ae)","United Kingdom (gb)","Canada (ca)"]
+                country=input("Enter the country code " + countries + ": " ).lower()
                 if country not in countries:
-                    print(" Countriy does not exist ")
+                    print(" Countriy is not included. Try again.")
                 else:
-                    Client_socket.send(country.encode())
-                    print(Client_socket.recv(6000).decode())
+                    request = "1c " + country
+                    client_socket.send(request.encode())
+                    print(client_socket.recv(6000).decode())
            
             elif option =="4":
                 Client_socket.send("4".encode())
