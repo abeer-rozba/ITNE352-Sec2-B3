@@ -13,32 +13,31 @@ def print_main_menu():
     print("3. Quit")
 
 def print_headlines_menu():
-    print("1. Search for keywords")
-    print("2.Search by category")
-    print("3. Search by country")
-    print("4. List all new headlines")
-    print("5. Back to the main menu")
+    print("a. Search for keywords")
+    print("b.Search by category")
+    print("c. Search by country")
+    print("d. List all new headlines")
+    print("e. Back to the main menu")
 
 def print_sources_menu():
-    print("1. Search by category")
-    print("2. Search by country")
-    print("3. Search by language")
-    print("4. List all")
-    print("5. Back to the main menu")
+    print("a. Search by category")
+    print("b. Search by country")
+    print("c. Search by language")
+    print("d. List all")
+    print("e. Back to the main menu")
 
 print_main_menu()
 option = input("Enter your option number: ")
 
 while True:
     if option == "1":
-        client_socket.send("1".encode())
         print_headlines_menu()
         option = input("Enter your option number: ")
         while True:
-            if option == "1":
-                client_socket.send("1".encode())
+            if option == "a" or option == "A":
                 keyword = input("Enter keyword: ")
-                client_socket.send(keyword.encode())
+                request = "1a " + keyword 
+                client_socket.send(request.encode())
                 response = client_socket.recv(6000).decode()
                 print(response)
             elif option =="2":
