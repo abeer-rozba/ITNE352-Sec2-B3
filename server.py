@@ -55,13 +55,13 @@ def handle_request(request, client):
     if request.startswith('1'):
         sub_option = request[1]
         if sub_option == 'a':
-            keyword = input("Enter the keyword to search the headlines: ")
+            keyword = request[3:]
             return h_by_keyword(keyword, client)
         elif sub_option == 'b':
-            category = input("Enter the category to search the headlines. Choose from business, entertainment, general, health, science, sports, technology.")
+            category = request[3:]
             return h_by_category(category, client)
         elif sub_option == 'c':
-            country = input("Enter the country to search the headlines. Choose from Australia, New Zealand, Canada, Saudi Arabia, United Kingdom, United States, Egypt, or Morroco.")
+            country = request[3:]
             return h_by_country(country, client)
         elif sub_option == 'd':
             return fetch_all_h(client)
@@ -72,13 +72,13 @@ def handle_request(request, client):
     elif request.startswith('2'):
         sub_option = request[1]
         if sub_option == 'a':
-            category = input("Enter the category to search the sources. Choose from business, entertainment, general, health, science, sports, technology.")
+            category = request[3:]
             return s_by_category(category, client)
         elif sub_option == 'b':
-            country = input("Enter the country to search the headlines. Choose from Australia, New Zealand, Canada, Saudi Arabia, United Kingdom, United States, Egypt, or Morroco.")
+            country = request[3:]
             return s_by_country(country, client)
         elif sub_option == 'c':
-            language = input("Enter the language to search the sources. Choose either Arabic or English.")
+            language = request[3:]
             return s_by_language(language, client)
         elif sub_option == 'd':
             return fetch_all_s(client)
