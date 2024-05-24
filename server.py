@@ -6,15 +6,15 @@ import requests
 server_address = ("127.0.0.1", 49158)
 
 def handle_client(client_socket, client_address):
-    client = client_socket.recv(1024).decode("ascii")
+    client = client_socket.recv(1024).decode()
     print(f"New connection accepted from: {client}")
     while True:
-        request = client_socket.recv(1024).decode("ascii")
+        request = client_socket.recv(1024).decode()
         if not request:
             break
         response = handle_request(request, client)
         print (f"Incoming request from {client} : {request}")
-        client_socket.send(json.dumps(response).encode("ascii"))
+        client_socket.send(json.dumps(response).encode())
     print(f"{client} disconnected.")
     client_socket.close()
 
