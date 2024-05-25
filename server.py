@@ -154,6 +154,23 @@ def s_by_language(language, client):
         return sources
     else:
         return {"response" : "Error."}
+
+def fetch_all_s(client):
+    api_key = "9a1f549ac51d44f1af17ea18ca78656b"
+    url = "https://newsapi.org/v2/sources"
+    params = {
+        "apiKey" : api_key,
+    }
+    response = requests.get(url, params=params)
+    if response.status_code == 200:
+        sources = response.json()
+        file = f"B3_{client}_all_sources.json"
+        with open(file, "w") as f:
+            json.dump(sources, f, indent=4)
+        print (f"All sources have been saved to {file}")
+        return sources
+    else:
+        return {"response" : "Error."}
     
 def handle_request(request, client):
     if request.startswith('1'):
