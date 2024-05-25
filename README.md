@@ -7,7 +7,7 @@ Group: B3<br>
 Course code: ITNE352<br>
 Section: 2<br>
 Names: Abeer Mohammed Saleh Rozba 202102513 / Muna Abdullah Hussain 202103471<br>
-Requirements:<br> <b>To set up the server:<b><br>
+Requirements:<br> <b>To set up the server:</b><br>
 1- Clone this repository to your local machine.<br>
 2- Install the requests library using pip to make HTTP requests.<br>
 3- Replace the api_key value in the server script with your News API key.<br>
