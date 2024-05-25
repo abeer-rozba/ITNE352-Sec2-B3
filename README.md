@@ -25,4 +25,11 @@ Names: Abeer Mohammed Saleh Rozba 202102513 / Muna Abdullah Hussain 202103471<br
 <i>requests: </i> enables to send HTTP requests to NewsAPI.org to fetch information.<br>
 <i><b>Main functions: </b></i></br>
 <i>handle_client(): </i> takes the client socket and address as parameters, accepts and announces the new connection before receiving, printing, and processing client request by calling handle_request() function.<br>
-<i>handle_request(): </i> takes the request and client name as parameters, then checks and slices the request to find the sub option before calling the appropriate function to fetch the repsonse.
+<i>handle_request(): </i> takes the request and client name as parameters, then checks and slices the request to find the sub option before calling the appropriate function to fetch the repsonse.<br>
+<b>Client script:</b><br>
+<i><b>Main functionality: </b></i> the client establishes TCP connection with the server. It prints the main menu and sub menus according to the client's choice before sending his request to the server then receiving and printing the response.<br>
+<i>socket: </i> creates a TCP client socket and connects to the server.<br>
+<i>json: </i> is utilized to encode and decode json data with the server.<br>
+<i>time: </i> adds delays in client script.<br>
+<i><b>Main functions: </b></i></br>
+<i>print_main_menu(), print_headlines_menu(), print_sources_menu(): </i> display a menu and options for the user to choose from to filter the news information.
