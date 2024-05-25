@@ -7,7 +7,7 @@
 <b>Course code: </b>ITNE352<br>
 <b>Section: </b>2<br>
 <b>Names: </b>Abeer Mohammed Saleh Rozba 202102513 / Muna Abdullah Hussain 202103471<br>
-<b><i>Requirements:</i></b><br><b>To set up the server:</b><br>
+<i>Requirements:</i><br><b>To set up the server:</b><br>
 1- Clone this repository to your local machine then navigate to the server script.<br>
 2- Install the requests library using pip to make HTTP requests.<br>
 3- Replace the api_key value in the server script with your News API key.<br>
