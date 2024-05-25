@@ -28,6 +28,7 @@ Names: Abeer Mohammed Saleh Rozba 202102513 / Muna Abdullah Hussain 202103471<br
 <i>handle_request(): </i> takes the request and client name as parameters, then checks and slices the request to find the sub option before calling the appropriate function to fetch the repsonse.<br>
 <b>Client script:</b><br>
 <i><b>Main functionality: </b></i> the client establishes TCP connection with the server. It prints the main menu and sub menus according to the client's choice before sending his request to the server then receiving and printing the response.<br>
+<i><b>Packages: </b></i></br>
 <i>socket: </i> creates a TCP client socket and connects to the server.<br>
 <i>json: </i> is utilized to encode and decode json data with the server.<br>
 <i>time: </i> adds delays in client script.<br>
