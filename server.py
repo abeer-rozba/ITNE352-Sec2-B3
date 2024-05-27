@@ -31,7 +31,7 @@ def h_by_keyword(keyword, client):
     response = requests.get(url, params=params)
     if response.status_code == 200:
         headlines = response.json()
-        file = f"B3_{client}_keyword_headlines.json"
+        file = f"B3_{client}_{keyword}_headlines.json"
         with open(file, "w") as f:
             json.dump(headlines, f, indent=4)
         print (f"{keyword} headlines have been saved to {file}")
