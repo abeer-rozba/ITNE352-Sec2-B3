@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 13469,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Vinamrata Chaturvedi, Quartz",
+            "title": "Everything to Know About Bitcoin Pizza Day",
+            "description": "On May 22, 2010, a man in Florida paid 10,000 Bitcoin for pizza.Read more...",
+            "url": "https://gizmodo.com/bitcoin-pizza-day-date-origin-history-cryptocurrency-1851487831",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/98aec6479bad523f5c89763f4acf0cf9.jpg",
+            "publishedAt": "2024-05-20T13:20:00Z",
+            "content": "On January 3, 2009, Bitcoins creator, Satoshi Nakamoto, mined the first block of the Bitcoin blockchain, known as the Genesis Block, which contained a reward of 50 Bitcoin. The technical foundations \u2026 [+1156 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "A Vast New Dataset Could Supercharge the AI Hunt for Crypto Money Laundering",
+            "description": "Blockchain analysis firm Elliptic, MIT, and IBM, have released a new AI detection model\u2014and the 200-million-transaction dataset it's trained on\u2014that aims to spot the \u201cshape\u201d of Bitcoin money laundering.",
+            "url": "https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/",
+            "urlToImage": "https://media.wired.com/photos/6631a1936dc0c77846852ed5/191:100/w_1280,c_limit/Crypto-Money-Laundering-Security-GettyImages-1543076825.jpg",
+            "publishedAt": "2024-05-01T13:00:00Z",
+            "content": "As a test of their resulting AI tool, the researchers checked its outputs with one cryptocurrency exchangewhich the paper doesn't nameidentifying 52 suspicious chains of transactions that had all ult\u2026 [+3279 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Joel Khalili",
+            "title": "Craig Wright Lied About Creating Bitcoin And Faked Evidence, Judge Rules",
+            "description": "A UK judge has determined that Craig Wright forged evidence in a campaign to prove he is Satoshi Nakamoto, creator of Bitcoin, in a move that prevents him from bringing further lawsuits in the country.",
+            "url": "https://www.wired.com/story/craig-wright-lied-faked-evidence-bitcoin-judge-says/",
+            "urlToImage": "https://media.wired.com/photos/663964ab2a04ee031b4d1808/191:100/w_1280,c_limit/Craig-Wright-Sentencing-Business-2024583568.jpg",
+            "publishedAt": "2024-05-20T11:01:15Z",
+            "content": "Weve seen a cascading effect from the pronouncement on a host of other litigations globally, says Grewal. For people outside of crypto, [all this] might sound cartoonish. But with Wrights claims fall\u2026 [+3320 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Joel Khalili",
+            "title": "FTX Creditors Say Payout Deal Is 'an Insult'\u2014and Plan to Revolt",
+            "description": "FTX has a plan to repay its former crypto customers more than the billions of dollars they lost in the latest bankruptcy proposal. But some will reject it anyway.",
+            "url": "https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/",
+            "urlToImage": "https://media.wired.com/photos/663ba309e6755459097533ca/191:100/w_1280,c_limit/FTX-Bankruptcy-Business-GettyImages-1245052532.jpg",
+            "publishedAt": "2024-05-08T17:00:02Z",
+            "content": "Some creditors of the bankrupt crypto exchange FTX are preparing to reject a plan that would see them recover 118 percent of the money they lost. The proposal is far less generous than it might seem,\u2026 [+2945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Jack Dorsey's Block Is Investing 10% Of Its Bitcoin Profits Into Monthly Bitcoin Purchases",
+            "description": "An anonymous reader shared this report from the blog Bitcoinist:\n\nJack Dorsey's financial services and digital payments company, Block Inc., announced it will begin investing 10% of its monthly Bitcoin-related gross profits into BTC purchases. This announceme\u2026",
+            "url": "https://slashdot.org/story/24/05/04/0356205/jack-dorseys-block-is-investing-10-of-its-bitcoin-profits-into-monthly-bitcoin-purchases",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2024-05-04T17:34:00Z",
+            "content": "Jack Dorsey's financial services and digital payments company, Block Inc., announced it will begin investing 10% of its monthly Bitcoin-related gross profits into BTC purchases. This announcement was\u2026 [+1022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Bitcoin beaches one billion transactions milestone",
+            "description": "Bitcoin (BTC) \u2014 the world\u2019s first and most valuable cryptocurrency \u2014 has surpassed one billion processed transactions. This milestone was\u2026 Continue reading Bitcoin beaches one billion transactions milestone\nThe post Bitcoin beaches one billion transactions mi\u2026",
+            "url": "https://readwrite.com/bitcoin-beaches-one-billion-transactions-milestone/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/ada10bac-b90f-4618-8f7c-490d8dc6692a.webp",
+            "publishedAt": "2024-05-06T12:22:39Z",
+            "content": "Bitcoin (BTC) the world\u2019s first and most valuable cryptocurrency has surpassed one billion processed transactions. This milestone was reached 800 weeks and one day after the launch of Bitcoin on Janu\u2026 [+2107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "El Salvador\u2019s Bitcoin holdings reach $373M",
+            "description": "According to a report by the country\u2019s \u201cBitcoin Office,\u201d a government entity overseeing all Bitcoin-related projects, El Salvador could hold\u2026 Continue reading El Salvador\u2019s Bitcoin holdings reach $373M\nThe post El Salvador\u2019s Bitcoin holdings reach $373M appea\u2026",
+            "url": "https://readwrite.com/el-salvadors-bitcoin-holdings-reach-373m/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/25b91b12-cd57-4b3e-b4e5-4be84fbf56bd.webp",
+            "publishedAt": "2024-05-15T17:38:10Z",
+            "content": "According to a report by the country\u2019s \u201cBitcoin Office,\u201d a government entity overseeing all Bitcoin-related projects, El Salvador could hold up to 5,750 BTC.\r\nSince 2021, the nation has mined nearly \u2026 [+2540 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "fdemott@insider.com (Filip De Mott)",
+            "title": "Bitcoin could see a wave of forced selling as miners face the reality of lower rewards post-halving, research firm says",
+            "description": "\"If miners were forced to sell even a fraction of their holdings over the coming month this would have a negative impact on markets,\" Kaiki Research wrote.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-supply-crypto-currency-miners-btc-sell-off-decline-2024-5",
+            "urlToImage": "https://i.insider.com/6643af41b4abc992e8c96de5?width=1200&format=jpeg",
+            "publishedAt": "2024-05-15T12:17:10Z",
+            "content": "Markets have long considered bitcoin's recent halving as a major price bolster, but it could bring a wave of selling from one corner of the sector,\u00a0according to Kaiko Research.\r\nThe April halving is \u2026 [+1708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sam Shedden",
+            "title": "US Bitcoin ETFs see record outflows after Fed announcement",
+            "description": "US spot Bitcoin exchange-traded funds (ETFs) endured their biggest single-day outflow yesterday (May 1). Investors took over half a billion\u2026 Continue reading US Bitcoin ETFs see record outflows after Fed announcement\nThe post US Bitcoin ETFs see record outflo\u2026",
+            "url": "https://readwrite.com/us-bitcoin-etfs-see-record-outflows-after-fed-announcement/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/1_bjzQshRa2U1xuTa7rNuw.jpg",
+            "publishedAt": "2024-05-02T09:15:43Z",
+            "content": "US spot Bitcoin exchange-traded funds (ETFs) endured their biggest single-day outflow yesterday (May 1).\r\nInvestors took over half a billion dollars ($563.7m) out of the 11 publicly traded American B\u2026 [+1827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Twitter\u2019s Jack Dorsey predicts Bitcoin could hit $1 million in six years",
+            "description": "Jack Dorsey, a prominent tech leader, is making a bold prediction about the future of Bitcoin (BTC), stating that its\u2026 Continue reading Twitter\u2019s Jack Dorsey predicts Bitcoin could hit $1 million in six years\nThe post Twitter\u2019s Jack Dorsey predicts Bitcoin co\u2026",
+            "url": "https://readwrite.com/bitcoin-value-jack-dorsey-1-million/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/98661240-f9cf-415a-83bb-3f45fa5f4110.webp",
+            "publishedAt": "2024-05-10T19:25:05Z",
+            "content": "Jack Dorsey, a prominent tech leader, is making a bold prediction about the future of Bitcoin (BTC), stating that its price could skyrocket to over $1 million by 2030.\r\nIn an interview with Pirates W\u2026 [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Bitcoin surges 7.5% as global central banks ease",
+            "description": "Bitcoin (BTC) experienced its most significant single-day gain in nearly two months on Wednesday, surging over 7.5% to reach $66,250.\u2026 Continue reading Bitcoin surges 7.5% as global central banks ease\nThe post Bitcoin surges 7.5% as global central banks ease \u2026",
+            "url": "https://readwrite.com/bitcoin-surges-7-5-as-global-central-banks-ease/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/b6fc31bb-a0c3-424c-9f83-ef1c6a070118.webp",
+            "publishedAt": "2024-05-16T16:23:22Z",
+            "content": "Bitcoin (BTC) experienced its most significant single-day gain in nearly two months on Wednesday, surging over 7.5% to reach $66,250.\r\nThe development follows recent reports that El Salvador\u2019s Bitcoi\u2026 [+2298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sam Shedden",
+            "title": "Hong Kong launches Asia\u2019s first sport Bitcoin and Ethereum ETFs",
+            "description": "Hong Kong launched six spot bitcoin and ether exchange-traded funds (ETFs) on Tuesday (Apr 30) in a historic move for\u2026 Continue reading Hong Kong launches Asia\u2019s first sport Bitcoin and Ethereum ETFs\nThe post Hong Kong launches Asia\u2019s first sport Bitcoin and \u2026",
+            "url": "https://readwrite.com/hong-kong-launches-asias-first-sport-bitcoin-and-ethereum-etfs/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/WqK7wQ05R4OvG6LtG7WP0A.jpg",
+            "publishedAt": "2024-04-30T10:05:30Z",
+            "content": "Hong Kong launched six spot bitcoin and ether exchange-traded funds (ETFs) on Tuesday (Apr 30) in a historic move for the Asian cryptocurrency market.\r\nThe ETFs, issued by China Asset Management (Chi\u2026 [+1855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "Approved spot Bitcoin ETFs could be coming to Australia\u2019s largest stock exchange",
+            "description": "Approved spot Bitcoin exchange-traded funds could soon be visible on the Australian ASX stock exchange, according to reports. ASX Ltd\u2026 Continue reading Approved spot Bitcoin ETFs could be coming to Australia\u2019s largest stock exchange\nThe post Approved spot Bit\u2026",
+            "url": "https://readwrite.com/approved-spot-bitcoin-etfs-could-be-coming-to-australias-largest-stock-exchange/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/ASX-scaled.jpg",
+            "publishedAt": "2024-04-29T16:04:21Z",
+            "content": "Approved spot Bitcoin exchange-traded funds could soon be visible on the Australian ASX stock exchange, according to reports.\r\nASX Ltd is responsible for handling around four-fifths of Australias equ\u2026 [+1750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sam Shedden",
+            "title": "Bitcoin price falls to $57,000 as investors brace for Fed decision",
+            "description": "Bitcoin has fallen sharply to around $57,300, as investor sentiment shifts ahead of a US Federal Reserve announcement on interest\u2026 Continue reading Bitcoin price falls to $57,000 as investors brace for Fed decision\nThe post Bitcoin price falls to $57,000 as i\u2026",
+            "url": "https://readwrite.com/bitcoin-price-falls-to-57000-as-investors-brace-for-fed-decision/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/c_jneVajSQSERHYjk5v-ZA.jpg",
+            "publishedAt": "2024-05-01T09:56:09Z",
+            "content": "Bitcoin has fallen sharply to around $57,300, as investor sentiment shifts ahead of a US Federal Reserve announcement on interest rates expected later on Wednesday (May 1).\r\nThis steep decline marks \u2026 [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "Bitcoin Indicator Flashes \u201cBuy\u201d Signal as BTC Price Remains Flat \u2013 Next Crypto to Explode?",
+            "description": "Following positive Ethereum ETF news, the Bitcoin price surged from around $66k to over $71k before consolidating around $70k. As\u2026 Continue reading Bitcoin Indicator Flashes \u201cBuy\u201d Signal as BTC Price Remains Flat \u2013 Next Crypto to Explode?\nThe post Bitcoin Ind\u2026",
+            "url": "https://readwrite.com/bitcoin-indicator-flashes-buy-signal-as-btc-price-remains-flat-next-crypto-to-explode/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Copy-of-P2P-Review-3.png",
+            "publishedAt": "2024-05-22T11:04:27Z",
+            "content": "Following positive Ethereum ETF news, the Bitcoin price surged from around $66k to over $71k before consolidating around $70k. As we analyze BTC price predictions, let\u2019s explore the potentially explo\u2026 [+3861 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "yzhan@insider.com (Yuheng Zhan)",
+            "title": "Bitcoin's bull run may be over and the next move could see it drop nearly 50%, says a market vet who predicted the token's 2018 crash",
+            "description": "\"It has happened. It is real. You may not want to believe it, but I place a 25% chance that Bitcoin has already topped for this cycle,\" Brandt said.",
+            "url": "https://markets.businessinsider.com/news/currencies/bitcoin-price-prediction-crash-bull-rally-over-crypto-peter-brandt-2024-4",
+            "urlToImage": "https://i.insider.com/6630f4160dfb1341e9009d67?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T14:47:48Z",
+            "content": "Bitcoin may have peaked at its high around $73,000 in March, and what awaits investors could be a 50% fall in the token's value.\u00a0\r\nThat's according to Peter Brandt, a veteran chart analyst and the fo\u2026 [+2077 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "The state of Wisconsin purchased $163 million in bitcoin ETFs in the first quarter",
+            "description": "The state of Wisconsin Investment Board purchased bitcoin ETFs from BlackRock and Grayscale in the first quarter, according to a 13F filing.",
+            "url": "https://markets.businessinsider.com/news/currencies/wisconsin-buys-bitcoin-163-million-crypto-etf-state-investment-board-2024-5",
+            "urlToImage": "https://i.insider.com/6644fd3b14fb5b23cc5cbfca?width=1200&format=jpeg",
+            "publishedAt": "2024-05-15T19:47:07Z",
+            "content": "The state of Wisconsin purchased $163 million worth of bitcoin in the first quarter, according to a 13F filing made with the Securities and Exchange Commission.\u00a0\r\nThe Wisconsin Investment Board manag\u2026 [+1287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sam Shedden",
+            "title": "Jack Dorsey\u2019s Block invests in Bitcoin\u2019s with 10% monthly profit allocation",
+            "description": "Twitter founder Jack Dorsey\u2019s payments firm Block has announced plans to plow 10% of profits from its products back into\u2026 Continue reading Jack Dorsey\u2019s Block invests in Bitcoin\u2019s with 10% monthly profit allocation\nThe post Jack Dorsey\u2019s Block invests in Bitc\u2026",
+            "url": "https://readwrite.com/jack-dorseys-block-invests-in-bitcoins-with-10-monthly-profit-allocation/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Rp8Tnrm2RfeEfwrYB2HL2A.jpg",
+            "publishedAt": "2024-05-03T09:28:09Z",
+            "content": "Twitter founder Jack Dorsey\u2019s payments firm Block has announced plans to plow 10% of profits from its products back into Bitcoin each month.\r\nThe initiative, unveiled in Block\u2019s latest quarterly repo\u2026 [+2465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "Meme Stocks Outperform Bitcoin Price In May \u2013 Are These Under-the-Radar Solana Meme Coins Next?",
+            "description": "If someone asked you about the hottest story in crypto this week, the unexpected answer might be meme stocks. Even\u2026 Continue reading Meme Stocks Outperform Bitcoin Price In May \u2013 Are These Under-the-Radar Solana Meme Coins Next?\nThe post Meme Stocks Outperfor\u2026",
+            "url": "https://readwrite.com/meme-stocks-outperform-bitcoin-price-in-may-are-these-under-the-radar-solana-meme-coins-next/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Bitcoin.jpg",
+            "publishedAt": "2024-05-15T07:47:48Z",
+            "content": "If someone asked you about the hottest story in crypto this week, the unexpected answer might be meme stocks. Even though they are not part of the crypto world, the meme stocks Gamestop (GME) and AMC\u2026 [+5044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sam Shedden",
+            "title": "Coinbase profits soar over $1 billion from a year amid Bitcoin ETF boom",
+            "description": "Coinbase, one of the world\u2019s largest cryptocurrency exchanges, reported a remarkable turnaround in its first-quarter financial results on Thursday (May\u2026 Continue reading Coinbase profits soar over $1 billion from a year amid Bitcoin ETF boom\nThe post Coinbase\u2026",
+            "url": "https://readwrite.com/coinbase-profits-soar-over-1-billion-from-a-year-amid-bitcoin-etf-boom/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-03T13:04:31Z",
+            "content": "Coinbase, one of the world\u2019s largest cryptocurrency exchanges, reported a remarkable turnaround in its first-quarter financial results on Thursday (May 2).\r\nThe company swung to a staggering $1.2 bil\u2026 [+1837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Samourai Wallet founders arrested, crypto market tumbles",
+            "description": "The dramatic arrest of Samourai Wallet Bitcoin founders by the US Department of Justice has sparked shock in the crypto\u2026 Continue reading Samourai Wallet founders arrested, crypto market tumbles\nThe post Samourai Wallet founders arrested, crypto market tumble\u2026",
+            "url": "https://readwrite.com/samourai-wallet-founders-arrested-crypto-market-tumbles/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/43315ab7-69d3-46cd-9d1a-12a0569aeebe.webp",
+            "publishedAt": "2024-04-26T13:10:12Z",
+            "content": "The dramatic arrest of Samourai Wallet Bitcoin founders by the US Department of Justice has sparked shock in the crypto community.\r\nOn April 24, the cryptocurrency market experienced a brief tumble f\u2026 [+2296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "Altcoins Hold Up as Bitcoin Price Flash Crashes with Upcoming CPI This Week \u2013 Best Crypto to Buy the Dip",
+            "description": "As the highly anticipated Consumer Price Index (CPI) report draws near on May 15, 2024, the potential impact on Bitcoin\u2019s\u2026 Continue reading Altcoins Hold Up as Bitcoin Price Flash Crashes with Upcoming CPI This Week \u2013 Best Crypto to Buy the Dip\nThe post Altco\u2026",
+            "url": "https://readwrite.com/altcoins-hold-up-as-bitcoin-price-flash-crashes-with-upcoming-cpi-this-week-best-crypto-to-buy-the-dip/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/image.jpg",
+            "publishedAt": "2024-05-13T13:26:22Z",
+            "content": "As the highly anticipated Consumer Price Index (CPI) report draws near on May 15, 2024, the potential impact on Bitcoin\u2019s price and the broader cryptocurrency market looms large. The CPI data serves \u2026 [+5340 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Geoff Weiss",
+            "title": "College alum surprised that his ayahuasca-inspired speech praising bitcoin got groans and boos",
+            "description": "Pan said on LinkedIn he'd gotten \"some help from AI (Ayahuasca Intelligence)\" to write the speech, which featured meditation and singing.",
+            "url": "https://www.businessinsider.com/osu-commencement-speaker-ayahuasca-praises-bitcoin-booed-viral-2024-5",
+            "urlToImage": "https://i.insider.com/663a92abb4abc992e8c6b56a?width=1200&format=jpeg",
+            "publishedAt": "2024-05-08T19:32:55Z",
+            "content": "Chris PanCourtesy of OSU\r\n<ul><li>An ayahuasca-inspired commencement speech didn't go too well at Ohio State University.</li><li>Alum and jewelry entrepreneur Chris Pan lauded bitcoin and sang songs.\u2026 [+2818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Jordan Fragen",
+            "title": "ZBD Gen Z gamer study: spending habits, creators, bitcoin rewards",
+            "description": "In ZBD's survey of Gen Z gamers, 36% said gaming companies run by older generations were out of touch. Creators and bitcoin rewards can help.",
+            "url": "https://venturebeat.com/games/zbd-gen-z-gamer-study/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/05/GenZCaseStudy_Images.jpg?w=1200&strip=all",
+            "publishedAt": "2024-05-15T12:00:00Z",
+            "content": "Join gaming leaders live this May 20-21 in Los Angeles to examine the strategies needed to adapt and excel in an ever evolving landscape, featuring insights from leading voices and thought leaders in\u2026 [+1755 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "Bitcoin and Altcoins Prices Pump as CPI Report Shows US Inflation Falls to 3.4% \u2013 Best AI Cryptocurrencies to Buy Now",
+            "description": "Today\u2019s CPI report has continued an 11-week trend of data arriving above 3%, leaving traders skeptical about the possibility of\u2026 Continue reading Bitcoin and Altcoins Prices Pump as CPI Report Shows US Inflation Falls to 3.4% \u2013 Best AI Cryptocurrencies to Buy\u2026",
+            "url": "https://readwrite.com/bitcoin-and-altcoins-prices-pump-as-cpi-report-shows-us-inflation-falls-to-3-4-best-ai-cryptocurrencies-to-buy-now/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Coinmarketcap-I-1.png",
+            "publishedAt": "2024-05-15T14:57:23Z",
+            "content": "Today\u2019s CPI report has continued an 11-week trend of data arriving above 3%, leaving traders skeptical about the possibility of the figure falling below that number anytime soon. However, the report \u2026 [+4334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Coinbase Delivers Major Earnings, Revenue Beat Thanks To Soaring Bitcoin Prices, Crypto Interest",
+            "description": "Coinbase transaction revenue more-than doubled as crypto prices, participation rally with bitcoin.",
+            "url": "https://www.investors.com/news/coinbase-stock-q1-earnings-beat-bitcoin-cryptocurrency/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/12/Stock-coinbase-02-adobe.jpg",
+            "publishedAt": "2024-05-02T21:20:43Z",
+            "content": "Coinbase posted a major first-quarter beat late Thursday, driven by bitcoin's start-of-the-year boom and renewed interest in cryptocurrencies. Meanwhile, bitcoin rebounded slightly after falling on W\u2026 [+3758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Self-Proclaimed Bitcoin Inventor Lied 'Repeatedly' To Support Claim, Says UK Judge",
+            "description": "An Australian computer scientist who claimed he invented bitcoin lied \"extensively and repeatedly\" and forged documents \"on a grand scale\" to support his false claim, a judge at London's High Court ruled on Monday. From a report: [...] Judge James Mellor rule\u2026",
+            "url": "https://slashdot.org/story/24/05/20/161242/self-proclaimed-bitcoin-inventor-lied-repeatedly-to-support-claim-says-uk-judge",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2024-05-20T16:02:00Z",
+            "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Andersen,Laila Maidan,Jose Duran",
+            "title": "The cryptocurrencies that are worth investing in, from bitcoin to altcoins to meme coins",
+            "description": "Investing in crypto can be attractive, but where should you start? Here is a breakdown of digital currencies from Pepe to Ethereum.",
+            "url": "https://www.businessinsider.com/crypto-bitcoin-meme-alt-coins-ethereum-investing-finance-cryptocurrencies",
+            "urlToImage": "https://i.insider.com/663cf152f27898f532d57eca?width=1200&format=jpeg",
+            "publishedAt": "2024-05-09T18:54:54Z",
+            "content": "The offers and details on this page may have updated or changed since the time of publication. See our article on Business Insider for current information.\r\nInvesting in crypto can be attractive, but\u2026 [+133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Chinese police bust illegal crypto ring worth almost $2 billion",
+            "description": "In a recent development, Chinese police have uncovered a massive underground banking racket in the city of Chengdu, involving the\u2026 Continue reading Chinese police bust illegal crypto ring worth almost $2 billion\nThe post Chinese police bust illegal crypto rin\u2026",
+            "url": "https://readwrite.com/chinese-crypto-bank-shut-down-190-arrested/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/952ca4e8-8fe6-415c-b30b-090dfa289001.webp",
+            "publishedAt": "2024-05-16T17:31:46Z",
+            "content": "In a recent development, Chinese police have uncovered a massive underground banking racket in the city of Chengdu, involving the popular stablecoin Tether (USDT). The illegal operation, which facili\u2026 [+2265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "SEC approves Ethereum ETF on Nasdaq, NYSE, CBOE",
+            "description": "The U.S. Securities and Exchange Commission (SEC) approved applications from Nasdaq, CBOE, and NYSE on Thursday to list spot exchange-traded\u2026 Continue reading SEC approves Ethereum ETF on Nasdaq, NYSE, CBOE\nThe post SEC approves Ethereum ETF on Nasdaq, NYSE, \u2026",
+            "url": "https://readwrite.com/sec-approves-ethereum-etf-on-nasdaq-nyse-cboe/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/c44e3f78-3cd4-4104-8859-78efa2653946.webp",
+            "publishedAt": "2024-05-24T12:48:47Z",
+            "content": "The U.S. Securities and Exchange Commission (SEC) approved applications from Nasdaq, CBOE, and NYSE on Thursday to list spot exchange-traded funds (ETFs) tied to the price of Ethereum (ETH).\r\nThis de\u2026 [+2034 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nathan Rennolds",
+            "title": "Former Chinese takeaway worker jailed for money laundering after police seized 61,000 bitcoins \u2014 currently worth $4 billion",
+            "description": "Authorities were alerted when the British-Chinese woman attempted to buy London properties valued at $29.7 million, $15.8 million, and $5.7 million.",
+            "url": "https://www.businessinsider.com/chinese-takeaway-worker-jailed-bitcoin-money-laundering-scheme-2024-5",
+            "urlToImage": "https://i.insider.com/6651af4b20abc1efe8fdac1b?width=1200&format=jpeg",
+            "publishedAt": "2024-05-25T11:09:35Z",
+            "content": "Crown Prosecution Service\r\n<ul><li>A British-Chinese woman has been sentenced to more than six years in prison for money laundering.</li><li>Police seized 61,000 bitcoins \u2014 now worth more than $4 bil\u2026 [+2776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "MicroStrategy Unveils Plan for Bitcoin-Based Decentralized Identity Using Ordinals",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dc0b66ed-c184-4839-bebf-5ebf176931ee",
+            "urlToImage": null,
+            "publishedAt": "2024-05-02T15:21:46Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "OKX continues global expansion with Australia launch",
+            "description": "OKX, a prominent global digital asset exchange, has officially commenced operations in Australia, marking a significant milestone since establishing its\u2026 Continue reading OKX continues global expansion with Australia launch\nThe post OKX continues global expan\u2026",
+            "url": "https://readwrite.com/okx-continues-global-expansion-with-australia-launch/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/60faf27f-3265-4d1f-9059-a8e01f3dbce6.webp",
+            "publishedAt": "2024-05-14T14:40:41Z",
+            "content": "OKX, a prominent global digital asset exchange, has officially commenced operations in Australia, marking a significant milestone since establishing its Sydney office in May 2023. The launch, announc\u2026 [+2226 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Suswati Basu",
+            "title": "Elon Musk\u2019s X platform \u2018end goal\u2019 could shake up crypto market",
+            "description": "An executive at Elon Musk\u2019s social media company X has revealed the platform\u2019s payments \u201cend goal\u201d could play havoc with\u2026 Continue reading Elon Musk\u2019s X platform \u2018end goal\u2019 could shake up crypto market\nThe post Elon Musk\u2019s X platform \u2018end goal\u2019 could shake up\u2026",
+            "url": "https://readwrite.com/elon-musks-x-platform-end-goal-could-shake-up-crypto-market/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/Elon-Musks-X-platform-could-shake-up-crypto-market.png",
+            "publishedAt": "2024-04-29T12:53:58Z",
+            "content": "An executive at Elon Musk\u2019s social media company X has revealed the platform\u2019s payments \u201cend goal\u201d could play havoc with the Bitcoin price and wider crypto market.\r\nMusk has previously stated his des\u2026 [+2735 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paul Ford",
+            "title": "Generative AI Is Totally Shameless. I Want to Be It",
+            "description": "The best thing about brain-melting software like ChatGPT? It doesn\u2019t feel remorse.",
+            "url": "https://www.wired.com/story/generative-ai-totally-shameless/",
+            "urlToImage": "https://media.wired.com/photos/662a84cc8d7b95bed51a129c/191:100/w_1280,c_limit/WIRED-JAN_TwishaP_Shameless-Software_FINAL.jpg",
+            "publishedAt": "2024-05-14T12:00:00Z",
+            "content": "AI has a lot of problems. It helps itself to the work of others, regurgitating what it absorbs in a game of multidimensional Mad Libs and omitting all attribution, resulting in widespread outrage and\u2026 [+4784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "Meme Coin Price Predictions As Market Recovers \u2013 WIF, BONK, SHIB",
+            "description": "The crypto market has rebounded nicely over the past two days, with Bitcoin bouncing off lows around the $56,000 level\u2026 Continue reading Meme Coin Price Predictions As Market Recovers \u2013 WIF, BONK, SHIB\nThe post Meme Coin Price Predictions As Market Recovers \u2013\u2026",
+            "url": "https://readwrite.com/meme-coin-price-predictions-as-market-recovers-wif-bonk-shib/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/meme-coin-shiba-inu.jpg",
+            "publishedAt": "2024-05-05T07:22:42Z",
+            "content": "The crypto market has rebounded nicely over the past two days, with Bitcoin bouncing off lows around the $56,000 level to current prices near $64,000. This positive momentum has impacted various sect\u2026 [+4536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Arslan Butt",
+            "title": "Rollbit Coin Price Prediction With RLB Token Burn \u2013 Channel Breakout Next?",
+            "description": "The Rollbit Coin (RLB) price dipped to just under $0.12 today alongside the wider crypto market decline, with Bitcoin in\u2026 Continue reading Rollbit Coin Price Prediction With RLB Token Burn \u2013 Channel Breakout Next?\nThe post Rollbit Coin Price Prediction With R\u2026",
+            "url": "https://readwrite.com/rollbit-coin-price-prediction-rlb-token-burn-channel-breakout-next/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/rollbit-coin.png",
+            "publishedAt": "2024-04-29T19:13:23Z",
+            "content": "The Rollbit Coin (RLB) price dipped to just under $0.12 today alongside the wider crypto market decline, with Bitcoin in the red today.\r\nWith a current market capitalization of $335 million, RLB is i\u2026 [+5567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "State of Wisconsin Buys Nearly $100M Worth of BlackRock Spot Bitcoin ETF",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_01a02dc9-9735-405b-92c0-7cb63999b246",
+            "urlToImage": null,
+            "publishedAt": "2024-05-14T14:47:36Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Enrique P\u00e9rez",
+            "title": "Detenido 'Bitcoin Jesus' en Espa\u00f1a, el pionero inversor cripto acusado de evadir m\u00e1s de 45 millones de euros",
+            "description": "Otro inversor cripto de referencia ha sido detenido. Si la semana pasada se conden\u00f3 a prisi\u00f3n al CEO de Binance, ahora es el ex-CEO de Bitcoin.com el que ha sido detenido por fraude fiscal. Roger Ver, nacido en San Jos\u00e9 y residente en Jap\u00f3n, fue uno de los pr\u2026",
+            "url": "https://www.xataka.com/criptomonedas/detenido-bitcoin-jesus-espana-pionero-inversor-cripto-acusado-evadir-45-millones-euros",
+            "urlToImage": "https://i.blogs.es/003c34/roger-ver/840_560.jpeg",
+            "publishedAt": "2024-05-06T10:00:54Z",
+            "content": "Otro inversor cripto de referencia ha sido detenido. Si la semana pasada se conden\u00f3 a prisi\u00f3n al CEO de Binance, ahora es el ex-CEO de Bitcoin.com el que ha sido detenido por fraude fiscal. Roger Ver\u2026 [+2020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Crypto trader loses $69 million to \u2018address poisoning\u2019 scam",
+            "description": "A cryptocurrency trader has reportedly fallen victim to a sophisticated \u201caddress poisoning\u201d scam, resulting in the loss of tens of\u2026 Continue reading Crypto trader loses $69 million to \u2018address poisoning\u2019 scam\nThe post Crypto trader loses $69 million to \u2018addre\u2026",
+            "url": "https://readwrite.com/crypto-trader-loses-69-million-to-address-poisoning-scam/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/b456024d-3242-47a8-9a3b-9fc6c67e388d.webp",
+            "publishedAt": "2024-05-06T11:45:17Z",
+            "content": "A cryptocurrency trader has reportedly fallen victim to a sophisticated \u201caddress poisoning\u201d scam, resulting in the loss of tens of millions of dollars.\r\nAddress poisoning is a type of fraud where sca\u2026 [+2481 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Andrew R. Chow",
+            "title": "Why Donald Trump Is Betting on Crypto",
+            "description": "Donald Trump's decision to accept crypto campaign donations is part of a political and financial calculus.",
+            "url": "https://time.com/6981035/donald-trump-crypto-election-2024/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/GettyImages-2153488307.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2024-05-22T17:27:03Z",
+            "content": "Donald Trump used to rail against cryptocurrencies, calling them a disaster waiting to happen and saying that bitcoin seemed like a scam. Now, hes vowing to build a crypto army.\u00a0\r\nOn Tuesday, the Tru\u2026 [+5234 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Lacort",
+            "title": "Si 2024 est\u00e1 siendo bueno para Bitcoin, para Coinbase lo est\u00e1 siendo a\u00fan m\u00e1s. Y ya ha revelado c\u00f3mo piensa seguir creciendo",
+            "description": "Con el mercado crypto en ebullici\u00f3n en buena medida por el reciente halving de Bitcoin, Coinbase ha cerrado un primer trimestre de a\u00f1o espectacular, disparando sus ingresos y sobre todo sus beneficios.\n<!-- BREAK 1 -->\nAdem\u00e1s de consolidar un gran crecimiento\u2026",
+            "url": "https://www.xataka.com/criptomonedas/2024-esta-siendo-bueno-para-bitcoin-para-coinbase-esta-siendo-ha-revelado-como-piensa-seguir-creciendo",
+            "urlToImage": "https://i.blogs.es/fc5352/jlacort_a_bitcopithe_bitcoin_logo_hangs_from_a_thread_danglin_b6c72670-a6b8-4619-a3c5-d3c1ceecfef7_3/840_560.jpeg",
+            "publishedAt": "2024-05-07T13:01:13Z",
+            "content": "Con el mercado crypto en ebullici\u00f3n en buena medida por el reciente halving de Bitcoin, Coinbase ha cerrado un primer trimestre de a\u00f1o espectacular, disparando sus ingresos y sobre todo sus beneficio\u2026 [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Trump Promises He'd Commute the Life Sentence of 'Silk Road' Founder Ross Ulbricht",
+            "description": "In 2011 Ross Ulbricht launched an anonymous, Tor-hidden \"darknet\" marketplace (with transactions conducted in bitcoin). By 2015 he'd been sentenced to life in prison for crimes including money laundering, distributing narcotics, and trafficking in fraudulent \u2026",
+            "url": "https://politics.slashdot.org/story/24/05/26/0240239/trump-promises-hed-commute-the-life-sentence-of-silk-road-founder-ross-ulbricht",
+            "urlToImage": "https://a.fsdn.com/sd/topics/republicans_64.png",
+            "publishedAt": "2024-05-26T03:34:00Z",
+            "content": "In 2011 Ross Ulbricht launched an anonymous, Tor-hidden \"darknet\" marketplace (with transactions conducted in bitcoin). By 2015 he'd been sentenced to life in prison for crimes including money launde\u2026 [+2693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "FTX says it will return money to most of its customers",
+            "description": "FTX says that nearly all of its customers will receive the money back that they are owed, two years after the cryptocurrency exchange imploded, and some will get more than that.",
+            "url": "https://www.npr.org/2024/05/09/1250133251/ftx-says-it-will-return-money-to-most-of-its-customers",
+            "urlToImage": "https://media.npr.org/assets/img/2024/05/09/ap24129447660507_wide-3a502238aa240335535541bf1a1f93a8d666d685.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2024-05-09T05:23:51Z",
+            "content": "The FTX logo appears on home plate umpire Jansen Visconti's jacket at a baseball game with the Minnesota Twins on Sept. 27, 2022, in Minneapolis.\r\nBruce Kluckhohn/AP\r\nFTX says that nearly all of its \u2026 [+3371 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Joshua Zitser",
+            "title": "A hacker got 6 years in prison for stealing therapy notes and blackmailing patients",
+            "description": "Aleksanteri Kivim\u00e4ki was found guilty of hacking a therapy company and trying to extort its patients. He was sentenced to over six years in prison.",
+            "url": "https://www.businessinsider.com/hacker-stole-therapy-notes-blackmailed-thousands-of-patients-prison-sentence-2024-5",
+            "urlToImage": "https://i.insider.com/66321a0910dfcda409652fc8?width=1200&format=jpeg",
+            "publishedAt": "2024-05-01T11:23:06Z",
+            "content": "A stock image shows a therapist making notes ahead of a session with a patient.Tanja Ivanova/Getty Images\r\n<ul><li>Hacker Aleksanteri 'Julius' Kivim\u00e4ki was sentenced to over six years in prison.</li>\u2026 [+3452 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Stock market today: Dow closes above 40,000 for the first time as latest inflation data fuels big weekly gains",
+            "description": "The Dow clinched a record it had been flirting with for days, topping 40,000 for the first time as April's CPI helped push stocks higher for the week.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-stocks-close-near-records-april-inflation-cools-2024-5",
+            "urlToImage": "https://i.insider.com/640f7db4f724e7001800cfef?width=1200&format=jpeg",
+            "publishedAt": "2024-05-17T20:08:33Z",
+            "content": "The Dow Jones Industrial Average closed above 40,000 for the first time on Friday, closing out a strong week of gains fueled by upbeat inflation data midweek.\u00a0\r\nThe index secured the closing mileston\u2026 [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "yzhan@insider.com (Yuheng Zhan)",
+            "title": "Stock market today: Indexes mixed as jobless claims jump to highest since August",
+            "description": "Stock futures pared some losses heading into the opening bell as the market digested the latest jobless claims data.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-jobless-claims-highest-since-august-fed-rates-2024-5",
+            "urlToImage": "https://i.insider.com/663cd4809686a6f37bfd8cb8?width=1200&format=jpeg",
+            "publishedAt": "2024-05-09T13:52:08Z",
+            "content": "Major stock indexes were mixed on Thursday as traders mulled a fresh job report that showed the labor market cooling.\u00a0\r\nStock futures reversed course to rise into the open after jobless claims rose t\u2026 [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Justice.gov"
+            },
+            "author": null,
+            "title": "Early Bitcoin Investor Roger Ver Charged with Tax Fraud",
+            "description": "An indictment was unsealed charging Roger Ver, an early investor in bitcoins, with mail fraud, tax evasion and filing false tax returns. Ver was arrested this weekend in Spain based on the U.S. criminal charges.\u00a0The United States will seek Ver\u2019s extradition t\u2026",
+            "url": "https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud",
+            "urlToImage": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+            "publishedAt": "2024-05-01T04:38:35Z",
+            "content": "An indictment was unsealed yesterday charging Roger Ver, an early investor in bitcoins, with mail fraud, tax evasion and filing false tax returns. Ver was arrested this weekend in Spain based on the \u2026 [+3303 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Martin Holland",
+            "title": "Die n\u00e4chsten Krypto-Fonds: US-B\u00f6rsenaufsicht ebnet Ether-ETFs den Weg",
+            "description": "Seit Anfang des Jahres kann man in den USA in Bitcoin-ETFs finanzieren und an der Krypto-Rallye teilhaben. Bald k\u00f6nnten jetzt die ersten Ether-ETFs folgen.",
+            "url": "https://www.heise.de/news/Die-naechsten-Krypto-Fonds-US-Boersenaufsicht-ebnet-Ether-ETFs-den-Weg-9730477.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/9/6/6/9/5/shutterstock_1968404476-21e25c3afbb03770.jpg",
+            "publishedAt": "2024-05-24T05:21:00Z",
+            "content": "Die US-B\u00f6rsenaufsicht SEC hat \u00fcberraschend den Weg f\u00fcr die ersten Fonds bereitet, die an den Preis von Ether gekoppelt sind. Das teilte die Securities and Exchange Commission am Donnerstag mit und ka\u2026 [+2787 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Chinese authorities shut down illegal crypto service",
+            "description": "Chinese authorities have shut down an underground bank that facilitated illegal currency exchange between the Chinese yuan and South Korean\u2026 Continue reading Chinese authorities shut down illegal crypto service\nThe post Chinese authorities shut down illegal c\u2026",
+            "url": "https://readwrite.com/chinese-authorities-shut-down-illegal-crypto-service/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/9fe82a1e-70a8-42a2-9c99-976955fd3ccd.webp",
+            "publishedAt": "2024-05-13T12:27:38Z",
+            "content": "Chinese authorities have shut down an underground bank that facilitated illegal currency exchange between the Chinese yuan and South Korean won, using cryptocurrency as a medium.\r\nPolice announced on\u2026 [+3465 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "New AI technique detects money laundering via cryptocurrencies",
+            "description": "Blockchain is often criticised as a solution in search of a problem. But one group of people has already found immense value in the tech: money launderers. Their crimes cause painful headaches for financial institutions, crypto businesses, legitimate law enfo\u2026",
+            "url": "https://thenextweb.com/news/ai-detects-money-laundering-through-cryptocurrencies-on-bitcoin-blockchain",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F05%2FUntitled-design.jpg&signature=0c9173ae60101b19697c5dc6703bfb52",
+            "publishedAt": "2024-05-01T15:07:26Z",
+            "content": "Blockchain is often criticised as a solution in search of a problem. But one group of people has already found immense value in the tech: money launderers.\r\nTheir crimes cause painful headaches for f\u2026 [+4503 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Dutch cybercops tracked a crypto theft to one of the world\u2019s worst botnets",
+            "description": "After years of ravaging computer servers to swindle millions of dollars, the operators of the notorious Ebury botnet had slipped into the shadows by 2021. Suddenly, they reemerged with a bang. The new evidence surfaced during a police investigation in the Net\u2026",
+            "url": "https://thenextweb.com/news/eset-dutch-police-discover-ebury-malware-in-cryptocurrency",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F05%2FUntitled-design-7.jpg&signature=5ea4eb64fea91fb4ddb0177578ea15b4",
+            "publishedAt": "2024-05-23T07:47:46Z",
+            "content": "After years of ravaging computer servers to swindle millions of dollars, the operators of the notorious Ebury botnet had slipped into the shadows by 2021. Suddenly, they reemerged with a bang.\r\nThe n\u2026 [+5728 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "madams@businessinsider.com (Max Adams)",
+            "title": "Stock market today: Indexes pop after Nvidia's blowout earnings report",
+            "description": "Nvidia cleared a high bar, impressing investors with a big earnings beat and announcing a 10-for-1 stock split to take effect next month.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-nvidia-q1-earnings-split-chips-ai-blackwell-2024-5",
+            "urlToImage": "https://i.insider.com/664f331f239fda2da6cad88e?width=1200&format=jpeg",
+            "publishedAt": "2024-05-23T13:38:21Z",
+            "content": "US stocks moved higher on Thursday, with investors cheering another blowout earnings report from chip giant Nvidia.\u00a0\r\nThe company, whose chips are at the heart of the artificial intelligence boom, be\u2026 [+2044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Stephan Lamprecht",
+            "title": "(g+) Kryptow\u00e4hrung: Drei Irrt\u00fcmer zum Bitcoin-Halving",
+            "description": "Das medial mit Spannung erwartete Bitcoin-Halving hat stattgefunden. Vorerst ist das prognostizierte Kursfeuerwerk ausgeblieben Von Stephan Lamprecht (Bitcoin, B\u00f6rse)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkryptowaehrung-drei-irrtuemer-zum-bitcoin-halving-2405-184778.html&referer=https%3A%2F%2Ft.co%2F34fb41a0d2",
+            "urlToImage": null,
+            "publishedAt": "2024-05-06T10:00:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat\u2026 [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Australia pursues crypto buyers\u2019 info in tax probe",
+            "description": "The Australian Taxation Office (ATO) is seeking transaction data on up to 1.2 million accounts from crypto exchanges in a\u2026 Continue reading Australia pursues crypto buyers\u2019 info in tax probe\nThe post Australia pursues crypto buyers\u2019 info in tax probe appeared\u2026",
+            "url": "https://readwrite.com/australia-pursues-crypto-buyers-info-in-tax-probe/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/8513661a-3052-4156-96f2-f2bd041f78f7.webp",
+            "publishedAt": "2024-05-07T22:22:41Z",
+            "content": "The Australian Taxation Office (ATO) is seeking transaction data on up to 1.2 million accounts from crypto exchanges in a bid to identify tax evading users. The news follows recent reports that appro\u2026 [+1713 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Peter Steinlechner",
+            "title": "Kursentwicklung: Bitcoin f\u00e4llt unter 58.000 US-Dollar",
+            "description": "Die Rallye der Digitalw\u00e4hrungen seit Jahresbeginn 2024 hat Anleger\nerfreut. Die Kurse von Bitcoin & Co. kennen aber auch eine andere Richtung. (Bitcoin, Wirtschaft)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkursentwicklung-bitcoin-faellt-unter-58-000-us-dollar-2405-184740.html&referer=https%3A%2F%2Ft.co%2F6ea5b4efcc",
+            "urlToImage": null,
+            "publishedAt": "2024-05-01T10:33:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat\u2026 [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Bitcoin Is Coming to Ethereum Stalwart MetaMask: Sources",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c27146d5-c275-4402-a9cd-b659ea5b131b",
+            "urlToImage": null,
+            "publishedAt": "2024-05-22T15:09:13Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Emily Stewart",
+            "title": "The sad, disappointing return of Roaring Kitty",
+            "description": "Roaring Kitty is tweeting after a three-year hiatus, and meme stocks like GameStop and AMC are going crazy. But the latest craze seems a bit hollow.",
+            "url": "https://www.businessinsider.com/roaring-kitty-tweets-gamestop-amc-meme-stocks-crypto-sad-2024-5",
+            "urlToImage": "https://i.insider.com/6644bc18f27898f532d7cab9?width=1200&format=jpeg",
+            "publishedAt": "2024-05-16T09:57:01Z",
+            "content": "Roaring Kitty's return has caused meme-stock chaos. But the latest mania seems destined to crash.Roaring Kitty; Getty Images; Alyssa Powell/BI\r\nIt was kind of cool that Keith Gill walked off into the\u2026 [+4721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "Crypto Trader Makes 250% Profit With This Solana Meme Coin, PEPE Price Hits New ATH",
+            "description": "The meme sector is once again producing gains for investors, with Solana meme coin Slothana (SLOTH) and PEPE among the\u2026 Continue reading Crypto Trader Makes 250% Profit With This Solana Meme Coin, PEPE Price Hits New ATH\nThe post Crypto Trader Makes 250% Prof\u2026",
+            "url": "https://readwrite.com/crypto-trader-makes-250-profit-with-this-solana-meme-coin-pepe-price-hits-new-ath/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/SLOTHANA.png",
+            "publishedAt": "2024-05-14T10:19:50Z",
+            "content": "The meme sector is once again producing gains for investors, with Solana meme coin Slothana (SLOTH) and PEPE among the hottest stories this week.\r\nAccording to data from Dextools, the PEPE token hit \u2026 [+4214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "FTX customers to get their money back in full (with asterisk) [U]",
+            "description": "Update: A court filing has confirmed that the company now has more than enough money to repay customers. In recognition of the lost gains, creditors owed $50k or less will receive around 118% of their deposit value at the time of the Chapter 11 filing.\n\n\n\nIn \u2026",
+            "url": "https://9to5mac.com/2024/05/08/ftx-customers-money/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/FTX-customers.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-05-08T13:26:08Z",
+            "content": "Update: A court filing has confirmed that the company now has more than enough money to repay customers. In recognition of the lost gains, creditors owed $50k or less will receive around 118% of thei\u2026 [+2061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "US presidential candidate RFK to speak at crypto conference",
+            "description": "Independent U.S. presidential candidate known for his pro-cryptocurrency stance Robert F. Kennedy Jr. is set to speak at the upcoming\u2026 Continue reading US presidential candidate RFK to speak at crypto conference\nThe post US presidential candidate RFK to speak\u2026",
+            "url": "https://readwrite.com/us-presidential-candidate-rfk-to-speak-at-crypto-conference/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/806b496f-17b5-4227-b8b6-48bfc34eb892.webp",
+            "publishedAt": "2024-05-08T16:33:01Z",
+            "content": "Independent U.S. presidential candidate known for his pro-cryptocurrency stance Robert F. Kennedy Jr. is set to speak at the upcoming Consensus 2024 crypto conference in Austin, Texas.\r\nKennedy will \u2026 [+2146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "Dogecoin Maxi DonAlt Posts $1 Price Prediction \u2013 Risk On For Meme Coins?",
+            "description": "DonAlt, A crypto veteran who has been in the industry for many years and witnessed previous bull runs, tweeted yesterday\u2026 Continue reading Dogecoin Maxi DonAlt Posts $1 Price Prediction \u2013 Risk On For Meme Coins?\nThe post Dogecoin Maxi DonAlt Posts $1 Price Pr\u2026",
+            "url": "https://readwrite.com/donalt-now-a-dogecoin-maxi-tweets-1-price-prediction-time-to-buy-meme-coins/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/dogecoin-trading.jpg",
+            "publishedAt": "2024-05-05T20:32:19Z",
+            "content": "DonAlt, A crypto veteran who has been in the industry for many years and witnessed previous bull runs, tweeted yesterday to announce that he has become a \u201cDoge maxi.\u201d\u00a0\r\nFor those unfamiliar with the \u2026 [+2325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "Donald Trump courts the crypto vote, Biden warned",
+            "description": "\u201cIf you\u2019re for crypto, you better vote for Trump.\u201d The message was simple and it came from the man himself,\u2026 Continue reading Donald Trump courts the crypto vote, Biden warned\nThe post Donald Trump courts the crypto vote, Biden warned appeared first on ReadWr\u2026",
+            "url": "https://readwrite.com/donald-trump-courts-the-crypto-vote-biden-warned/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/rX9Gq8GvR2i1nv03sVMpDg.jpg",
+            "publishedAt": "2024-05-13T12:17:33Z",
+            "content": "\u201cIf you\u2019re for crypto, you better vote for Trump.\u201d\r\nThe message was simple and it came from the man himself, Donald J Trump, at a special gathering at his Mar-A-Lago resort last week.\r\nAs reported by\u2026 [+2425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Controversial crypto bill FIT21 passes House",
+            "description": "The U.S. House of Representatives passed the piece of crypto regulation Financial Innovation and Technology for the 21st Century Act\u2026 Continue reading Controversial crypto bill FIT21 passes House\nThe post Controversial crypto bill FIT21 passes House appeared \u2026",
+            "url": "https://readwrite.com/controversial-crypto-bill-fit21-passes-house/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/f89dde44-46fc-4d29-b097-342c4f94b18f.webp",
+            "publishedAt": "2024-05-23T15:04:00Z",
+            "content": "The U.S. House of Representatives passed the piece of crypto regulation Financial Innovation and Technology for the 21st Century Act (FIT21) on Wednesday. This marks the first time comprehensive cryp\u2026 [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Knobloch",
+            "title": "Venezuela will alle Krypto-Mining-Farmen vom Stromnetz abtrennen",
+            "description": "Tausende Krypto-Mining-Maschinen wurden zuletzt in Venezuela beschlagnahmt. Grund sind die \"hohen Auswirkungen auf die Nachfrage\" nach Strom.",
+            "url": "https://www.heise.de/news/Venezuela-will-alle-Krypto-Mining-Farmen-vom-Stromnetz-abtrennen-9724418.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/9/3/5/4/2/shutterstock_1466689460-4008cad4c8e19c0e.jpg",
+            "publishedAt": "2024-05-20T19:25:00Z",
+            "content": "In Venezuela sollen alle Krypto-Mining-Farmen, die vom Nationalen Elektrizit\u00e4tssystem (SEN) gespeist werden, abgeschaltet werden. Das k\u00fcndigte die Regierung in Caracas Ende vergangener Woche an.\r\nIn \u2026 [+3528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Threadreaderapp.com"
+            },
+            "author": null,
+            "title": "Walls are starting to close in for Tesla, let's have a closer look",
+            "description": "@ZeroSumBond: $TSLA Walls are starting to close in for Tesla, let's have a closer look: 1) The recent turnover in senior executives is incredible, with most having a tenure well over 5 years. From CFO, to...\u2026",
+            "url": "https://threadreaderapp.com/thread/1787501413137858617.html",
+            "urlToImage": "https://threadreaderapp.com/images/screenshots/thread/1787501413137858617.jpg",
+            "publishedAt": "2024-05-22T20:22:25Z",
+            "content": "Support us! We are indie developers!\r\nThis site is made by just two indie developers on a laptop doing marketing, support and development! Read more about the story.\r\nBecome a Premium Member ($3/mont\u2026 [+395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Threadreaderapp.com"
+            },
+            "author": null,
+            "title": "Best of Google AI search results",
+            "description": "@JeremiahDJohns: Google's new AI search results are having quite the week. Here's a thread with some of my favorite answers: \"smoking while pregnant\" As long as it's non-toxic \"train eight days a week\" \"gay characte...\u2026",
+            "url": "https://threadreaderapp.com/thread/1794543007129387208.html",
+            "urlToImage": "https://threadreaderapp.com/images/screenshots/thread/1794543007129387208.jpg",
+            "publishedAt": "2024-05-26T02:48:35Z",
+            "content": "Support us! We are indie developers!\r\nThis site is made by just two indie developers on a laptop doing marketing, support and development! Read more about the story.\r\nBecome a Premium Member ($3/mont\u2026 [+395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Unleashed.chat"
+            },
+            "author": null,
+            "title": "Unleashed Chat",
+            "description": "Comments",
+            "url": "https://unleashed.chat/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-25T01:40:54Z",
+            "content": "One button to deploy your own chat.\r\nOwn your data. Open-Source models. Private. Uncensored. Fast.\r\nUnleashed Chat is an AI chatbot service designed with real privacy in mind. It stands out\r\nwith its\u2026 [+414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Will Shanklin",
+            "title": "Block reportedly greenlit transactions involving terrorist groups and sanctioned nations",
+            "description": "Block appears to be squarely in the government\u2019s sights. Prosecutors from the Southern District of New York are reportedly probing extensive compliance lapses at the parent company of Square and Cash App. NBC News says a former Block employee has handed over \u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_42a6092c-1262-4c95-9f24-7d3681ec2288",
+            "urlToImage": null,
+            "publishedAt": "2024-05-01T18:12:23Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marginalrevolution.com"
+            },
+            "author": "Alex Tabarrok",
+            "title": "The Sea Change on Crypto-Regulation",
+            "description": "In the last few weeks there has been a sea change in crypto regulation: 1. Bitcoin spot ETFs were approved\u2013reluctantly, after a 3-judge Federal Appeals court ruled unanimously that the SEC had acted arbitrarily and capriciously\u2013but nevertheless opening Bitcoi\u2026",
+            "url": "https://marginalrevolution.com/marginalrevolution/2024/05/the-sea-change-on-crypto-regulation.html",
+            "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+            "publishedAt": "2024-05-24T11:19:31Z",
+            "content": "In the last few weeks there has been a sea change in crypto regulation:\r\n1. Bitcoin spot ETFs were approved\u2013reluctantly, after a 3-judge Federal Appeals court ruled unanimously that the SEC had acted\u2026 [+3135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Marquez",
+            "title": "FTX recupera millones de d\u00f3lares y hace una importante promesa: los clientes recuperar\u00e1n su dinero (y con intereses)",
+            "description": "Cuando FTX colaps\u00f3 en noviembre de 2022, muchos de sus clientes probablemente pensaron que no recuperar\u00edan su dinero. El intercambio de criptomonedas hab\u00eda ca\u00eddo en bancarrota despu\u00e9s de una breve pero letal crisis principalmente alimentada por las maniobras \u2026",
+            "url": "https://www.xataka.com/criptomonedas/ftx-recupera-millones-dolares-hace-importante-promesa-clientes-recuperaran-su-dinero-intereses",
+            "urlToImage": "https://i.blogs.es/187c7a/ftx-1/840_560.jpeg",
+            "publishedAt": "2024-05-08T23:23:26Z",
+            "content": "Cuando FTX colaps\u00f3 en noviembre de 2022, muchos de sus clientes probablemente pensaron que no recuperar\u00edan su dinero. El intercambio de criptomonedas hab\u00eda ca\u00eddo en bancarrota despu\u00e9s de una breve pe\u2026 [+3106 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "Digitalw\u00e4hrungen: Krypto-Kurse sacken ab - Bitcoin f\u00e4llt unter 58.000 Dollar",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eDigitalw\u00e4hrungen\u201c. Lesen Sie jetzt \u201eKrypto-Kurse sacken ab - Bitcoin f\u00e4llt unter 58.000 Dollar\u201c.",
+            "url": "https://www.zeit.de/news/2024-05/01/krypto-kurse-sacken-ab-bitcoin-faellt-unter-58-000-dollar",
+            "urlToImage": "https://img.zeit.de/news/2024-05/01/krypto-kurse-sacken-ab-bitcoin-faellt-unter-58-000-dollar-image-group/wide__1300x731",
+            "publishedAt": "2024-05-01T10:02:58Z",
+            "content": "Der Kurse der wichtigsten Digitalw\u00e4hrungen sind in der Walpurgisnacht auf breiter Front eingebrochen. Der Wert des Bitcoin lag am Mittwoch bei der Handelsplattform Bitfinex nur noch knapp \u00fcber 57.000\u2026 [+1052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Wendy Prinsloo",
+            "title": "Best Online Casinos Australia for Real Money in 2024",
+            "description": "The best real-money online casinos in Australia offer the latest games and promotions for players from Sydney to Perth. Play\u2026 Continue reading Best Online Casinos Australia for Real Money in 2024\nThe post Best Online Casinos Australia for Real Money in 2024 a\u2026",
+            "url": "https://readwrite.com/best-online-casinos-australia/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/08/Australia-Online-Casinos-scaled.jpg",
+            "publishedAt": "2024-05-10T12:53:25Z",
+            "content": "The best real-money online casinos in Australia offer the latest games and promotions for players from Sydney to Perth. Play Australian casino games for free or hit the newest pokies and win the jack\u2026 [+26111 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Loh",
+            "title": "Jack Dorsey said Twitter's board 'has always been a problem' and that he plotted his exit from the firm because of its activist investor",
+            "description": "Before leaving Twitter in 2021, Dorsey faced pressure from Elliott Management, which wanted to replace him as CEO because he was also running Square.",
+            "url": "https://www.businessinsider.com/jack-dorsey-plotted-exit-twitter-due-activist-investor-2024-5",
+            "urlToImage": "https://i.insider.com/663db7b5b4abc992e8c7da06?width=1200&format=jpeg",
+            "publishedAt": "2024-05-10T06:42:19Z",
+            "content": "Jack Dorsey creator, co-founder, and Chairman of Twitter and co-founder & CEO of Square, speaks during the crypto-currency conference Bitcoin 2021 Convention at the Mana Convention Center in Miami, F\u2026 [+3401 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Crypto prices are back. So are the TV ads.",
+            "description": "One sign we're in a crypto revival: Prices are roaring. Another? Crypto companies are advertising on TV again.",
+            "url": "https://www.businessinsider.com/crypto-ads-return-tv-prices-rise-meme-stock-bitcoin-2024-5",
+            "urlToImage": "https://i.insider.com/664242cef27898f532d711df?width=1200&format=jpeg",
+            "publishedAt": "2024-05-13T16:56:35Z",
+            "content": "Ads for cryptocurrencies, like this one for Crypto.com, are back on TV.Crypto.com\r\n<ul><li>Crypto markets are booming again.</li><li>Now crypto companies are advertising on TV \u2014 just like they did in\u2026 [+2950 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "ETFs: US-B\u00f6rsenaufsicht r\u00e4umt Weg f\u00fcr Digitalgeld-Fonds frei",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eETFs\u201c. Lesen Sie jetzt \u201eUS-B\u00f6rsenaufsicht r\u00e4umt Weg f\u00fcr Digitalgeld-Fonds frei\u201c.",
+            "url": "https://www.zeit.de/news/2024-05/24/us-boersenaufsicht-raeumt-weg-fuer-digitalgeld-fonds-frei",
+            "urlToImage": "https://img.zeit.de/news/2024-05/24/us-boersenaufsicht-raeumt-weg-fuer-digitalgeld-fonds-frei-image-group/wide__1300x731",
+            "publishedAt": "2024-05-24T08:39:05Z",
+            "content": "Die US-B\u00f6rsenaufsicht SEC hat den Weg f\u00fcr b\u00f6rsengehandelte Fonds (ETF) in der Kryptow\u00e4hrung Ether grunds\u00e4tzlich freigemacht. Die SEC erlaubte am Donnerstag unter anderem der Technologieb\u00f6rse Nasdaq u\u2026 [+3653 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "Kryptow\u00e4hrung: Bitcoin steigt auf den h\u00f6chsten Stand seit Anfang April",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eKryptow\u00e4hrung\u201c. Lesen Sie jetzt \u201eBitcoin steigt auf den h\u00f6chsten Stand seit Anfang April\u201c.",
+            "url": "https://www.zeit.de/news/2024-05/21/bitcoin-steigt-auf-den-hoechsten-stand-seit-anfang-april",
+            "urlToImage": "https://img.zeit.de/news/2024-05/21/bitcoin-steigt-auf-den-hoechsten-stand-seit-anfang-april-image-group/wide__1300x731",
+            "publishedAt": "2024-05-21T11:01:23Z",
+            "content": "Der Bitcoin ist im fr\u00fchen Handel auf den h\u00f6chsten Stand seit Anfang April gestiegen. In der Spitze kletterte die wichtigste Digitalw\u00e4hrung bis auf fast 72.000 US-Dollar. Am Vormittag fiel der Bitcoin\u2026 [+1106 chars]"
+        },
+        {
+            "source": {
+                "id": "die-zeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: News -",
+            "title": "Oberbayern: Frau verliert rund 45.000 Euro durch Bitcoin-Betrug",
+            "description": "Hier finden Sie Informationen zu dem Thema \u201eOberbayern\u201c. Lesen Sie jetzt \u201eFrau verliert rund 45.000 Euro durch Bitcoin-Betrug\u201c.",
+            "url": "https://www.zeit.de/news/2024-05/04/frau-verliert-rund-45-000-euro-durch-bitcoin-betrug",
+            "urlToImage": "https://img.zeit.de/news/2024-05/04/frau-verliert-rund-45-000-euro-durch-bitcoin-betrug-image-group/wide__1300x731",
+            "publishedAt": "2024-05-04T13:50:17Z",
+            "content": "Eine Frau in Oberbayern hat durch eine Bitcoin-Betrugsmasche rund 45.000 Euro verloren. Im Internet soll die Gesch\u00e4digte auf eine Werbung zur Anlage in Bitcoins aufmerksam geworden, teilte die Polize\u2026 [+444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "kottke.org"
+            },
+            "author": "Jason Kottke",
+            "title": "TIL that some tiny bits of bitcoins are more valuable than others....",
+            "description": "TIL that some tiny bits of bitcoins are more valuable than others. \u201cThose produced in the year bitcoin was created are consi",
+            "url": "https://kottke.org/24/05/0044623-til-that-some-tiny-bits",
+            "urlToImage": "",
+            "publishedAt": "2024-05-15T16:27:18Z",
+            "content": "\u00d7Hello! In order to leave a comment, you need to be a current kottke.org member. If you'd like to sign up for a membership to support the site and join the conversation, you can explore your options \u2026 [+394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Franz Nestler",
+            "title": "Ein Ethereum-ETF wird wahrscheinlicher",
+            "description": "Die Chancen f\u00fcr eine Zulassung eines ETF der zweitwichtigsten Digitalw\u00e4hrung steigen. Das hilft auch Bitcoin.",
+            "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ein-ethereum-etf-wird-wahrscheinlicher-19733568.html",
+            "urlToImage": "https://media1.faz.net/ppmedia/aktuell/3563460588/1.9733567/facebook_teaser/digitalwaehrungen-finden-immer.jpg",
+            "publishedAt": "2024-05-21T18:33:02Z",
+            "content": "Der fundamentale Grund f\u00fcr das hohe Bitcoin-Niveau hat sich nicht ver\u00e4ndert: Durch die Zulassung eines b\u00f6rsengehandelten Indexfonds ein so genannter ETF auf die Digitalw\u00e4hrung in den Vereinigten Staa\u2026 [+3180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Vinamrata Chaturvedi",
+            "title": "Bitcoin recovers to $64,000 as spot Bitcoin ETFs make a comeback",
+            "description": "Bitcoin rebounded to $64,000 on Monday morning after experiencing a significant decline last week. The latest surge in Bitcoin price comes amid the resurgence of spot Bitcoin ETFs.Read more...",
+            "url": "https://qz.com/bitcoin-jumps-to-64-000-as-spot-bitcoin-etfs-rebound-1851457837",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ac5df5d52f89f7e277698fed171e91e6.jpg",
+            "publishedAt": "2024-05-06T14:18:00Z",
+            "content": "Bitcoin rebounded to $64,000 on Monday morning after experiencing a significant decline last week. The latest surge in Bitcoin price comes amid the resurgence of spot Bitcoin ETFs.\r\nGrayscales Bitcoi\u2026 [+1560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Romain Vitt",
+            "title": "\u201cBuy Bitcoin\u201d : la folle histoire d\u2019un petit bout de papier jaune vendu 1 million de dollars",
+            "description": "Golden ticket.",
+            "url": "https://www.presse-citron.net/buy-bitcoin-la-folle-histoire-dun-petit-bout-de-papier-jaune-vendu-1-million-de-dollars/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2024/04/papier-jaune-bitcoin.jpg",
+            "publishedAt": "2024-04-29T08:13:01Z",
+            "content": "1 million de dollars le petit bout de papier\u00a0! Voil\u00e0 l\u2019une des anecdotes les plus folles de l\u2019Histoire des cryptomonnaies. Tout commence par un \u00e9v\u00e9nement assez banal\u00a0: un bloc-notes jaune, vendu sur \u2026 [+2289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Brandon Vigliarolo",
+            "title": "Oklahoma saddles up bill of rights for crypto wranglers and miners",
+            "description": "Bitcoin cowboys now have guaranteed freedoms\nOklahoma's governor has signed a bill into law defining legal rights for one of the most marginalized groups in the US \u2013 cryptocurrency holders.\u2026<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->",
+            "url": "https://www.theregister.com/2024/05/16/oklahoma_crypto_bill_of_rights/",
+            "urlToImage": "https://regmedia.co.uk/2023/08/03/bitcoin_shutterstock.jpg",
+            "publishedAt": "2024-05-16T21:45:09Z",
+            "content": "Oklahoma's governor has signed a bill into law defining legal rights for one of the most marginalized groups in the US cryptocurrency holders.\r\nBeginning November 1, 2024, every Oklahoman will have t\u2026 [+2334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "\u201899Bitcoins\u2019 Launches Anticipated Crypto Presale, Raising Over $1 Million",
+            "description": "99Bitcoins has officially launched the presale of their 99BTC token on April 10th. In just around 4 weeks, the presale\u2026 Continue reading \u201899Bitcoins\u2019 Launches Anticipated Crypto Presale, Raising Over $1 Million\nThe post \u201899Bitcoins\u2019 Launches Anticipated Crypt\u2026",
+            "url": "https://readwrite.com/99bitcoins-launches-anticipated-crypto-presale-raising-over-1-million/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/04/99bitcoins-.png",
+            "publishedAt": "2024-05-06T12:31:55Z",
+            "content": "99Bitcoins has officially launched the presale of their 99BTC token on April 10th. In just around 4 weeks, the presale raised over $1 million and the token is already being advertised on a multitude \u2026 [+3462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Graeme Hanna",
+            "title": "Jack Dorsey on Elon Musk\u2019s X revamp and why he was right about Twitter",
+            "description": "Jack Dorsey has insisted the course of action taken by Elon Musk on X has been necessary in the pursuit\u2026 Continue reading Jack Dorsey on Elon Musk\u2019s X revamp and why he was right about Twitter\nThe post Jack Dorsey on Elon Musk\u2019s X revamp and why he was right \u2026",
+            "url": "https://readwrite.com/jack-dorsey-on-elon-musks-x-revamp-and-why-he-was-right-about-twitter/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Untitled-design-1.jpg",
+            "publishedAt": "2024-05-10T10:35:27Z",
+            "content": "Jack Dorsey has insisted the course of action taken by Elon Musk on X has been necessary in the pursuit of free speech.\r\nIn a wide-ranging interview with Pirate Wires, the man who co-founded Twitter \u2026 [+2503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Petar Jovanovi\u0107",
+            "title": "Ethereum ETF News Pushes Crypto Prices Up \u2013 Best ERC20 Tokens To Buy Now",
+            "description": "The crypto market was hit with positive Ethereum ETF news at the start of this week, which helped boost the\u2026 Continue reading Ethereum ETF News Pushes Crypto Prices Up \u2013 Best ERC20 Tokens To Buy Now\nThe post Ethereum ETF News Pushes Crypto Prices Up \u2013 Best ER\u2026",
+            "url": "https://readwrite.com/ethereum-etf-news-pushes-crypto-prices-up-best-erc20-tokens-to-buy-now/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/CMC-list-1.png",
+            "publishedAt": "2024-05-21T09:53:25Z",
+            "content": "The crypto market was hit with positive Ethereum ETF news at the start of this week, which helped boost the prices of most altcoins. Bloomberg analysts increased the chances of Ethereum ETF acceptanc\u2026 [+3468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "YouTuber Coffeezilla destroys Rabbit R1 AI company in latest investigation",
+            "description": "Coffeezilla, the popular YouTuber and investigator who regularly deep dives into influencer scams, has called out the startup behind the\u2026 Continue reading YouTuber Coffeezilla destroys Rabbit R1 AI company in latest investigation\nThe post YouTuber Coffeezilla\u2026",
+            "url": "https://readwrite.com/youtuber-coffeezilla-destroys-rabbit-r1-ai-company-in-latest-investigation/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/30-000-000-ai-is-hiding-a-scam-v0-IIrrgYNIAXcrsSVAcMo5y0yYDyNxym1p0MjqEheq0xg-ezgif.com-webp-to-jpg-converter.jpg",
+            "publishedAt": "2024-05-22T14:31:24Z",
+            "content": "Coffeezilla, the popular YouTuber and investigator who regularly deep dives into influencer scams, has called out the startup behind the Rabbit R1 as he says it was built on a scam.\r\nStephen Findeise\u2026 [+2675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Korben.info"
+            },
+            "author": "Korben",
+            "title": "Edward Snowden lance un dernier avertissement sur la confidentialit\u00e9 du Bitcoin",
+            "description": "Edward Snowden alerte sur les risques pour la confidentialit\u00e9 de Bitcoin. Les autorit\u00e9s am\u00e9ricaines intensifient leur offensive contre les outils de protection de la vie priv\u00e9e. Des entreprises comme Wasabi Wallet et Trezor ont d\u00fb restreindre leurs services a\u2026",
+            "url": "https://korben.info/bitcoin-edward-snowden-avertissement-confidentialite.html",
+            "urlToImage": "https://korben.info/app/uploads/2024/05/manu23_Edward_Snowden__Bitcoin_privacy_press_drawing_9246c265-3830-4f01-b45e-2891354dde91.webp",
+            "publishedAt": "2024-05-03T12:00:54Z",
+            "content": "Le c\u00e9l\u00e8bre lanceur d\u2019alerte Edward Snowden vient de tirer la sonnette d\u2019alarme sur Twitter. Selon lui, les d\u00e9veloppeurs de Bitcoin ont int\u00e9r\u00eat \u00e0 se bouger les fesses pour int\u00e9grer des fonctionnalit\u00e9s\u2026 [+3673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Victor Reklaitis",
+            "title": "Crypto industry\u2019s lobbying hit a record in 2023 \u2014 and is off to a strong start in 2024",
+            "description": "The cryptocurrency industry\u2019s spending on Washington lobbying rose to a fresh record last year, while it\u2019s started out 2024 with more sizable spending to influence the U.S. government.",
+            "url": "https://www.marketwatch.com/story/crypto-industrys-lobbying-hit-a-record-in-2023-and-is-off-to-a-strong-start-in-2024-fa740b43",
+            "urlToImage": "https://images.mktw.net/im-61553693/social",
+            "publishedAt": "2024-05-10T12:00:00Z",
+            "content": "The cryptocurrency industrys spending on Washington lobbying rose to a fresh record again last year with companies and trade associations shelling out nearly $25 million, beating 2022s total of more \u2026 [+2801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "FTX Customers Poised to Recover All Funds Lost in Collapse",
+            "description": "Lawyers for the defunct cryptocurrency exchange FTX said customers would receive all the money they lost when the firm collapsed in 2022 and receive interest on top of it. \"But the recoveries come with a caveat,\" reports the New York Times. \"The amount owed t\u2026",
+            "url": "https://news.slashdot.org/story/24/05/08/0622219/ftx-customers-poised-to-recover-all-funds-lost-in-collapse",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2024-05-08T06:25:00Z",
+            "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Vinamrata Chaturvedi",
+            "title": "Bitcoin has fallen to $61,000 as Hong Kong crypto ETFs fail to impress investors",
+            "description": "Bitcoin continued to shed its value as Hong Kong\u2019s Bitcoin and Ether ETFs failed to impress investors on their debut. Recently, six crypto-related ETFs were listed on the Hong Kong exchange. Bitcoin ETFs contributed $8.5 million in volume, while Ether ETFs br\u2026",
+            "url": "https://qz.com/bitcoin-price-drop-hong-kong-etfs-1851445420",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/05362ce427a9371e86cd9ce21e79cd56.jpg",
+            "publishedAt": "2024-04-30T14:18:00Z",
+            "content": "Bitcoin continued to shed its value as Hong Kongs Bitcoin and Ether ETFs failed to impress investors on their debut. Recently, six crypto-related ETFs were listed on the Hong Kong exchange. Bitcoin E\u2026 [+1292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Marquez",
+            "title": "El fundador de Binance es multimillonario. Y es posible que su riqueza aumente a\u00fan m\u00e1s tras cumplir su condena en prisi\u00f3n",
+            "description": "Changpeng Zhao, tambi\u00e9n conocido como \u201cCZ\u201d, se convertir\u00e1 en la persona m\u00e1s rica en ir a la c\u00e1rcel en Estados Unidos. El fundador de Binance, que seg\u00fan el \u00edndice de multimillonarios de Bloomberg tiene un patrimonio de unos 40.000 millones de d\u00f3lares, podr\u00eda e\u2026",
+            "url": "https://www.xataka.com/criptomonedas/fundador-binance-multimillonario-posible-que-su-riqueza-aumente-cumplir-su-condena-prision",
+            "urlToImage": "https://i.blogs.es/a2113c/binance-fundador-millonario-portada/840_560.jpeg",
+            "publishedAt": "2024-05-02T23:55:49Z",
+            "content": "Changpeng Zhao, tambi\u00e9n conocido como CZ, se convertir\u00e1 en la persona m\u00e1s rica en ir a la c\u00e1rcel en Estados Unidos. El fundador de Binance, que seg\u00fan el \u00edndice de multimillonarios de Bloomberg tiene \u2026 [+2600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Quartz Bot",
+            "title": "Bitcoin whales, Robinhood vs. the SEC, Nvidia and Apple vs. McDonald's and Starbucks: Markets news roundup",
+            "description": "Those who own at least 1,000 Bitcoin, whether they are individuals or corporations, are referred to as Bitcoin Whales. Most do not disclose how many coins they own, but a select few have come forward.Read more...",
+            "url": "https://qz.com/bitcoin-whales-robinhood-sec-nvidia-apple-stock-1851469617",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/55133426e34f97de20fcd48c0cf9873c.jpg",
+            "publishedAt": "2024-05-11T13:00:00Z",
+            "content": "Those who own at least 1,000 Bitcoin, whether they are individuals or corporations, are referred to as Bitcoin Whales. Most do not disclose how many coins they own, but a select few have come forward\u2026 [+11 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Dr. Christopher Kunz",
+            "title": "Lockbit: Ermittler wollen Kopf der Ransomware-Bande enttarnt haben",
+            "description": "Australische, britische und US-amerikanische Beh\u00f6rden sprechen Sanktionen gegen einen Verd\u00e4chtigen aus und zahlen f\u00fcr Hinweise eine Millionenpr\u00e4mie.",
+            "url": "https://www.heise.de/news/Lockbit-Kopf-der-Ransomware-Bande-ist-bekannt-und-wird-sanktioniert-9711056.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/8/6/3/1/2/Bildschirmfoto_2024-05-07_um_16.05.21-28d3350e054b6cc1.png",
+            "publishedAt": "2024-05-07T15:16:00Z",
+            "content": "Ein internationales Konsortium von Strafverfolgern darunter auch das deutsche BKA und das LKA Schleswig-Holstein hat nach eigenen Angaben die Identit\u00e4t des LockBit-Anf\u00fchrers ermittelt. Demnach steckt\u2026 [+3211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Vinamrata Chaturvedi",
+            "title": "Bitcoin hasn't rallied much a month after the 'halving' event. Experts say $100,000 is still in sight",
+            "description": "One month after Bitcoin\u2019s big halving event, people in the crypto community want to know where the major cryptocurrency is heading.Read more...",
+            "url": "https://qz.com/bitcoin-halving-price-value-forecast-1851482904",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/82c44f807a9be53915c5087f22d49fa5.jpg",
+            "publishedAt": "2024-05-19T09:00:00Z",
+            "content": "One month after Bitcoins big halving event, people in the crypto community want to know where the major cryptocurrency is heading.\r\nThe latest Bitcoin halving a technical event that cuts the reward f\u2026 [+2830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Vinamrata Chaturvedi and Andy Mills",
+            "title": "Why Bitcoin and Ether are skyrocketing",
+            "description": "Analysts are optimistic that the SEC will approve spot Ether ETFs this week, which caused both Ether and Bitcoin prices to move strongly higher on Tuesday",
+            "url": "https://qz.com/why-bitcoin-and-ether-are-skyrocketing-1851491940",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/73d556533aa12c92bf961b416b8637f9.png",
+            "publishedAt": "2024-05-21T20:00:00Z",
+            "content": "Our free, fast, and fun briefing on the global economy, delivered every weekday morning."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Vinamrata Chaturvedi",
+            "title": "8 things you can buy with Bitcoin",
+            "description": "On May 22, 2010, a man in Florida spent 10,000 Bitcoin \u2014 the current-day equivalent of $670 million \u2014 on pizza. The event, which marked the first digital currency transaction ever made for a physical item, is now celebrated annually as Bitcoin Pizza Day. Read\u2026",
+            "url": "https://qz.com/bitcoin-cryptocurrency-buy-purchase-items-1851488783",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e36b7fe9fcf2cbc4fb5527f053cf96f4.jpg",
+            "publishedAt": "2024-05-21T09:00:00Z",
+            "content": "On May 22, 2010, a man in Florida spent 10,000 Bitcoin the current-day equivalent of $670 million on pizza. The event, which marked the first digital currency transaction ever made for a physical ite\u2026 [+348 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Korben.info"
+            },
+            "author": "Korben",
+            "title": "Bercy part en chasse aux crypto-fraudeurs gr\u00e2ce \u00e0 l\u2019IA",
+            "description": "Bercy pr\u00e9pare de nouvelles mesures pour traquer les fraudeurs aux crypto-actifs. L'intelligence artificielle sera mise \u00e0 contribution pour scanner la blockchain Bitcoin et d\u00e9tecter des sch\u00e9mas de blanchiment d'argent. Le fisc fran\u00e7ais compte aligner ses pouvo\u2026",
+            "url": "https://korben.info/bercy-chasse-crypto-fraudeurs-intelligence-artificielle.html",
+            "urlToImage": "https://korben.info/app/uploads/2024/05/manu23_Un_ministre_de_leconomie_et_des_finances_qui_poursuit_un_aa978ea8-9add-477a-ad35-6786f36e40cc.webp",
+            "publishedAt": "2024-05-02T16:33:15Z",
+            "content": "Attention, arnaqueurs et fraudeurs de crypto en tout genre, Big Brother Bercy vous surveille ! Le minist\u00e8re de l\u2019\u00c9conomie s\u2019appr\u00eate \u00e0 d\u00e9gainer un nouveau texte de loi antifraude, avec un focus partic\u2026 [+3599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Vinamrata Chaturvedi",
+            "title": "Bitcoin may be coming to the biggest crypto wallet on Ethereum",
+            "description": "Popular cryptocurrency wallet MetaMask might soon add Bitcoin support, CoinDesk reports. An unnamed source cited by the outlet said access could be granted within the next month, while another mentioned that the functionality is not yet finalized. The feature\u2026",
+            "url": "https://qz.com/metamask-might-add-bitcoin-support-soon-1851494249",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e341c6d13b183c7bbae8028b9342662f.jpg",
+            "publishedAt": "2024-05-22T18:44:00Z",
+            "content": "Popular cryptocurrency wallet MetaMask might soon add Bitcoin support, CoinDesk reports. An unnamed source cited by the outlet said access could be granted within the next month, while another mentio\u2026 [+1220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techdirt"
+            },
+            "author": "Mike Masnick",
+            "title": "The Horribly Stupid Saga Of Craig Wright, The Fake Satoshi, Should Now Be Over",
+            "description": "It\u2019s been a while since we last mentioned Craig Wright here on Techdirt. We\u2019ve been pretty clear all along, like pretty much everyone else, that Wright was so obviously full of shit in claiming to be Satoshi Nakamoto, and then trying to claim patents and copy\u2026",
+            "url": "https://www.techdirt.com/2024/05/21/the-horribly-stupid-saga-of-craig-wright-the-fake-satoshi-should-now-be-over/",
+            "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+            "publishedAt": "2024-05-21T19:09:28Z",
+            "content": "from the don't-mince-words-now dept\r\nIts been a while since we last mentioned Craig Wright here on Techdirt. Weve been pretty clear all along, like pretty much everyone else, that Wright was so obvio\u2026 [+7713 chars]"
+        }
+    ]
+}
