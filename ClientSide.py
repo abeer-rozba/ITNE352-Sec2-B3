@@ -41,7 +41,8 @@ while True:
                 print(response)
             elif option =="b":
                 categories = ["business","entertainment","general","health","technology","sports","science"]
-                category = input("Enter the category " + categories + ": ").lower()
+                category_str = ",".join(categories)
+                category = input("Enter the category [" + category_str + "]: ").lower()
                 if category not in categories:
                     print(" Category does not exist.")
                 else:
@@ -78,7 +79,8 @@ while True:
         while True:
             if option == "a":
                 categories = ["business","entertainment","general","health","technology","sports","science"]
-                category = input("Enter the category " + categories + ": ").lower()
+                category_str = ",".join(categories)
+                category = input("Enter the category [" + category_str + "]: ").lower()
                 if category not in categories:
                     print(" Category does not exist.")
                 else:
