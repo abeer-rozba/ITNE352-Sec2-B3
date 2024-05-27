@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 20274,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Man arrested after incident near east London Tube station",
+            "description": "Several people are reported to have been injured in the incident at Hainault during Tuesday morning's rush hour.",
+            "url": "https://www.bbc.co.uk/news/live/uk-england-london-68926446",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2024-04-30T08:07:30Z",
+            "content": "You need one to watch live TV on any channel or device, and BBC programmes on iPlayer. Its the law.\r\nFind out more"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "What we know about Hainault sword attack",
+            "description": "Details are still emerging about a serious incident in north-east London on Tuesday morning.",
+            "url": "https://www.bbc.co.uk/news/uk-68927702",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/128DA/production/_133249957_30a04870f9cf9aaebbb2faf8b5c652ae0ff398150_0_2133_12941000x607.jpg",
+            "publishedAt": "2024-04-30T10:34:55Z",
+            "content": "A critical incident was declared in north-east London on Tuesday morning after reports multiple people had been stabbed. \r\nFootage captured by witnesses quickly began to emerge of a man being pursued\u2026 [+4282 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Attempted murder arrest after attack at school",
+            "description": "A 17-year-old boy is in custody after the incident at Birley Academy in Sheffield.",
+            "url": "https://www.bbc.co.uk/news/uk-england-south-yorkshire-68935455",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/280F/production/_133255201_birley.jpg",
+            "publishedAt": "2024-05-01T09:39:10Z",
+            "content": "A 17-year-old boy has been arrested on suspicion of attempted murder after three people were injured in an attack at a school in Sheffield.\r\nTwo adults and a child were treated at the scene following\u2026 [+1248 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Ex-Post Office boss cries while giving evidence",
+            "description": "Ex-Post Office boss Paula Vennells is speaking about the incident for the first time in ten years.",
+            "url": "https://www.bbc.co.uk/news/av/business-69047667",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4CB1/production/_133333691_p0hzjblc.jpg",
+            "publishedAt": "2024-05-22T12:05:36Z",
+            "content": "Former Post Office boss Paula Vennells has cried while giving evidence to the inquiry into the Horizon IT scandal. \r\nShe was hearing evidence related to a note left by Martin Griffiths, a former sub-\u2026 [+319 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Teenager charged over school attack",
+            "description": "Two women in their 20s and a child were left with minor injuries in the incident on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/uk-england-south-yorkshire-68947552",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/280F/production/_133255201_birley.jpg",
+            "publishedAt": "2024-05-02T20:22:04Z",
+            "content": "A 17-year-old boy has been charged with three counts of attempting to cause grievous bodily harm following an incident at a school in Sheffield.\r\nThe teenager, who cannot be named for legal reasons, \u2026 [+762 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Man detained for attempting to enter Drake's home",
+            "description": "It was the second incident to occur at Drake's Toronto home in just as many days.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68984044",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18645/production/_133290999_drake.jpg",
+            "publishedAt": "2024-05-09T12:32:25Z",
+            "content": "Police have detained a man for allegedly attempting to enter Canadian rapper Drake's home in Toronto.\r\nThe incident occurred just a day after a security guard was shot by suspects in a vehicle outsid\u2026 [+1807 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Man charged with attempted murder after stabbing",
+            "description": "A 58-year-old man has been charged with attempted murder after an incident on Friday morning.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68890962",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12479/production/_133237847_img_20240427_120324.jpg",
+            "publishedAt": "2024-04-27T16:10:33Z",
+            "content": "A 58-year-old man has been charged with attempted murder after another man was reportedly stabbed in Portglenone, County Antrim.\r\nOfficers attended West Road at about 10:00 BST on Friday. A man was f\u2026 [+357 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jordan Pearson",
+            "title": "The Breach of a Face Recognition Firm Reveals a Hidden Danger of Biometrics",
+            "description": "Outabox, an Australian firm that scanned faces for bars and clubs, suffered a breach that shows the problems with giving companies your biometric data.",
+            "url": "https://www.wired.com/story/outabox-facial-recognition-breach/",
+            "urlToImage": "https://media.wired.com/photos/6633a382dd1c44786e253eba/191:100/w_1280,c_limit/The-Breach-of-a-Facial-Recognition-Firm-Is-Only-Half-the-Problem-Security-GettyImages-51478189.jpg",
+            "publishedAt": "2024-05-02T15:24:21Z",
+            "content": "Police and federal agencies are responding to a massive breach of personal data linked to a facial recognition scheme that was implemented in bars and clubs across Australia. The incident highlights \u2026 [+3019 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Police probe baby's cardiac arrest at theme park",
+            "description": "A woman is arrested on suspicion of neglecting a five-month-old boy who is in a critical condition.",
+            "url": "https://www.bbc.co.uk/news/uk-england-berkshire-68962869",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF66/production/_110449035_entrance29.jpg",
+            "publishedAt": "2024-05-05T18:44:54Z",
+            "content": "A woman has been arrested on suspicion of neglecting a five-month-old boy who suffered a cardiac arrest at a theme park.\r\nThe baby is in a critical condition in hospital following the incident at Leg\u2026 [+1375 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Baby who suffered cardiac arrest at theme park dies",
+            "description": "A woman was arrested on suspicion of neglecting a child to cause unnecessary injury, police say.",
+            "url": "https://www.bbc.co.uk/news/uk-england-berkshire-68969750",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF66/production/_110449035_entrance29.jpg",
+            "publishedAt": "2024-05-07T14:58:55Z",
+            "content": "A five-month-old baby seriously injured in a \"neglect incident\" at a theme park has died in hospital, police said.\r\nThe boy was taken to hospital after suffering a cardiac arrest at Legoland Windsor \u2026 [+1009 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Firefighters battle gorse fire in Mourne Mountains",
+            "description": "As more than 60 crew members deal with the blaze, people are being asked to avoid the area completely.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68999178",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8827/production/_108455843_gettyimages-629799402.jpg",
+            "publishedAt": "2024-05-12T09:14:28Z",
+            "content": "Firefighters are battling a large gorse fire in the Mourne Mountains.\r\nNorthern Ireland Fire &amp; Rescue Service (NIFRS) said eight pumping engines and 64 firefighters were attending the incident on\u2026 [+244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Tesla in Full Self-Driving Mode Allegedly Tries to Drive Into Speeding Train",
+            "description": "A Tesla owner in Ohio had a terrifying experience recently when his car tried to drive him right into a crossing train, according to multiple videos posted to the Tesla Motors Club forum. The vehicle was in Full Self-Driving (FSD) mode and allegedly, this isn\u2026",
+            "url": "https://gizmodo.com/tesla-train-crash-fsd-autopilot-elon-musk-video-ohio-1851490746",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/98083b667ec4655d9acf19406226ccec.gif",
+            "publishedAt": "2024-05-21T16:05:00Z",
+            "content": "A Tesla owner in Ohio had a terrifying experience recently when his car tried to drive him right into a crossing train, according to multiple videos posted to the Tesla Motors Club forum. The vehicle\u2026 [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "I was an airline pilot for 11 years. The Singapore Airlines incident shows why you should always wear your seatbelt.",
+            "description": "An ex-EasyJet pilot discusses turbulence, the Singapore Airlines incident, and why passengers should always wear seatbelts when flying.",
+            "url": "https://www.businessinsider.com/airline-pilot-passengers-should-always-wear-seatbelts-singapore-airlines-turbulence-2024-5",
+            "urlToImage": "https://i.insider.com/664dd43320abc1efe8fc4433?width=1200&format=jpeg",
+            "publishedAt": "2024-05-22T13:27:40Z",
+            "content": "Emma Henderson worked as a pilot for Easyjet from 2009 to 2020.Emma Henderson.\r\n<ul><li>Captain Emma Henderson MBE was a pilot for Easyjet for over a decade.\u00a0</li><li>She told Business Insider passen\u2026 [+4598 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Tourist fined for approaching walrus in Norway",
+            "description": "The man went near the animal on an ice floe near the world's northernmost settlement in Svalbard.",
+            "url": "https://www.bbc.co.uk/news/world-europe-68911648",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A32D/production/_133237714_walrus.jpg",
+            "publishedAt": "2024-04-27T10:44:16Z",
+            "content": "A tourist visiting the Norwegian Arctic archipelago of Svalbard has been fined more than $1,100 (\u00a3900) for getting too close to a walrus. \r\nMembers of the public alerted the local authorities when th\u2026 [+1895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jonathan Franklin",
+            "title": "Alabama woman who says police assaulted her after calling 911 files federal lawsuit",
+            "description": "Twyla Stallworth, a woman from Andalusia, Ala., filed a federal lawsuit against the city, its police department and Grant Barton, the police officer involved in the incident.",
+            "url": "https://www.npr.org/2024/04/26/1247187053/alabama-twyla-stallworth-police-assault-calling-911-lawsuit",
+            "urlToImage": "https://media.npr.org/assets/img/2024/04/25/twyla-1-_wide-6e52048958b8db01a80bea7ae87ae7911f606b62-s1400-c100.jpg",
+            "publishedAt": "2024-04-26T09:00:40Z",
+            "content": "Twyla Stallworth, a Black woman from Andalusia, Al., filed a federal lawsuit against the City of Andalusia, its police department and Ofc. Grant Barton, the police officer involved in the incident.\r\n\u2026 [+4275 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "30 sailors, marines injured in training incident off Jacksonville\u2019s coast",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6c743349-c5fa-46e7-8813-ffc35b46021a",
+            "urlToImage": null,
+            "publishedAt": "2024-05-03T09:19:05Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "LCPD identifies deadly victim of the Savers incident",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8da1a5b6-4c9d-4e19-8bd1-a1c5243c7396",
+            "urlToImage": null,
+            "publishedAt": "2024-05-08T23:53:17Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Incident at Fenway Park prompts Boston police response",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c99b5e7f-4c92-4d14-becb-d881cc0de601",
+            "urlToImage": null,
+            "publishedAt": "2024-05-06T13:30:18Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "OKCPD searching for suspect involved in road rage, vandalism incident",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c83678f6-0bb5-47e5-aa25-e4a68c2436ee",
+            "urlToImage": null,
+            "publishedAt": "2024-05-16T20:52:51Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "TSMC says no damage to its Arizona facilities after incident",
+            "description": "Taiwanese chipmaker TSMC said on Thursday there was no damage to its facilities after an incident at its Arizona factory construction site where a waste...",
+            "url": "https://finance.yahoo.com/news/tsmc-says-no-damage-arizona-025529478.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/4ca3133bad4ec5406ee5ef7c1911f379",
+            "publishedAt": "2024-05-16T02:55:29Z",
+            "content": "TAIPEI (Reuters) - Taiwanese chipmaker TSMC said on Thursday there was no damage to its facilities after an incident at its Arizona factory construction site where a waste disposal truck driver was t\u2026 [+989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WAVY.com"
+            },
+            "author": "Regina Mobley",
+            "title": "Armed road rage incident under investigation in Virginia Beach",
+            "description": "VIRGINIA BEACH, Va. (WAVY) \u2014 It started as a routine trip for a Virginia Beach mother Tuesday morning. She headed north on First Colonial Road, and, as an...",
+            "url": "https://www.wavy.com/news/local-news/virginia-beach/armed-road-rage-incident-under-investigation-in-virginia-beach/",
+            "urlToImage": "https://media.zenfs.com/en/wavy_articles_285/224085a894e3876208dc0beffe1bfa46",
+            "publishedAt": "2024-05-22T21:56:27Z",
+            "content": "VIRGINIA BEACH, Va. (WAVY) It started as a routine trip for a Virginia Beach mother Tuesday morning.\r\nShe headed north on First Colonial Road, and, as an Hampton Roads Transit bus lumbered along near\u2026 [+2275 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Watch: Man seen carrying sword outside houses",
+            "description": "Several people, including two police officers, have been injured by a man armed with a sword in east London.",
+            "url": "https://www.bbc.co.uk/news/av/uk-68926885",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13B90/production/_133248708_p0hv1172.jpg",
+            "publishedAt": "2024-04-30T08:56:57Z",
+            "content": "Video shared online appears to show a man carrying a sword outside houses in Hainault, east London. \r\nSeveral people, including two police officers, were injured by a man armed with a sword. \r\nA 36-y\u2026 [+71 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Woman killed near bus stop 'devoted to her family'",
+            "description": "A man has been charged with the murder of Anita Mukhey, who was stabbed in north London on Thursday.",
+            "url": "https://www.bbc.co.uk/news/uk-england-london-68999503",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3138/production/_133300621_anitamukheywithhergrandchild.jpg",
+            "publishedAt": "2024-05-12T11:35:18Z",
+            "content": "A grandmother who was killed near a bus stop has been remembered for being \"devoted to her family\".\r\nAnita Mukhey, 66, a medical secretary in the NHS, was stabbed in Edgware, north London, on Thursda\u2026 [+1345 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Dutch contestant disqualified from Eurovision",
+            "description": "The singer, Joost Klein, had been among the favourites to win the contest in Malm\u00f6, Sweden.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-68993726",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1102F/production/_133297696_joost_reuters.jpg",
+            "publishedAt": "2024-05-11T10:25:58Z",
+            "content": "The Dutch artist Joost Klein has been disqualified from the Eurovision Song Contest after a backstage incident.\r\nThe performer has been sent home after an allegation of intimidation was made to Swedi\u2026 [+319 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Police give reassurances following beach murder",
+            "description": "A 17-year-old boy has been arrested on suspicion of murder after a 34-year-old woman was stabbed.",
+            "url": "https://www.bbc.co.uk/news/uk-england-dorset-69063125",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15F58/production/_133344998_28f1a8cf-eb41-4e7f-a300-cb9a04318862.jpg",
+            "publishedAt": "2024-05-26T07:59:30Z",
+            "content": "Police investigating the murder of a woman stabbed to death on a beach have sought to \"reassure\" residents and visitors they are \"are investigating at pace\" the \"horrendous incident\".\r\nThe double sta\u2026 [+377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Two dead and at least 12 injured in Majorca building collapse",
+            "description": "At least two people die and 12 are injured after a restaurant collapsed in Majorca, emergency services say.",
+            "url": "https://www.bbc.com/news/articles/cldd222zn4po",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f436/live/babb43c0-1944-11ef-965b-f782a3c6e70b.jpg",
+            "publishedAt": "2024-05-23T20:49:48Z",
+            "content": "At least two people have died and 12 are injured after a two-storey building collapsed in Majorca, emergency services say.\r\nSpanish media reports say the building was a restaurant on the beach in Pal\u2026 [+258 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Lock your doors' - police pursue man with sword",
+            "description": "Video filmed by a bystander shows police chasing a suspect as he climbs over garage roofs in Hainault.",
+            "url": "https://www.bbc.co.uk/news/av/uk-68926886",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7C28/production/_133248713_p0hv1xhr.jpg",
+            "publishedAt": "2024-04-30T10:28:06Z",
+            "content": "Video filmed by a bystander shows police in pursuit of a man suspected of stabbing people with a sword.\r\nPolice were called to reports of a vehicle driven into a house in Hainault, east London shortl\u2026 [+201 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Slovak PM in hospital after being shot as alleged assailant detained",
+            "description": "Slovak Prime Minister Robert Fico has been shot, according to local media reports.",
+            "url": "https://www.bbc.co.uk/news/live/world-europe-69016687",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2024-05-15T13:23:55Z",
+            "content": "As weve reported, media outlets say\r\nSlovakias Prime Minister Robert Fico has been injured in a shooting and taken\r\nto hospital.\r\nThe incident is reported to have happened in the town of\r\nHandlova, a\u2026 [+264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wikipedia.org"
+            },
+            "author": "Contributors to Wikimedia projects",
+            "title": "Jimmy Carter UFO Incident",
+            "description": "Comments",
+            "url": "https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident",
+            "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jimmy_Carter_Signature-2.svg/1200px-Jimmy_Carter_Signature-2.svg.png",
+            "publishedAt": "2024-04-28T10:01:28Z",
+            "content": "Jimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object while at Leary, Georgia, in 1969.\r\nWhile serving as governor of Georgia, Carter was asked (on\u2026 [+13225 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Bill Chappell",
+            "title": "A mega-gift for an HBCU college fell through. Here's what happened \u2014 and what's next",
+            "description": "To people who watch high-level philanthropy, Florida A&M's embarrassing incident wasn't only a shocking reversal. It was something they've seen before. The school is now investigating what went wrong.",
+            "url": "https://www.npr.org/2024/05/24/1251762083/famu-hbcu-mega-gift-gerami-what-happened-what-next",
+            "urlToImage": "https://media.npr.org/assets/img/2024/05/17/gettyimages-929096016_wide-d18002b13092aaffe14639fafb429392ea6ea73b.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2024-05-24T09:00:00Z",
+            "content": "Florida A&amp;M University announced a \"transformative\" donation earlier this month but the school said it ceased contact with the donor after questions arose about the funds.\r\nJeffrey Greenberg/Univ\u2026 [+14505 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Cameron Manley",
+            "title": "The IDF accidentally killed 5 of its own soldiers in latest 'friendly fire' incident in Gaza, officer says",
+            "description": "Two tanks reportedly fired at a building in the Jabalia refugee camp after spotting a gun barrel they believed belonged to enemy forces.",
+            "url": "https://www.businessinsider.com/israel-accidentally-kills-5-idf-soldiers-friendly-fire-incident-2024-5",
+            "urlToImage": "https://i.insider.com/664892b120abc1efe8fb5e9b?width=1200&format=jpeg",
+            "publishedAt": "2024-05-18T15:30:01Z",
+            "content": "Israeli soldiers in tanks on the border with the Gaza Strip, southern Israel, on February 13, 2024.AP Photo/Ariel Schalit\r\n<ul><li>Israeli tank fire accidentally killed five IDF soldiers in a friendl\u2026 [+3123 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "South West Water boss 'truly sorry' for parasite outbreak",
+            "description": "Twenty-two cases of a diarrhoea-type illness confirmed in Devon as company says it's located the source of entry for parasites.",
+            "url": "https://www.bbc.co.uk/news/live/uk-69026151",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2024-05-17T08:25:14Z",
+            "content": "Susan Davy at a Select Committee in 2021Image caption: Susan Davy at a Select Committee in 2021\r\nThe boss of South West Water (SWW) said she was \"truly sorry\" for the incident which has impacted home\u2026 [+668 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Finalists prepare to take stage in Sweden ahead of Eurovision final",
+            "description": "Twenty-five entrants will be performing in the final tonight after the Netherlands' contestant is disqualified.",
+            "url": "https://www.bbc.co.uk/news/live/entertainment-arts-68992694",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2024-05-11T16:43:17Z",
+            "content": "Dutch contestant Joost Klein was dramatically disqualified from this years contest, with less than 12 hours to go before the grand final.\r\nThe singer has been one of the favourites to win with his so\u2026 [+776 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Nails found glued sharp-end up on swings and slide",
+            "description": "Police say they are investigating the discovery at a play park in an Oxfordshire village.",
+            "url": "https://www.bbc.co.uk/news/uk-england-oxfordshire-69015286",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15CAD/production/_133316298_3214fa5a-1845-4977-b804-8c9c80a3a850.jpg.jpg",
+            "publishedAt": "2024-05-16T09:53:24Z",
+            "content": "Parish council chairman Mark Harvie said the nails were found by a \"distressed\" parent early in the morning and the situation was flagged up on a local Facebook group.\r\nIt came a day after the Big Ma\u2026 [+486 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Murder charge over stabbing of woman near bus stop",
+            "description": "Jalal Debella, 22, will appear at Willesden Magistrates' Court on Saturday charged with murder.",
+            "url": "https://www.bbc.co.uk/news/uk-england-london-68995282",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F9D/production/_133290149_burnt2.jpg",
+            "publishedAt": "2024-05-11T09:19:08Z",
+            "content": "A man has been charged with the murder of a woman who was stabbed near a bus stop in north-west London.\r\nThe victim, aged 66, was treated by paramedics on Burnt Oak Broadway in Edgware on Thursday bu\u2026 [+615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Man charged with pointing gun during road rage incident on I-40",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_15416e5f-2e71-4405-a213-04864f393682",
+            "urlToImage": null,
+            "publishedAt": "2024-05-20T12:46:23Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "What players said Friday regarding tragic incident and Scottie Scheffler's arrest",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a3d2d17b-5286-4a93-82a0-5daeb4c93514",
+            "urlToImage": null,
+            "publishedAt": "2024-05-17T20:33:35Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Associated Press",
+            "title": "Driver Dies After Crashing Into Security Barrier Around White House Complex, Authorities Say",
+            "description": "The incident, which occurred at the White House late Saturday, was being investigated as a traffic crash, police said.",
+            "url": "https://time.com/6974836/white-house-car-crash-driver-dies-security-barrier/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/05/AP24126237101577.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-05-05T11:46:20Z",
+            "content": "WASHINGTON A driver died after a vehicle crashed into an outer perimeter gate of the White House complex, and the incident late Saturday was being investigated as a traffic crash, police said. Presid\u2026 [+758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "George Dvorsky",
+            "title": "Botched SpaceX Engine Test Results in Spectacular Fireball",
+            "description": "A qualification test of a Raptor 2 engine has resulted in a dramatic explosion at SpaceX\u2019s McGregor facility. The company has yet to comment on the incident,...",
+            "url": "https://www.yahoo.com/tech/botched-spacex-engine-test-results-122900848.html",
+            "urlToImage": "https://media.zenfs.com/en/gizmodo_news_915/9c0fa9ba041a99823b244faf46bb404c",
+            "publishedAt": "2024-05-24T12:29:00Z",
+            "content": "A qualification test of a Raptor 2 engine has resulted in a dramatic explosion at SpaceXs McGregor facility. The company has yet to comment on the incident, but its unlikely to affect the upcoming fo\u2026 [+2137 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "ITV host receiving care after becoming unwell live on air",
+            "description": "Rageh Omaar, 56, was hosting the News at Ten when he appeared to struggle to read the bulletins.",
+            "url": "https://www.bbc.co.uk/news/uk-68910984",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6DA9/production/_133237082_capture.png",
+            "publishedAt": "2024-04-27T05:04:20Z",
+            "content": "ITV News presenter Rageh Omaar is receiving medical care after becoming \"unwell\" live on air, ITV has said.\r\nOmaar, 56, was presenting the channel's News at Ten programme on Friday when he appeared t\u2026 [+972 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Girl, 6, 'mauled' by family dog",
+            "description": "The girl was \"mauled\" by the animal while playing unsupervised in the garden, police say.",
+            "url": "https://www.bbc.co.uk/news/uk-england-south-yorkshire-68991146",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10763/production/_122672476_01ccd0b9-296a-4fc2-ae51-97a8fead3553.jpg",
+            "publishedAt": "2024-05-10T12:59:45Z",
+            "content": "A six-year-old girl has been taken to hospital with head injuries after being \"mauled\" by a family dog.\r\nIt is thought the child was bitten by the dog, believed to be a Pocket Bully, when she fell ov\u2026 [+1060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Central High school incident update",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6f607ae-fdb6-4c96-93b8-a4871457d21a",
+            "urlToImage": null,
+            "publishedAt": "2024-05-02T00:18:33Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Pete Syme",
+            "title": "A video shows an airport worker falling out of an Airbus A320 when someone moved the airstairs \u2014 highlighting a lapse in following safety rules",
+            "description": "In the video, which was shared on social media, the man is seen talking to the crew and stepping out of the plane, not knowing the stairs are gone",
+            "url": "https://www.businessinsider.com/video-airport-worker-falls-out-airbus-a320-in-safety-lapse-2024-5",
+            "urlToImage": "https://i.insider.com/6645ea5814fb5b23cc5cfae6?width=1200&format=jpeg",
+            "publishedAt": "2024-05-16T11:58:08Z",
+            "content": "A stock photo of a plane and airstairs.fotoVoyager/Getty Images\r\n<ul><li>An airport worker fell out of an Airbus A320 in Indonesia.</li><li>A video of the incident shows staff breaking safety rules b\u2026 [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Most Army horses to return to duty 'in due course'",
+            "description": "Two military horses were seriously injured and \"continue to be closely observed\" the Army says.",
+            "url": "https://www.bbc.co.uk/news/uk-england-london-68908148",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/110F0/production/_133227896_6f002a44-e59e-448e-90d3-46b32205b604.jpg",
+            "publishedAt": "2024-04-26T17:07:01Z",
+            "content": "Media caption, Watch: Footage from Wednesday shows how chaos unfolded in London when Army horses bolted\r\nThe Household Cavalry horses that did not sustain serious injuries after they bolted through L\u2026 [+2708 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Polly Thompson",
+            "title": "A man repeatedly punched by Mike Tyson in a viral video taken on a JetBlue flight is suing the former heavyweight champ \u2014 2 years after the incident",
+            "description": "Tyson's representatives told Business Insider he \"will be 100% refuting\" the \"ridiculous claims\" made by plaintiff Melvin Townsend.",
+            "url": "https://www.businessinsider.com/mike-tyson-sued-for-punching-passenger-jetblue-flight-california-court-2024-5",
+            "urlToImage": "https://i.insider.com/6631ffb410dfcda409652c46?width=1200&format=jpeg",
+            "publishedAt": "2024-05-01T15:06:39Z",
+            "content": "Mike Tyson, former heavyweight boxing champion, is being sued. Justin Setterfield/Getty Images\r\n<ul><li>In 2022, footage went viral of Mike Tyson repeatedly punching a fellow passenger on a JetBlue f\u2026 [+3900 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Burgess",
+            "title": "A Leak of Biometric Police Data Is a Sign of Things to Come",
+            "description": "Thousands of fingerprints and facial images linked to police in India have been exposed online. Researchers say it\u2019s a warning of what will happen as the collection of biometric data increases.",
+            "url": "https://www.wired.com/story/police-face-recognition-biometrics-leak-india/",
+            "urlToImage": "https://media.wired.com/photos/664e64e2982e64cbbf6cd50e/191:100/w_1280,c_limit/A-Leak-of-Biometric-Police-Data-Is-a-Sign-of-Things-to-Come-Security-GettyImages-1440984199.jpg",
+            "publishedAt": "2024-05-23T16:00:00Z",
+            "content": "Thousands of law enforcement officials and people applying to be police officers in India have had their personal information leaked onlineincluding fingerprints, facial scan images, signatures, and \u2026 [+3526 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Nail attack was bid to 'stamp terror' on area",
+            "description": "Jim Allister was speaking after a man was left nailed to a fence in Bushmills, County Antrim.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68969509",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13201/production/_133273387_ca7f2111684d5cf7e20ded0f1ceadeffc689507b.png",
+            "publishedAt": "2024-05-07T11:23:02Z",
+            "content": "Those responsible for a serious assault in which a man was left nailed to a fence in Bushmills intended to \"stamp their terror upon the area\", TUV leader Jim Allister has said.\r\nA man was taken to ho\u2026 [+3221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "World No. 1 Scottie Scheffler tees off at PGA Championship after being arrested, charged with felony for incident outside Valhalla",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_67191aa7-1c40-4618-855a-ec44893bfb0b",
+            "urlToImage": null,
+            "publishedAt": "2024-05-17T10:59:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Tesla Autopilot Was Uniquely Risky\u2014and May Still Be",
+            "description": "In an investigative report into crashes and deaths associated with Tesla Autopilot, federal regulators concluded that the system lacked standard protections.",
+            "url": "https://www.wired.com/story/tesla-autopilot-risky-deaths-crashes-nhtsa-investigation/",
+            "urlToImage": "https://media.wired.com/photos/662bac01e1300add6b717312/191:100/w_1280,c_limit/Tesla-Safety-GettyImages-1235870628.jpg",
+            "publishedAt": "2024-04-26T19:38:55Z",
+            "content": "A federal report published today found that Teslas Autopilot system was involved in at least 13 fatal crashes in which drivers misused the system in ways the automaker should have foreseenand done mo\u2026 [+3533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dropbox.com"
+            },
+            "author": "Dropbox Sign team",
+            "title": "Dropbox Sign Has Been Hacked",
+            "description": "A recent security incident involving Dropbox Sign",
+            "url": "https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign",
+            "urlToImage": "https://assets-global.website-files.com/6446df33610093270e7fb677/66328eaa34c793d9380fba4a_dropbox%20sign%20logo%20header.jpeg",
+            "publishedAt": "2024-05-02T07:52:14Z",
+            "content": "On April 24th, we became aware of unauthorized access to the Dropbox Sign(formerly HelloSign)production environment. Upon further investigation, we discovered that athreat actor had accessedDropbox S\u2026 [+6169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Feds Probe Waymo Driverless Cars Hitting Parked Cars, Drifting Into Traffic",
+            "description": "An anonymous reader quotes a report from Ars Technica: Crashing into parked cars, drifting over into oncoming traffic, intruding into construction zones -- all this \"unexpected behavior\" from Waymo's self-driving vehicles may be violating traffic laws, the US\u2026",
+            "url": "https://tech.slashdot.org/story/24/05/14/1957209/feds-probe-waymo-driverless-cars-hitting-parked-cars-drifting-into-traffic",
+            "urlToImage": "https://a.fsdn.com/sd/topics/transportation_64.png",
+            "publishedAt": "2024-05-14T22:10:00Z",
+            "content": "An anonymous reader quotes a report from Ars Technica: Crashing into parked cars, drifting over into oncoming traffic, intruding into construction zones -- all this \"unexpected behavior\" from Waymo's\u2026 [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "RFK Jr. sues Meta for \u2018election interference\u2019 after it temporarily removed a campaign video",
+            "description": "Independent presidential candidate Robert F. Kennedy Jr. is suing Meta for allegedly violating the First Amendment by briefly removing links to a super PAC video about him.",
+            "url": "https://www.theverge.com/policy/2024/5/13/24155697/rfk-jr-meta-election-interference-lawsuit",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/oKZwN_bVR5UP5adbRejETO6prgM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25446132/2150540423.jpg",
+            "publishedAt": "2024-05-13T20:26:54Z",
+            "content": "RFK Jr. sues Meta for election interference after it temporarily removed a campaign video\r\nRFK Jr. sues Meta for election interference after it temporarily removed a campaign video\r\n / No, its not a \u2026 [+2604 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Household Cavalry horses need 'patience to heal'",
+            "description": "Two soldiers and two horses are still recovering from the events of last week.",
+            "url": "https://www.bbc.co.uk/news/uk-england-london-68922876",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/81EE/production/_133226233_c1bf8276faad4130f2d0cd1579ac1fc770c5c69c.jpg",
+            "publishedAt": "2024-04-29T18:07:37Z",
+            "content": "Soldiers and Household Cavalry horses injured after seven of them bolted through central London are continuing to recover, the British Army has said.\r\nThe horses became spooked at the sound of fallin\u2026 [+1553 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Deena Zaru, Jessie DiMartino, Cristina Corujo",
+            "title": "Man charged with attempted murder in apparent 'racially motivated' shooting: Sheriff",
+            "description": "An Illinois man was charged with attempted first-degree murder for allegedly shooting a neighbor in an incident that \u201cappears to be racially motivated,\u201d the sheriff said.",
+            "url": "https://abcnews.go.com/US/illinois-man-charged-attempted-degree-murder-neighbor-apparent/story?id=110067123",
+            "urlToImage": "https://i.abcnewsfe.com/a/4bac7e5f-d4d0-4038-ac03-f30d0fbe5431/Shadbar-ht-er-240509_1715268122982_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-05-09T17:35:27Z",
+            "content": "An Illinois man was arrested and charged on Wednesday with attempted first-degree murder after he allegedly shot and injured a neighbor in an incident that \"appears to be racially motivated,\" accordi\u2026 [+3102 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Meredith Deliso",
+            "title": "Officer involved in Scottie Scheffler arrest violated body-worn camera policy: Chief",
+            "description": "A Louisville, Kentucky, police officer violated department policy when he failed to turn on his body-worn camera during a traffic incident involving Scottie Scheffler,",
+            "url": "https://abcnews.go.com/US/scottie-scheffler-arrest-body-worn-camera-policy/story?id=110504382",
+            "urlToImage": "https://i.abcnewsfe.com/a/832ccac0-1295-4189-bb48-e6feb1840645/scheffler-2-ht-er-240523_1716482069031_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-05-23T17:08:36Z",
+            "content": "A Louisville, Kentucky, police officer violated department policy when he failed to turn on his body-worn camera during a traffic incident involving golf star Scottie Scheffler during the PGA Champio\u2026 [+4148 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "ESPN",
+            "title": "Tyson Fury's father head-butts Usyk team member",
+            "description": "Tyson Fury's father, John Fury, was involved in a head-butting incident during a media event ahead of Saturday's undisputed heavyweight championship bout with Oleksandr Usyk in Riyadh, Saudi Arabia.",
+            "url": "https://www.espn.com/boxing/story/_/id/40138356/tyson-furys-father-headbutts-usyk-team-member-ahead-bout",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0513%2Fr1332367_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-05-13T15:51:50Z",
+            "content": "May 13, 2024, 11:09 AM ET\r\nTyson Fury's father, John Fury, was involved in a head-butting incident during a media event ahead of Saturday's undisputed heavyweight championship bout with Oleksandr Usy\u2026 [+1087 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach",
+            "title": "Police: No body-cam video of Scheffler arrest",
+            "description": "A Louisville police spokesman said the officer who arrested Scottie Scheffler didn't have his body-cam video recorder activated during the incident. Department rules say officers must \"maintain their BWC in a constant state of operational readiness.\"",
+            "url": "https://www.espn.com/golf/story/_/id/40174105/louisville-pd-confirms-no-body-cam-video-scheffler-arrest",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0517%2Fr1334177_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-05-18T23:38:43Z",
+            "content": "LOUISVILLE, Ky. -- A spokesman for the Louisville Metro Police Department confirmed to ESPN on Saturday that the officer who arrested world No. 1 golfer Scottie Scheffler outside the gates of Valhall\u2026 [+3887 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Five Israeli soldiers killed in Gaza 'by tank fire'",
+            "description": "The reported friendly-fire incident in Jabalia is one of the deadliest since the war began.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-69019655",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8247/production/_133315333_jabaliaepa13may75afe27a63b85c9ec5efef5a36d7a5bbf0886e48853_1613_3371_18961000x563.jpg",
+            "publishedAt": "2024-05-16T06:30:49Z",
+            "content": "Five Israeli soldiers have been killed in Gaza, the military says, in one of the deadliest incidents of its kind since the war began in October.\r\nIsraeli media say the troops were killed when they we\u2026 [+742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Suswati Basu",
+            "title": "Dell warns 49 million customers about massive data breach",
+            "description": "Dell has warned customers of a massive data breach following a hacker\u2019s claims they accessed information belonging to roughly 49\u2026 Continue reading Dell warns 49 million customers about massive data breach\nThe post Dell warns 49 million customers about massive\u2026",
+            "url": "https://readwrite.com/dell-warns-49-million-customers-about-massive-data-breach/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/Dell-warns-customers-about-massive-data-breach-of-49M-records.png",
+            "publishedAt": "2024-05-09T18:35:09Z",
+            "content": "Dell has warned customers of a massive data breach following a hacker\u2019s claims they accessed information belonging to roughly 49 million customers.\r\nThe U.S. computer manufacturer has started distrib\u2026 [+2499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Footage Of Ric Flair Incident At Gainesville Restaurant Surfaces Online",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_76beb5c4-3bec-4160-9dea-3cb6dab8dee4",
+            "urlToImage": null,
+            "publishedAt": "2024-05-07T17:26:29Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Alaska North Slope oil industry employee dies in workplace incident",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f10046a6-5ae7-4d89-a000-05580e4e3861",
+            "urlToImage": null,
+            "publishedAt": "2024-05-24T03:59:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Elphicke accused of lobbying over husband's sexual assault case",
+            "description": "The new Labour MP is accused of asking the then Justice Secretary to help move the date of the case.",
+            "url": "https://www.bbc.co.uk/news/uk-politics-68997960",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1449C/production/_133300138_gettyimages-2151746569.jpg",
+            "publishedAt": "2024-05-11T19:57:11Z",
+            "content": "Natalie Elphicke, the new Labour MP for Dover, has been accused of lobbying ministers over her husband Charlie's sexual assault case.\r\nSir Robert Buckland, the then Justice Secretary, said Ms Elphick\u2026 [+2262 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Davi Merchan",
+            "title": "Girlfriend of US Airman killed by Florida deputy speaks out",
+            "description": "The girlfriend of U.S. Air Force Senior Airman Roger Fortson, who was on the phone with Fortson when he was killed, is speaking out about the May 3 incident.",
+            "url": "https://abcnews.go.com/US/girlfriend-us-airman-killed-florida-deputy-speaks/story?id=110313561",
+            "urlToImage": "https://i.abcnewsfe.com/a/b127fc29-a8bb-4f20-b994-f7b587cb652f/RogerFortson-1-hd-DG-24-09-05_1715288598226_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-05-17T01:14:36Z",
+            "content": "The girlfriend of U.S. Air Force Senior Airman Roger Fortson, who was on a video call with him when he was killed by an Okaloosa County Sheriffs Office deputy, is speaking out about the May 3 inciden\u2026 [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Mayor defends NYPD response after officers seen punching pro-Palestinian protesters",
+            "description": "New York City Mayor Eric Adams defended the police department\u2019s response to a pro-Palestinian street demonstration in Brooklyn over the weekend, calling video of officers repeatedly punching men laying prone on the ground an \u201cisolated incident.\u201d",
+            "url": "https://abcnews.go.com/US/wireStory/nyc-mayor-defends-police-response-after-videos-show-110405201",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-05-20T16:34:41Z",
+            "content": "NEW YORK -- New York City Mayor Eric Adams defended the police department's response to a pro-Palestinian street demonstration in Brooklyn over the weekend, calling video of officers repeatedly punch\u2026 [+3030 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Drive"
+            },
+            "author": "James Gilboy",
+            "title": "Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident",
+            "description": "Hertz has charged customers who rented EVs hundreds of dollars for gas their cars couldn't use on multiple occasions.",
+            "url": "https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident",
+            "urlToImage": "https://www.thedrive.com/uploads/2024/05/16/hertz-tesla-fuel-charging.jpg?auto=webp",
+            "publishedAt": "2024-05-19T22:52:01Z",
+            "content": "Hertz's foray into renting EVs hasn't been a runaway success. The rental agency is liquidating its excess Teslas due to limited demand and tanking values, while those who have rented its EVs haven't \u2026 [+3741 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Google Cloud Customer Support",
+            "title": "Sharing details on a recent incident impacting one of our customers",
+            "description": "Google Cloud shares details of an incident impacting one Australian customer's use of Google Cloud VMware Engine. Learn what happened and how we're preventing it from happening again.",
+            "url": "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident",
+            "urlToImage": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Public-Sector-Momentum_DlrBthg.max-1000x1000.png",
+            "publishedAt": "2024-05-24T14:48:08Z",
+            "content": "TL;DR\r\nDuring the initial deployment of a Google Cloud VMware Engine (GCVE) Private Cloud for the customer using an internal tool, there was an inadvertent misconfiguration of the GCVE service by Goo\u2026 [+3786 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Chaotic build-up to Eurovision as final approaches",
+            "description": "Performers withdraw from rehearsals and a contestant is disqualified amid pro-Palestine marches.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-68996532",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB1B/production/_133299874_golan.jpg",
+            "publishedAt": "2024-05-11T17:01:47Z",
+            "content": "The Eurovision Song Contest has seen a chaotic build-up towards Saturday's grand final.\r\nThe Dutch entry has been disqualified, another has withdrawn from rehearsals and a third has broken rules with\u2026 [+5951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "PSNI could be fined \u00a3750k over data breach",
+            "description": "The Police Service of Northern Ireland (PSNI) could be fined \u00a3750,000 for a major data breach last year.",
+            "url": "https://www.bbc.com/news/articles/czqqjglq1lyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/450f/live/ff48ea10-189f-11ef-80aa-699d54c46324.jpg",
+            "publishedAt": "2024-05-22T23:02:14Z",
+            "content": "Kevin Sharkey,BBC News NI\r\nUK Information Commissioner John Edwards revealed the potential fine could have been \u00a35.6m\r\nThe Police Service of Northern Ireland (PSNI) could be fined \u00a3750,000 for a majo\u2026 [+4406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Australia Takes Singtel-owned Optus To Court Over 2022 Cyber Attack",
+            "description": "Australia's media regulator is taking legal action against telecom carrier Optus, owned by Singapore Telecommunications, over a cyber attack it faced in September 2022, the telecom operator said on Wednesday. From a report: Australia's No.2 telco, had in Sept\u2026",
+            "url": "https://slashdot.org/story/24/05/24/1530254/australia-takes-singtel-owned-optus-to-court-over-2022-cyber-attack",
+            "urlToImage": "https://a.fsdn.com/sd/topics/australia_64.png",
+            "publishedAt": "2024-05-24T15:30:00Z",
+            "content": "Australia's No.2 telco, had in September 2022 faced a massive data breach which exposed customers' personal information, including home addresses, passport and phone numbers. Following the incident, \u2026 [+563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Golem Karrierewelt",
+            "title": "Anzeige: Effizientes Incident Management und IT-Grundschutz",
+            "description": "Schnelle und fachkundige Reaktion auf Sicherheitsvorf\u00e4lle ist entscheidend, ebenso wie tiefgreifendes Wissen \u00fcber Grundschutzma\u00dfnahmen. Die Workshops der Golem Karrierewelt vermitteln das n\u00f6tige praktische Wissen. (Golem Karrierewelt, Server-Applikationen)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fanzeige-effizientes-incident-management-und-it-grundschutz-2405-185032.html&referer=https%3A%2F%2Ft.co%2F8157967b7f",
+            "urlToImage": null,
+            "publishedAt": "2024-05-14T04:00:01Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat\u2026 [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Becky Sullivan",
+            "title": "Scottie Scheffler is arrested outside PGA Championship after interaction with police",
+            "description": "Scheffler, who won the Masters last month, was arrested and charged after an interaction Friday morning with a police officer directing traffic into to the golf club where the PGA event is being held.",
+            "url": "https://www.npr.org/2024/05/17/1252077448/scottie-scheffler-arrest-charges-pga-championship",
+            "urlToImage": "https://media.npr.org/assets/img/2024/05/17/gettyimages-2153396679_wide-aff9114515814abbac70121623693a1a6d4a6d15.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2024-05-17T15:12:25Z",
+            "content": "Scottie Scheffler reacts before teeing off Friday on during the second round of the 2024 PGA Championship at Valhalla Golf Club in Louisville, Ky. Scheffler was arrested and charged after an interact\u2026 [+3681 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erin Snodgrass,Kelsey Vlamis",
+            "title": "Boats still aren't safe from orcas as the Mediterranean yachting season kicks off and killer whales sink another yacht",
+            "description": "Orca whales sank a 50-foot sailing yacht in the Strait of Gibraltar on Sunday in the latest of several attacks by the highly social species.",
+            "url": "https://www.businessinsider.com/orcas-sink-another-yacht-off-gibraltar-2024-5",
+            "urlToImage": "https://i.insider.com/6642b463f27898f532d747fa?width=1200&format=jpeg",
+            "publishedAt": "2024-05-14T01:48:34Z",
+            "content": "A pod of orca whales feeds in the Atlantic Ocean. In the Mediterranean, a different group of orcas sank another yacht.Arturo de Frias photography\r\n<ul><li>Killer whales took down another yacht on Mon\u2026 [+2697 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "A food delivery driver who bit off a customer's thumb has been seen delivering food again",
+            "description": "At the time of the attack, the rider was working as a substitute using someone else's account.",
+            "url": "https://www.businessinsider.com/delivery-driver-bit-off-customers-thumb-seen-delivering-food-again-2024-5",
+            "urlToImage": "https://i.insider.com/66336aa5ec0c6965690009a1?width=1200&format=jpeg",
+            "publishedAt": "2024-05-02T12:59:38Z",
+            "content": "The rider was working as a substitute using someone else's account.Mike Kemp/Getty Images\r\n<ul><li>A Deliveroo driver who bit\u00a0off a customer's thumb in 2022 has been seen delivering food again.</li><\u2026 [+3163 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Pete Syme",
+            "title": "The emergency slide that came off a Delta 767 washed up in front of the house of a lawyer whose firm is suing Boeing over the Alaska blowout",
+            "description": "A maintenance issue caused the slide to fall off the 34-year-old Boeing 767 on Friday. Where it washed up was quite the coincidence.",
+            "url": "https://www.businessinsider.com/missing-delta-emergency-slide-found-by-lawyer-suing-boeing-2024-4",
+            "urlToImage": "https://i.insider.com/6630c14e10dfcda40964bbab?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T10:28:09Z",
+            "content": "A Delta Air Lines Boeing 767.Urbanandsport/NurPhoto via Getty Images\r\n<ul><li>An emergency exit slide came off a Delta Air Lines Boeing 767 on Friday.</li><li>A lawyer, whose firm is suing Boeing ove\u2026 [+2486 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Feds probe Waymo driverless cars hitting parked cars, drifting into traffic",
+            "description": "Auto-safety regulator is investigating 22 reports of Waymo cars malfunctioning.",
+            "url": "https://arstechnica.com/tech-policy/2024/05/feds-probe-waymo-driverless-cars-hitting-parked-cars-drifting-into-traffic/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-2149191987-760x380.jpg",
+            "publishedAt": "2024-05-14T17:13:36Z",
+            "content": "Enlarge/ A Waymo self-driving car in downtown San Francisco on Bush and Sansome Streets as it drives and transports passengers.\r\n18\r\nCrashing into parked cars, drifting over into oncoming traffic, in\u2026 [+5732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Alexa Will Get an Upgrade But It'll Cost You, Report Says",
+            "description": "Amazon is reportedly releasing a generative AI version of Alexa later this year and plans to charge a monthly subscription fee separate from Amazon Prime for the technology, according to CNBC on Wednesday. It\u2019s part of Amazon\u2019s effort to compete with OpenAI\u2019s\u2026",
+            "url": "https://gizmodo.com/amazon-alexa-generative-ai-upgrade-prime-cost-1851493383",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c26a94f1317e719043c8186079060c84.jpg",
+            "publishedAt": "2024-05-22T14:40:00Z",
+            "content": "Amazon is reportedly releasing a generative AI version of Alexa later this year and plans to charge a monthly subscription fee separate from Amazon Prime for the technology, according to CNBC on Wedn\u2026 [+2516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jonathan Franklin",
+            "title": "Body of the final Baltimore bridge collapse victim recovered in river, officials say",
+            "description": "The Baltimore County Police Department confirmed the identity of the sixth victim, 37-year-old Jos\u00e9 Mynor L\u00f3pez, after salvage teams located his body Tuesday.",
+            "url": "https://www.npr.org/2024/05/08/1249977766/baltimore-bridge-collapse-victim-6th-body-recovered",
+            "urlToImage": "https://media.npr.org/assets/img/2024/05/08/ap24116700438843_wide-335eb77c841130a0b8767ff4b07ff1bd447be65f.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2024-05-08T19:56:53Z",
+            "content": "Workers remove wreckage of the collapsed Francis Scott Key Bridge, Thursday, April 25, 2024, in Baltimore.\r\nMatt Rourke/AP\r\nThe body of the last missing construction worker following the collapse of \u2026 [+2234 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Deep Fake Scams Growing in Global Frequency and Sophistication, Victim Warns",
+            "description": "In an elaborate scam in January, \"a finance worker, was duped into attending a video call with people he believed were the chief financial officer and other members of staff,\" remembers CNN. But Hong Kong police later said that all of them turned out to be de\u2026",
+            "url": "https://yro.slashdot.org/story/24/05/18/2248237/deep-fake-scams-growing-in-global-frequency-and-sophistication-victim-warns",
+            "urlToImage": "https://a.fsdn.com/sd/topics/crime_64.png",
+            "publishedAt": "2024-05-19T14:34:00Z",
+            "content": "In an elaborate scam in January, \"a finance worker, was duped into attending a video call with people he believed were the chief financial officer and other members of staff,\" remembers CNN. But Hong\u2026 [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mariella Moon",
+            "title": "Waymo says its robotaxis are now making 50,000 paid trips every week",
+            "description": "If you've been seeing more Waymo robotaxis recently in Phoenix, San Francisco and Los Angeles, that's because more and more people are hailing one for a ride. The Alphabet-owned company has announced on Twitter/X that it's now serving more than 50,000 paid tr\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_985cfcf9-8651-49b8-8dce-fefc912dded3",
+            "urlToImage": null,
+            "publishedAt": "2024-05-11T13:00:05Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ana Altchek",
+            "title": "Cybertruck owner says he got stitches after the edge of the door clipped his leg",
+            "description": "Tesla warns Cybertruck owners to\u00a0\"use caution around the panel edges\" of the angular design.",
+            "url": "https://www.businessinsider.com/cybertruck-owner-says-door-edge-cut-leg-stitches-2024-5",
+            "urlToImage": "https://i.insider.com/663bc7f9b4abc992e8c7084e?width=1200&format=jpeg",
+            "publishedAt": "2024-05-09T13:32:01Z",
+            "content": "A Tesla owner posted on a forum to warn others about closing the door.picture alliance/Getty\r\n<ul><li>A Tesla owner posted on a Cybertruck forum warning others to be careful closing the door.</li><li\u2026 [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rebecca Rommen",
+            "title": "A 9-year-old boy mistook a millionaire for a homeless man and gave him his last dollar, report says",
+            "description": "The businessman, 42-year-old Matt Busbice, was so touched by the boy's offer that he rewarded him with a shopping spree at his sports store.",
+            "url": "https://www.businessinsider.com/businessman-offered-dollar-by-child-mistook-him-for-homeless-man-2024-5",
+            "urlToImage": "https://i.insider.com/6637862eec0c6965690121ec?width=1200&format=jpeg",
+            "publishedAt": "2024-05-05T16:28:12Z",
+            "content": "Stock image of a boy with a dollar bill.JNemchinova | Getty Images\r\n<ul><li>A nine-year-old boy mistook a businessman as homeless and gave him his last dollar.</li><li>The businessman, Matt Busbice, \u2026 [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "The US sues Ticketmaster for driving up live event fees",
+            "description": "The US Justice Department has filed an antitrust lawsuit against Ticketmaster parent company Live Nation, seeking a breakup of its alleged live event ticketing monopoly.",
+            "url": "https://www.theverge.com/2024/5/23/24163083/live-nation-ticketmaster-doj-monopoly-lawsuit-break-up",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3c0emqZjOC0y4KXCGhkH21mebRI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25461341/Ticketmaster_Live_Nation_DOJ_.jpg",
+            "publishedAt": "2024-05-23T14:32:14Z",
+            "content": "The US sues Ticketmaster for driving up live event fees\r\nThe US sues Ticketmaster for driving up live event fees\r\n / The Department of Justices lawsuit seeks to break up Ticketmaster owner Live Natio\u2026 [+4337 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Jon Haworth",
+            "title": "Man with sword arrested after multiple people stabbed near London tube station",
+            "description": "A man has been arrested after driving a car into a home in east London before getting out and attacking members of the public with a sword, according to police.",
+            "url": "https://abcnews.go.com/International/man-sword-arrested-after-multiple-people-stabbed-london/story?id=109777288",
+            "urlToImage": "https://i.abcnewsfe.com/a/b06a80aa-8d05-4b1a-a8a2-0cfc6fed567c/hainault-police_1714469076947_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-30T09:09:01Z",
+            "content": "LONDON -- A man has been arrested after driving a car into a home in east London before getting out and attacking members of the public with a sword, according to police.\r\nThe incident happened at ap\u2026 [+1432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Connor Jones",
+            "title": "Europol confirms incident following alleged auction of staff data",
+            "description": "Intelligence-sharing platform remains down for maintenance\nEuropol is investigating a cybercriminal's claims that they stole confidential data from a number of the agency's sources.\u2026",
+            "url": "https://www.theregister.com/2024/05/13/europol_data_breach/",
+            "urlToImage": "https://regmedia.co.uk/2023/03/27/europol_shutterstock.jpg",
+            "publishedAt": "2024-05-13T11:45:06Z",
+            "content": "Europol is investigating a cybercriminal's claims that they stole confidential data from a number of the agency's sources.\r\nAmong the sources referenced by the cybercriminal, the Europol Platform for\u2026 [+3861 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Reuters",
+            "title": "Here's how much Boeing has given Alaska Airlines after January's 737 Max 9 incident",
+            "description": "Boeing had already given Alaska Airlines $162 million for the January cabin panel blowout on a 737 MAX 9 plane. And they just gave more.",
+            "url": "https://www.usatoday.com/story/travel/airline-news/2024/05/03/boeing-alaska-airlines-credit-737/73553429007/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9UIu8E.nRpjKqWnCIBpQQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/usa_today_travel_320/5e53539e1d0bfe83b1775357f116516d",
+            "publishedAt": "2024-05-03T13:57:36Z",
+            "content": "Alaska Air Group has received $61 million in supplier credit memos from\u00a0Boeing\u00a0as additional compensation for the hit from a temporary grounding of 737 MAX 9 jets, the carrier said on Friday.\r\nThe ai\u2026 [+1078 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "British man attacked by shark 'able to communicate'",
+            "description": "Peter Smith's wife has thanked friends who fought the shark during the attack on Tobago's coast.",
+            "url": "https://www.bbc.co.uk/news/uk-68918033",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C494/production/_133242305_tobagogetty.jpg",
+            "publishedAt": "2024-04-28T22:04:57Z",
+            "content": "A British man seriously injured in a shark attack in Tobago is \"aware of what is happening\" and \"able to communicate\", his wife has said.\r\nPeter Smith, 64, was on the Caribbean island with wife Jo an\u2026 [+2752 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Jon Haworth, Jessie DiMartino, Cristina Corujo",
+            "title": "2 people shot during California high school graduation ceremony",
+            "description": "Two adults -- a man and a woman -- have been shot during a high school graduation taking place in California, according to police.",
+            "url": "https://abcnews.go.com/US/2-people-shot-california-high-school-graduation-ceremony/story?id=110526871",
+            "urlToImage": "https://i.abcnewsfe.com/a/33c023d3-0283-4ae2-8423-2f7df217ab94/police-department-car-gty-lv-230404_1680657750847_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-05-24T06:29:36Z",
+            "content": "Two adults -- a man and a woman -- have been shot during a high school graduation taking place in California, according to police.\r\nThe incident occurred at approximately 7:45 p.m. at Skyline High Sc\u2026 [+975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Examiner Enterprise"
+            },
+            "author": "Andy Dossett, Bartlesville Examiner-Enterprise",
+            "title": "Bartlesville goes dark on social media following online onslaught of negative comments",
+            "description": "The City of Bartlesville and the Bartlesville Police Department have deactivated their official Facebook pages following public outrage.",
+            "url": "https://www.examiner-enterprise.com/story/news/local/2024/04/30/police-brutality-claims-lead-to-social-media-blackout-in-bartlesville/73516013007/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RiubBMJU9DpYFEWzcCTqRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/examiner-enterprise/702f9a841e2d750dd9186e37c9d05e16",
+            "publishedAt": "2024-04-30T22:45:47Z",
+            "content": "On Tuesday, the City of Bartlesville and the Bartlesville Police Department temporarily deactivated their official Facebook pages following online outrage over body camera footage showing a grandmoth\u2026 [+2445 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Brad Anderson",
+            "title": "How AI is Used in Proactive Cybersecurity Operations",
+            "description": "Cyberattacks are a constant worry in today\u2019s digital world, threatening businesses of all shapes and sizes. Hackers are getting craftier\u2026 Continue reading How AI is Used in Proactive Cybersecurity Operations\nThe post How AI is Used in Proactive Cybersecurity \u2026",
+            "url": "https://readwrite.com/proactive-cybersecurity-operations/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/05/cybersecurity-operations-scaled.jpg",
+            "publishedAt": "2024-05-21T15:28:23Z",
+            "content": "Cyberattacks are a constant worry in today\u2019s digital world, threatening businesses of all shapes and sizes. Hackers are getting craftier by the day, and our old security defenses just can\u2019t keep up. \u2026 [+5512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ben Goggin",
+            "title": "A Tesla owner says his car\u2019s \u2018self-driving\u2019 technology failed to detect a moving train ahead of a crash caught on camera",
+            "description": "A Tesla car in Full-Self Driving mode appeared to fail to detect a moving train and stop on its own, ahead of a chaotic accident caught on video.",
+            "url": "https://www.yahoo.com/tech/tesla-owner-says-car-self-212417665.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/s7s581WOk5l9ZKZI5uQmWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/534cd569de5db75196126f60b9f585f1",
+            "publishedAt": "2024-05-23T21:24:17Z",
+            "content": "A Tesla vehicle in Full-Self Driving mode appeared to fail to detect a moving train and stop on its own, leading to a chaotic accident depicted in a video that has been viewed millions of times on so\u2026 [+7106 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "World Central Kitchen to resume food aid in Gaza",
+            "description": "The aid organisation had stopped distributing food in Gaza after an Israeli strike killed seven workers.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68915931",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A810/production/_133242034_capture.png",
+            "publishedAt": "2024-04-28T18:47:51Z",
+            "content": "World Central Kitchen is to resume distributing food in Gaza, nearly a month after seven of its aid workers were killed in an Israeli air strike. \r\nThe aid organisation said it has 276 trucks with ei\u2026 [+3463 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Jon Haworth, Jessie DiMartino, Cristina Corujo",
+            "title": "6 people between the ages of 3 and 19 shot at apartment complex",
+            "description": "At least six people ranging between the ages of 3 to 19-years-old have been shot at an apartment complex in Forth Worth, Texas, police say.",
+            "url": "https://abcnews.go.com/US/6-people-ages-3-19-shot-apartment-complex/story?id=109858131",
+            "urlToImage": "https://i.abcnewsfe.com/a/c76e1826-154b-439e-b8d2-c0cbc662f924/police-tape-cars-gty-jt-230510_1683751598051_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-05-02T08:55:53Z",
+            "content": "At least six people ranging between the ages of 3 to 19-years-old have been shot at an apartment complex in Forth Worth, Texas, police say.\r\nThe incident occurred on Wednesday evening at approximatel\u2026 [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Jon Haworth",
+            "title": "Man under influence of alcohol injured after kicking bison in the leg at Yellowstone",
+            "description": "A 40-year-old who allegedly kicked a bison in the leg while under the influence of alcohol at Yellowstone National Park, was injured by the animal and arrested.",
+            "url": "https://abcnews.go.com/US/man-injured-after-kicking-bison-leg-influence-alcohol/story?id=109776472",
+            "urlToImage": "https://i.abcnewsfe.com/a/61cef4b1-8182-48c2-b1fd-65c593f28246/bison-yellowstone_1714460695416_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-30T07:11:24Z",
+            "content": "A 40-year-old man who allegedly kicked a bison in the leg while under the influence of alcohol at Yellowstone National Park, was injured by the animal and arrested, officials say.\r\nClarence Yoder, a \u2026 [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "Driver dies after crashing into White House perimeter gate, Secret Service says",
+            "description": "A driver died after a vehicle crashed into a gate at the White House Saturday night, but the fatal collision is being investigated \"only as a traffic crash\", law enforcement authorities said.",
+            "url": "https://www.npr.org/2024/05/05/1249213141/driver-dies-after-crashing-into-white-house-perimeter-gate",
+            "urlToImage": "https://media.npr.org/assets/img/2024/05/05/ap24126237101577_wide-24195b4057761a70ec4f16ae59473f62184cad10.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2024-05-05T08:54:18Z",
+            "content": "FILE - The White House is visible through the fence at the North Lawn in Washington, on June 16, 2016. A driver died Saturday night, May 4, 2024 after crashing a vehicle into a gate at the White Hous\u2026 [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Google: Stop Trying To Trick Employees With Fake Phishing Emails",
+            "description": "An anonymous reader shares a report: Did your company recently send you a phishing email? Employers will sometimes simulate phishing messages to train workers on how to spot the hacking threat. But one Google security manager argues the IT industry needs to d\u2026",
+            "url": "https://tech.slashdot.org/story/24/05/23/1756222/google-stop-trying-to-trick-employees-with-fake-phishing-emails",
+            "urlToImage": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+            "publishedAt": "2024-05-23T20:44:00Z",
+            "content": "Did your company recently send you a phishing email? Employers will sometimes simulate phishing messages to train workers on how to spot the hacking threat. But one Google security manager argues the\u2026 [+1224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "American Radio Relay League Confirms Cyberattack Disrupted Operations",
+            "description": "Roughly 160,000 U.S.-based amateur radio enthusiasts belong to the American Radio Relay League, a nonprofit with 100 full-time and part-time staff members. \n\nNine days ago it announced \"that it suffered a cyberattack that disrupted its network and systems,\" r\u2026",
+            "url": "https://tech.slashdot.org/story/24/05/25/1956236/american-radio-relay-league-confirms-cyberattack-disrupted-operations",
+            "urlToImage": "https://a.fsdn.com/sd/topics/communications_64.png",
+            "publishedAt": "2024-05-25T20:34:00Z",
+            "content": "Roughly 160,000 U.S.-based amateur radio enthusiasts belong to the American Radio Relay League, a nonprofit with 100 full-time and part-time staff members.Nine days ago it announced \"that it suffered\u2026 [+1226 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thomas Novelly",
+            "title": "A Florida deputy who fatally shot a 23-year-old airman in his home may have been in the wrong apartment, witness says",
+            "description": "Senior Airman Roger Fortson, 23, was shot six times in his apartment last week by Florida police responding to a disturbance call in his building.",
+            "url": "https://www.businessinsider.com/police-shot-florida-airman-roger-fortson-witness-wrong-apartment-attorney-2024-5",
+            "urlToImage": "https://i.insider.com/663d12cab4abc992e8c79567?width=1200&format=jpeg",
+            "publishedAt": "2024-05-09T18:57:32Z",
+            "content": "Chantimekki Fortson, mother of Roger Fortson, a US Air Force airman, holds a photo of her son during a news conference regarding his death as their attorney, Ben Crump, comforts her.Gerald Herbert/AP\u2026 [+5812 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Joel Rose",
+            "title": "The ship that struck the Key Bridge had electrical problems in port, the NTSB says",
+            "description": "The huge container ship that struck the Key Bridge had electrical problems the day before it left the Port of Baltimore, according to a preliminary report released Tuesday by federal investigators.",
+            "url": "https://www.npr.org/2024/05/14/1251351023/francis-scott-key-bridge-collapse-ntsb-investigation",
+            "urlToImage": "https://media.npr.org/assets/img/2024/05/14/gettyimages-2152803313_wide-bdc13444d3a33270bc97c76b91ac51b7a4261af3.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2024-05-14T20:17:35Z",
+            "content": "In this aerial view, a steel truss from the destroyed Francis Scott Key Bridge that was pinning the container ship Dali in place was detached from the ship using a controlled detonation of explosives\u2026 [+3130 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Rebecca Rommen",
+            "title": "US Marine officer claims 40% of drones the IDF has shot down were their own, report says",
+            "description": "The officer, Lt. Col. Michael Pruden, did not clarify where or when such incidents had occurred, The War Zone reported.",
+            "url": "https://www.businessinsider.com/marine-says-nearly-half-drones-idf-downs-own-2024-5",
+            "urlToImage": "https://i.insider.com/663e26e7f27898f532d60b7f?width=1200&format=jpeg",
+            "publishedAt": "2024-05-11T15:48:02Z",
+            "content": "Drone Pilot Maya O'Daly on July 30, 2019, at an army base in the South of Israel.Guy Prives | Getty Images\r\n<ul><li>A US Marine officer said the Israel Defense Forces (IDF) has been shooting down som\u2026 [+3202 chars]"
+        }
+    ]
+}

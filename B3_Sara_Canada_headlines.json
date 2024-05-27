@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CTV News",
+            "title": "No sign Canada has a plan to reach NATO defence spending target: U.S. NATO ambassador - CTV News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmN0dm5ld3MuY2EvcG9saXRpY3Mvbm8tc2lnbi1jYW5hZGEtaGFzLWEtcGxhbi10by1yZWFjaC1uYXRvLWRlZmVuY2Utc3BlbmRpbmctdGFyZ2V0LXUtcy1uYXRvLWFtYmFzc2Fkb3ItMS42OTAxMDM00gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY",
+            "title": "Bird flu spreading to dairy farm workers but testing not reaching them - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/nation/2024/05/26/bird-flu-spreading-dairy-farm-workers-but-not-testing/73842450007/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T10:05:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MENAFN.COM"
+            },
+            "author": "MENAFN",
+            "title": "If An Asteroid Hit Earth And All The Humans Died, Would The Dinosaurs Come Back? The Conversation's Curious Kids Podcast - MENAFN.COM",
+            "description": "(MENAFN - The Conversation)  Many, many years ago dinosaurs roamed the Earth. Six-year-old Aga knows that a meteorite wiped them out... but",
+            "url": "https://menafn.com/1108258139/If-An-Asteroid-Hit-Earth-And-All-The-Humans-Died-Would-The-Dinosaurs-Come-Back-The-Conversations-Curious-Kids-Podcast",
+            "urlToImage": "https://menafn.com/updates/pr/2024-05/26/TC_6de6fimage_story.jpg",
+            "publishedAt": "2024-05-26T08:35:45Z",
+            "content": "(MENAFN- The Conversation) Many, many years ago dinosaurs roamed the Earth. Six-year-old Aga knows that a meteorite wiped them out... but could another meteorite bring them back? \r\nYou can read a pri\u2026 [+1145 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Global News",
+            "title": "Space junk falling on Saskatchewan farmland prompts question: who\u2019s liable? - Global News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTIzMDQ0L3Nhc2thdGNoZXdhbi1zcGFjZS1qdW5rLWxpYWJpbGl0eS1vdXRlci1zcGFjZS_SAVZodHRwczovL2dsb2JhbG5ld3MuY2EvbmV3cy8xMDUyMzA0NC9zYXNrYXRjaGV3YW4tc3BhY2UtanVuay1saWFiaWxpdHktb3V0ZXItc3BhY2UvYW1wLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T08:00:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "InfoQ.com",
+            "title": "Microsoft Introduces the Public Preview of Bicep Templates Support for Microsoft Graph - InfoQ.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmluZm9xLmNvbS9uZXdzLzIwMjQvMDUvcHVibGljLXByZXZpZXctYmljZXAtdGVtcGxhdGVzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T08:00:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBC.ca",
+            "title": "Alberta plans to consult on proposed gender policies, but advocates say they weren't invited - CBC.ca",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9lZG1vbnRvbi9hbGJlcnRhLWNvbnN1bHRhdGlvbnMtZ2VuZGVyLWlkZW50aXR5LXBvbGljaWVzLTEuNzIxNTE1ONIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MjE1MTU4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T08:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBC.ca",
+            "title": "Stressed at work? Anxious about the wider world? You might be part of 'The Great Exhaustion' - CBC.ca",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNiYy5jYS9yYWRpby9jb3N0b2ZsaXZpbmcvdGhlLWdyZWF0LWV4aGF1c3Rpb24tMS43MjEwNTg50gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyMTA1ODk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T08:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBC.ca",
+            "title": "Why does Drake have so many companies? - CBC.ca",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2RyYWtlLWNvbXBhbmllcy1sbGNzLTEuNzIxMjc3ONIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MjEyNzc4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T08:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zoom"
+            },
+            "author": "Divya",
+            "title": "Google AI Overview Falsely Claims Barack Obama A Muslim, Google Responds - Times Now",
+            "description": "Google's AI search tool falsely labelled Barack Obama as Muslim, leading to corrections and raising concerns about the accuracy of AI-generated information. Here is all you need to know.",
+            "url": "https://www.timesnownews.com/technology-science/google-ai-overview-falsely-claims-barack-obama-a-muslim-google-responds-article-110435038",
+            "urlToImage": "https://static.tnn.in/thumb/msid-110435245,thumbsize-839807,width-1280,height-720,resizemode-75/110435245.jpg",
+            "publishedAt": "2024-05-26T06:47:13Z",
+            "content": "Updated May 26, 2024, 12:17 IST"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Edmonton Journal",
+            "title": "Player grades: Edmonton Oilers battle hard but fall short in Game 2, settle for split in Dallas - Edmonton Journal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL2VkbW9udG9uam91cm5hbC5jb20vc3BvcnRzL2hvY2tleS9uaGwvY3VsdC1vZi1ob2NrZXkvcGxheWVyLWdyYWRlcy1lZG1vbnRvbi1vaWxlcnMtYmF0dGxlLWhhcmQtYnV0LWZhbGwtc2hvcnQtaW4tZ2FtZS0yLXNldHRsZS1mb3Itc3BsaXQtaW4tZGFsbGFz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T06:33:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Globe and Mail",
+            "title": "Your lookahead horoscope for the week: May 26, 2024 - The Globe and Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vbGlmZS9ob3Jvc2NvcGVzL2FydGljbGUteW91ci1sb29rYWhlYWQtaG9yb3Njb3BlLWZvci10aGUtd2Vlay1tYXktMjYtMjAyNC_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cgtn.com"
+            },
+            "author": "CGTN",
+            "title": "Rare spectacle: Romantic red aurora and meteors dance across the night sky - CGTN",
+            "description": "Coinciding with the peak of the solar cycle, a powerful geomagnetic storm struck Earth's magnetosphere from May 10 to May 11, triggered by a coronal mass ejection (CME). This extraordinary event resulted in a dazzling display of crimson auroras and a",
+            "url": "https://news.cgtn.com/news/2024-05-26/Romantic-red-aurora-and-meteors-dance-across-the-night-sky-1tUDxE0hgPK/p.html",
+            "urlToImage": "https://news.cgtn.com/news/2024-05-26/Romantic-red-aurora-and-meteors-dance-across-the-night-sky-1tUDxE0hgPK/img/2969869b78aa475abf8c0f6641da385f/2969869b78aa475abf8c0f6641da385f.gif",
+            "publishedAt": "2024-05-26T03:24:26Z",
+            "content": "Coinciding with the peak of the solar cycle, a powerful geomagnetic storm struck Earth's magnetosphere from May 10 to May 11, triggered by a coronal mass ejection (CME). This extraordinary event resu\u2026 [+150 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CityNews Vancouver",
+            "title": "Fans attending Saturday's Whitecaps game to get free ticket to future game - CityNews Vancouver",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vdmFuY291dmVyLmNpdHluZXdzLmNhLzIwMjQvMDUvMjUvdmFuY291dmVyLXdoaXRlY2Fwcy1mcmVlLXRpY2tldC1tZXNzaS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T01:56:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CTV News",
+            "title": "Trump news: Former president booed at Libertarian speech - CTV News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmN0dm5ld3MuY2Evd29ybGQvdHJ1bXAtY29uZnJvbnRzLXJlcGVhdGVkLWJvb3MtZHVyaW5nLXJhdWNvdXMtbGliZXJ0YXJpYW4tY29udmVudGlvbi1zcGVlY2gtMS42OTAxMTI20gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T01:47:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "stampeders.com",
+            "title": "Post-Game - Dave Dickenson - 25.05.24 - stampeders.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LnN0YW1wZWRlcnMuY29tLzIwMjQvMDUvMjUvcG9zdC1nYW1lLWRhdmUtZGlja2Vuc29uLTI1LTA1LTI0L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T00:47:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "National Post",
+            "title": "Gunmen open fire on Jewish girls school, Toronto police say - National Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbmF0aW9uYWxwb3N0LmNvbS9uZXdzL2NhbmFkYS9ndW5tZW4tZmlyZS1vbi1qZXdpc2gtZ2lybHMtc2Nob29sLXRvcm9udG8tcG9saWNlLXNhedIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T00:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBC Sports",
+            "title": "Grayson Murray dies at 30 a day after withdrawing from Colonial, PGA Tour says - CBC Sports",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmNiYy5jYS9zcG9ydHMvZ29sZi9ncmF5c29uLW11cnJheS1kZWFkLTMwLTEuNzIxNTIyNNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS43MjE1MjI0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-25T23:37:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Global News",
+            "title": "Alberta engineers\u2019 association apologizes after members billed thousands in phone charges - Global News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vZ2xvYmFsbmV3cy5jYS9uZXdzLzEwNTI1MDcxL2FsYmVydGEtcGhvbmUtYmlsbC1lcnJvci_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-25T23:23:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Calgary Herald",
+            "title": "'Storm clouds are brewing': Anti-UCP rally held outside of Calgary city hall - Calgary Herald",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vY2FsZ2FyeWhlcmFsZC5jb20vbmV3cy9sb2NhbC1uZXdzL2FudGktdWNwLXJhbGx5LWhlbGQtb3V0c2lkZS1vZi1jYWxnYXJ5LWNpdHktaGFsbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-25T23:19:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Globe and Mail",
+            "title": "U of T faculty association alarmed as school warns of termination for those who don't leave pro-Palestinian encampment before deadline - The Globe and Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWdsb2JlYW5kbWFpbC5jb20vY2FuYWRhL2FydGljbGUtc3VycHJpc2UtYWxhcm0tZnJvbS11LW9mLXQtZmFjdWx0eS1hcy1zY2hvb2wtd2FybnMtb2YtdGVybWluYXRpb24tZm9yL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-25T23:03:50Z",
+            "content": null
+        }
+    ]
+}

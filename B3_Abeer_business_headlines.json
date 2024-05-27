@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1000,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Telemundo Nueva Inglaterra",
+            "title": "Hombre muerto tras estrellarse contra peaje en Hampton - Telemundo Nueva Inglaterra",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy50ZWxlbXVuZG9udWV2YWluZ2xhdGVycmEuY29tL25vdGljaWFzL2xvY2FsL2hvbWJyZS1tdWVydG8tZGVzcHVlcy1kZS1xdWUtdW4tY2FtaW9uLXNlLWVzdHJlbGxhcmEtY29udHJhLXBlYWplLWVuLWhhbXB0b24vMjM5ODQ2NS_SAZMBaHR0cHM6Ly93d3cudGVsZW11bmRvbnVldmFpbmdsYXRlcnJhLmNvbS9ub3RpY2lhcy9sb2NhbC9ob21icmUtbXVlcnRvLWRlc3B1ZXMtZGUtcXVlLXVuLWNhbWlvbi1zZS1lc3RyZWxsYXJhLWNvbnRyYS1wZWFqZS1lbi1oYW1wdG9uLzIzOTg0NjUvP2FtcD0x?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T12:36:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "La Rep\u00fablica",
+            "title": "H&M, Ikea e Inditex, los minoristas con mayor presencia global - La Rep\u00fablica",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmxhcmVwdWJsaWNhLmNvL2dsb2JvZWNvbm9taWEvbG9zLW1pbm9yaXN0YXMtY29uLW1heW9yLXByZXNlbmNpYS1hLW5pdmVsLWdsb2JhbC1kdXJhbnRlLTIwMjMtMzg2ODUwONIBb2h0dHBzOi8vYW1wLmxhcmVwdWJsaWNhLmNvL2dsb2JvZWNvbm9taWEvbG9zLW1pbm9yaXN0YXMtY29uLW1heW9yLXByZXNlbmNpYS1hLW5pdmVsLWdsb2JhbC1kdXJhbnRlLTIwMjMtMzg2ODUwOA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T12:35:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Marketscreener DE",
+            "title": "US-Beh\u00f6rde weitet Untersuchung bei Robotaxi-Firma Waymo aus - Marketscreener DE",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL2RlLm1hcmtldHNjcmVlbmVyLmNvbS9rdXJzL2FrdGllL0FMUEhBQkVULUlOQy0yNDIwMzM3My9uZXdzL1VTLUJlaG9yZGUtd2VpdGV0LVVudGVyc3VjaHVuZy1iZWktUm9ib3RheGktRmlybWEtV2F5bW8tYXVzLTQ2ODI4ODgwL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T12:15:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Infobae Espa\u00f1a",
+            "title": "Los n\u00fameros que dieron fortuna a los nuevos ganadores de Bonoloto - Infobae Espa\u00f1a",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2VzcGFuYS8yMDI0LzA1LzI2L2xvcy1udW1lcm9zLXF1ZS1kaWVyb24tZm9ydHVuYS1hLWxvcy1udWV2b3MtZ2FuYWRvcmVzLWRlLWJvbm9sb3RvL9IBgAFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9lc3BhbmEvMjAyNC8wNS8yNi9sb3MtbnVtZXJvcy1xdWUtZGllcm9uLWZvcnR1bmEtYS1sb3MtbnVldm9zLWdhbmFkb3Jlcy1kZS1ib25vbG90by8_b3V0cHV0VHlwZT1hbXAtdHlwZQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T12:05:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "THE LOGISTICS WORLD",
+            "title": "Fabricantes de bater\u00edas para veh\u00edculos el\u00e9ctricos: qui\u00e9nes son y d\u00f3nde producen - THE LOGISTICS WORLD",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vdGhlbG9naXN0aWNzd29ybGQuY29tL21hbnVmYWN0dXJhL2ZhYnJpY2FudGVzLWRlLWJhdGVyaWFzLXBhcmEtdmVoaWN1bG9zLWVsZWN0cmljb3MtcXVpZW5lcy1zb24teS1kb25kZS1wcm9kdWNlbi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T12:03:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Expansi\u00f3n",
+            "title": "BME encara la segunda mitad del a\u00f1o en un entorno \"muy positivo\" para el mercado con m\u00e1s salidas a Bolsa - Expansi\u00f3n",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmV4cGFuc2lvbi5jb20vbWVyY2Fkb3MvMjAyNC8wNS8yNi82NjUzMWE5MTQ2OGFlYjU2MjE4YjQ1YmEuaHRtbNIBS2h0dHBzOi8vYW1wLmV4cGFuc2lvbi5jb20vbWVyY2Fkb3MvMjAyNC8wNS8yNi82NjUzMWE5MTQ2OGFlYjU2MjE4YjQ1YmEuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T12:01:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "meinbezirk.at",
+            "title": "\"Imperio\": Auf der Mariahilfer Stra\u00dfe gibt es Mode direkt aus Italien - meinbezirk.at",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3Lm1laW5iZXppcmsuYXQvbWFyaWFoaWxmL2Mtd2lydHNjaGFmdC9hdWYtZGVyLW1hcmlhaGlsZmVyLXN0cmFzc2UtZ2lidC1lcy1tb2RlLWRpcmVrdC1hdXMtaXRhbGllbl9hNjcwMzU3N9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T12:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CHIP Online Deutschland",
+            "title": "Insolvente Modekette schlie\u00dft Filialen: Warum die Staatsanwaltschaft eingreift - CHIP Online Deutschland",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmNoaXAuZGUvbmV3cy9TdGFhdHNhbndhbHRzY2hhZnQtbmltbXQtaW5zb2x2ZW50ZS1Nb2Rla2V0dGUtbmFjaC1GaWxpYWxzY2hsaWVzc3VuZ2VuLWlucy1WaXNpZXJfMTg1Mjc4NTg5Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:59:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Infobae Espa\u00f1a",
+            "title": "Super Once: esta es la combinaci\u00f3n ganadora del sorteo del 26 mayo - Infobae Espa\u00f1a",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2VzcGFuYS8yMDI0LzA1LzI2L3N1cGVyLW9uY2UtZXN0YS1lcy1sYS1jb21iaW5hY2lvbi1nYW5hZG9yYS1kZWwtc29ydGVvLWRlbC0yNi1tYXlvL9IBgAFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9lc3BhbmEvMjAyNC8wNS8yNi9zdXBlci1vbmNlLWVzdGEtZXMtbGEtY29tYmluYWNpb24tZ2FuYWRvcmEtZGVsLXNvcnRlby1kZWwtMjYtbWF5by8_b3V0cHV0VHlwZT1hbXAtdHlwZQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "FRANCE 24 Espa\u00f1ol",
+            "title": "Musk planea construir el supercomputador m\u00e1s grande de la historia para su empresa de IA - FRANCE 24 Espa\u00f1ol",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZXMvbWludXRvLWEtbWludXRvLzIwMjQwNTI2LW11c2stcGxhbmVhLWNvbnN0cnVpci1lbC1zdXBlcmNvbXB1dGFkb3ItbSVDMyVBMXMtZ3JhbmRlLWRlLWxhLWhpc3RvcmlhLXBhcmEtc3UtZW1wcmVzYS1kZS1pYdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:39:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "noticiasmanha.com.br",
+            "title": "Fa\u00e7a isso e suspenda de uma vez por todas as parcelas do seu Empr\u00e9stimo Consignado - noticiasmanha.com.br",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm5vdGljaWFzbWFuaGEuY29tLmJyLzIwMjQvMDUvMjYvbm90aWNpYXMvcGFyY2VsYXMtY29uc2lnbmFkby_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:38:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Infobae Espa\u00f1a",
+            "title": "Precio de la luz en Espa\u00f1a este lunes - Infobae Espa\u00f1a",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2VzcGFuYS8yMDI0LzA1LzI2L3ByZWNpby1kZS1sYS1sdXotZW4tZXNwYW5hLWVzdGUtbHVuZXMv0gFkaHR0cHM6Ly93d3cuaW5mb2JhZS5jb20vZXNwYW5hLzIwMjQvMDUvMjYvcHJlY2lvLWRlLWxhLWx1ei1lbi1lc3BhbmEtZXN0ZS1sdW5lcy8_b3V0cHV0VHlwZT1hbXAtdHlwZQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:33:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "infobae",
+            "title": "Criptomonedas: cu\u00e1l es la cotizaci\u00f3n de terra este 26 de mayo - infobae",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmluZm9iYWUuY29tL25vdGljaWFzLzIwMjQvMDUvMjYvY3JpcHRvbW9uZWRhcy1jdWFsLWVzLWxhLWNvdGl6YWNpb24tZGUtdGVycmEtZXN0ZS0yNi1kZS1tYXlvL9IBfWh0dHBzOi8vd3d3LmluZm9iYWUuY29tL25vdGljaWFzLzIwMjQvMDUvMjYvY3JpcHRvbW9uZWRhcy1jdWFsLWVzLWxhLWNvdGl6YWNpb24tZGUtdGVycmEtZXN0ZS0yNi1kZS1tYXlvLz9vdXRwdXRUeXBlPWFtcC10eXBl?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:26:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "infobae",
+            "title": "Jugada ganadora y resultado del \u00faltimo sorteo de la Primitiva - infobae",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmluZm9iYWUuY29tL2VzcGFuYS8yMDI0LzA1LzI2L2p1Z2FkYS1nYW5hZG9yYS15LXJlc3VsdGFkby1kZWwtdWx0aW1vLXNvcnRlby1kZS1sYS1wcmltaXRpdmEv0gF8aHR0cHM6Ly93d3cuaW5mb2JhZS5jb20vZXNwYW5hLzIwMjQvMDUvMjYvanVnYWRhLWdhbmFkb3JhLXktcmVzdWx0YWRvLWRlbC11bHRpbW8tc29ydGVvLWRlLWxhLXByaW1pdGl2YS8_b3V0cHV0VHlwZT1hbXAtdHlwZQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:19:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "infobae",
+            "title": "El ajo de San Juan conquista Estados Unidos - infobae",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmluZm9iYWUuY29tL3JldmlzdGEtY2hhY3JhLzIwMjQvMDUvMjYvZWwtYWpvLWRlLXNhbi1qdWFuLWNvbnF1aXN0YS1lc3RhZG9zLXVuaWRvcy_SAXJodHRwczovL3d3dy5pbmZvYmFlLmNvbS9yZXZpc3RhLWNoYWNyYS8yMDI0LzA1LzI2L2VsLWFqby1kZS1zYW4tanVhbi1jb25xdWlzdGEtZXN0YWRvcy11bmlkb3MvP291dHB1dFR5cGU9YW1wLXR5cGU?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:17:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Typosthes",
+            "title": "RYANAIR: \u00ab\u0386\u03bd\u03bf\u03b9\u03be\u03b5\u00bb \u03b5\u03b9\u03c3\u03b9\u03c4\u03ae\u03c1\u03b9\u03b1 \u03b1\u03c0\u03cc 13 \u03b5\u03c5\u03c1\u03ce \u03b3\u03b9\u03b1 33 \u03c0\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 - Typosthes",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnR5cG9zdGhlcy5nci9vaWtvbm9taWEvMzUyMTE5X3J5YW5haXItYW5vaXhlLWVpc2l0aXJpYS1hcG8tMTMtZXlyby1naWEtMzMtcHRpc2Vpcy1hcG8tdGhlc3NhbG9uaWtp0gFyaHR0cHM6Ly93d3cudHlwb3N0aGVzLmdyL29pa29ub21pYS8zNTIxMTlfcnlhbmFpci1hbm9peGUtZWlzaXRpcmlhLWFwby0xMy1leXJvLWdpYS0zMy1wdGlzZWlzLWFwby10aGVzc2Fsb25pa2k_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "n-tv NACHRICHTEN",
+            "title": "E-Auto-Fieber \"k\u00fchlt ab, weil der Kunde nicht reagiert\" - n-tv NACHRICHTEN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm4tdHYuZGUvbWVkaWF0aGVrL3ZpZGVvcy93aXJ0c2NoYWZ0L0UtQXV0by1GaWViZXIta3VlaGx0LWFiLXdlaWwtZGVyLUt1bmRlLW5pY2h0LXJlYWdpZXJ0LWFydGljbGUyNDk2NTc3MS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:09:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u00c9conomie Matin",
+            "title": "International : la Chine est-elle un pilier de l'industrie verte mondiale ? - \u00c9conomie Matin",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmVjb25vbWllbWF0aW4uZnIvaW5kdXN0cmllLWNoaW5lLWVjb2xvZ2llLTIwMjQwNTI20gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:00:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "N\u00d6N.at",
+            "title": "Neuer Eigent\u00fcmer - Leobendorf: Die Kurvenbar bl\u00fcht wieder auf - N\u00d6N.at",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5vZW4uYXQva29ybmV1YnVyZy9uZXVlci1laWdlbnR1ZW1lci1sZW9iZW5kb3JmLWRpZS1rdXJ2ZW5iYXItYmx1ZWh0LXdpZWRlci1hdWYtNDIzMjEyNjEx0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ELLE",
+            "title": "12 recetas de fondue muy ricas, f\u00e1ciles y perfectas para compartir para los amantes del queso - ELLE",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmVsbGUuY29tL2VzL2dvdXJtZXQvcmVjZXRhcy1jb2NpbmEvZzYwMDc5MDQwL2ZvbmR1ZS1yZWNldGFzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T10:58:21Z",
+            "content": null
+        }
+    ]
+}
