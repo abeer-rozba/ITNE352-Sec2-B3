@@ -54,7 +54,7 @@ while True:
                                  "Australia": "au", "United Arab Emirates": "ae", "United Kingdom": "gb", "Canada": "ca"}
                 for country in country_codes:
                     print(country)
-                country_name = input("Enter the country: " ).lower()
+                country_name = input("Enter the country: " ).title()
                 if country_name not in country_codes:
                     print(" Country is not included. Try again.")
                 else:
@@ -92,7 +92,7 @@ while True:
                                 "Australia": "au", "United Arab Emirates": "ae", "United Kingdom": "gb", "Canada": "ca"}
                 for country in country_codes:
                     print(country)
-                country_name = input("Enter the country: " ).lower()
+                country_name = input("Enter the country: " ).title()
                 if country_name not in country_codes:
                     print(" Country is not included. Try again.")
                 else:
